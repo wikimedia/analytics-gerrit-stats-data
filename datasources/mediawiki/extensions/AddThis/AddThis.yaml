@@ -1,0 +1,36 @@
+id: mediawiki/extensions/AddThis
+name: mediawiki/extensions/AddThis
+shortName: Codereview stats for mediawiki/extensions/AddThis
+format: csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AddThis/AddThis.csv
+
+timespan:
+    end: 2012/7/10
+    start: 2012/4/6
+    step: 1d
+
+columns:
+    labels:
+    - Date
+    - date
+    - commits
+    - self_review
+    - time_first_review_staff
+    - time_first_review_total
+    - time_first_review_volunteer
+    - time_plus2_staff
+    - time_plus2_total
+    - time_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
