@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Commentbox/Commentbox.csv
 
 timespan:
-    end: 2012/7/10
+    end: 2012/7/11
     start: 2012/4/6
     step: 1d
 
