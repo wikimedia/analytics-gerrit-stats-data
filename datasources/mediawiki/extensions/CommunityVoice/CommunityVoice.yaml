@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CommunityVoice/CommunityVoice.csv
 
 timespan:
-    end: 2012/7/25
+    end: 2012/7/26
     start: 2012/3/23
     step: 1d
 

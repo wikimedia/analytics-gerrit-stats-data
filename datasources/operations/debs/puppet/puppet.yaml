@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/operations/debs/puppet/puppet.csv
 
 timespan:
-    end: 2012/7/25
+    end: 2012/7/26
     start: 2011/11/30
     step: 1d
 
