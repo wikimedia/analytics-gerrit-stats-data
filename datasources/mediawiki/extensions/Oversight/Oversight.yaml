@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Oversight/Oversight.csv
 
 timespan:
-    end: 2012/7/26
+    end: 2012/7/27
     start: 2012/3/23
     step: 1d
 
