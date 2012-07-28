@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/analytics/analytics.csv
 
 timespan:
-    end: 2012/7/27
+    end: 2012/7/28
     start: 2012/1/23
     step: 1d
 
