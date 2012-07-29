@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/intersection/intersection.csv
 
 timespan:
-    end: 2012/7/28
+    end: 2012/7/29
     start: 2012/3/23
     step: 1d
 

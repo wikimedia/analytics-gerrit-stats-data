@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/operations/debs/lucene-search-2/lucene-search-2.csv
 
 timespan:
-    end: 2012/7/28
+    end: 2012/7/29
     start: 2012/5/30
     step: 1d
 
