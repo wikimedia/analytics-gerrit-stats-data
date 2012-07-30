@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/GoogleAdSense/GoogleAdSense.csv
 
 timespan:
-    end: 2012/7/29
+    end: 2012/7/30
     start: 2012/6/21
     step: 1d
 
