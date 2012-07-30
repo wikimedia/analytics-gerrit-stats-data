@@ -1,5 +1,7 @@
 {
     "name": "Gerrit Stats",
+    "headline": "Code Review Activity",
+    "subhead": "Gerrit Stats",
     "tabs": [
         {
             "name": "Core", 
