@@ -1,8 +1,8 @@
-id: mediawiki/extensions/DeviceMapLogCapture
-name: mediawiki/extensions/DeviceMapLogCapture
-shortName: Codereview stats for mediawiki/extensions/DeviceMapLogCapture
+id: mediawiki_extensions_DeviceMapLogCapture
+shortName: mediawiki/extensions/DeviceMapLogCapture
+name: Codereview stats for mediawiki/extensions/DeviceMapLogCapture
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DeviceMapLogCapture/DeviceMapLogCapture.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/DeviceMapLogCapture/DeviceMapLogCapture.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

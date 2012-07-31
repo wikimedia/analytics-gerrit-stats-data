@@ -1,8 +1,8 @@
-id: mediawiki/extensions/SolrStore
-name: mediawiki/extensions/SolrStore
-shortName: Codereview stats for mediawiki/extensions/SolrStore
+id: mediawiki_extensions_SolrStore
+shortName: mediawiki/extensions/SolrStore
+name: Codereview stats for mediawiki/extensions/SolrStore
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SolrStore/SolrStore.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/SolrStore/SolrStore.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

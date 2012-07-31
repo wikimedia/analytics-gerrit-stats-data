@@ -1,8 +1,8 @@
-id: operations/debs/lucene-search-2
-name: operations/debs/lucene-search-2
-shortName: Codereview stats for operations/debs/lucene-search-2
+id: operations_debs_lucene-search-2
+shortName: operations/debs/lucene-search-2
+name: Codereview stats for operations/debs/lucene-search-2
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/lucene-search-2/lucene-search-2.csv
+url: /data/datafiles/gerrit-stats/operations/debs/lucene-search-2/lucene-search-2.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

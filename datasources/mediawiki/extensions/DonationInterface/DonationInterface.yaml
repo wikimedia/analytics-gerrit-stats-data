@@ -1,8 +1,8 @@
-id: mediawiki/extensions/DonationInterface
-name: mediawiki/extensions/DonationInterface
-shortName: Codereview stats for mediawiki/extensions/DonationInterface
+id: mediawiki_extensions_DonationInterface
+shortName: mediawiki/extensions/DonationInterface
+name: Codereview stats for mediawiki/extensions/DonationInterface
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DonationInterface/DonationInterface.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/DonationInterface/DonationInterface.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

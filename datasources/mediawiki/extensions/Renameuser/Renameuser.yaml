@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Renameuser
-name: mediawiki/extensions/Renameuser
-shortName: Codereview stats for mediawiki/extensions/Renameuser
+id: mediawiki_extensions_Renameuser
+shortName: mediawiki/extensions/Renameuser
+name: Codereview stats for mediawiki/extensions/Renameuser
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Renameuser/Renameuser.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Renameuser/Renameuser.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

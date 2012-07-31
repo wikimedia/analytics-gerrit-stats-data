@@ -1,8 +1,8 @@
-id: mediawiki/extensions/CSS
-name: mediawiki/extensions/CSS
-shortName: Codereview stats for mediawiki/extensions/CSS
+id: mediawiki_extensions_CSS
+shortName: mediawiki/extensions/CSS
+name: Codereview stats for mediawiki/extensions/CSS
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CSS/CSS.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/CSS/CSS.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

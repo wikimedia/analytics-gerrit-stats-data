@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ArticleCreationWorkflow
-name: mediawiki/extensions/ArticleCreationWorkflow
-shortName: Codereview stats for mediawiki/extensions/ArticleCreationWorkflow
+id: mediawiki_extensions_ArticleCreationWorkflow
+shortName: mediawiki/extensions/ArticleCreationWorkflow
+name: Codereview stats for mediawiki/extensions/ArticleCreationWorkflow
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ArticleCreationWorkflow/ArticleCreationWorkflow.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ArticleCreationWorkflow/ArticleCreationWorkflow.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

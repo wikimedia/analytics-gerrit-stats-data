@@ -1,8 +1,8 @@
-id: mediawiki/extensions/MobileFrontend
-name: mediawiki/extensions/MobileFrontend
-shortName: Codereview stats for mediawiki/extensions/MobileFrontend
+id: mediawiki_extensions_MobileFrontend
+shortName: mediawiki/extensions/MobileFrontend
+name: Codereview stats for mediawiki/extensions/MobileFrontend
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/MobileFrontend/MobileFrontend.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/MobileFrontend/MobileFrontend.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

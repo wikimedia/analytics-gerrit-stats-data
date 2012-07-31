@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Interwiki
-name: mediawiki/extensions/Interwiki
-shortName: Codereview stats for mediawiki/extensions/Interwiki
+id: mediawiki_extensions_Interwiki
+shortName: mediawiki/extensions/Interwiki
+name: Codereview stats for mediawiki/extensions/Interwiki
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Interwiki/Interwiki.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Interwiki/Interwiki.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

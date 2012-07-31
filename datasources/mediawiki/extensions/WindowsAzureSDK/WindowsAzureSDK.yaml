@@ -1,8 +1,8 @@
-id: mediawiki/extensions/WindowsAzureSDK
-name: mediawiki/extensions/WindowsAzureSDK
-shortName: Codereview stats for mediawiki/extensions/WindowsAzureSDK
+id: mediawiki_extensions_WindowsAzureSDK
+shortName: mediawiki/extensions/WindowsAzureSDK
+name: Codereview stats for mediawiki/extensions/WindowsAzureSDK
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WindowsAzureSDK/WindowsAzureSDK.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/WindowsAzureSDK/WindowsAzureSDK.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

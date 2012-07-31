@@ -1,8 +1,8 @@
-id: mediawiki/extensions/CreditTab
-name: mediawiki/extensions/CreditTab
-shortName: Codereview stats for mediawiki/extensions/CreditTab
+id: mediawiki_extensions_CreditTab
+shortName: mediawiki/extensions/CreditTab
+name: Codereview stats for mediawiki/extensions/CreditTab
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CreditTab/CreditTab.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/CreditTab/CreditTab.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

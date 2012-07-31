@@ -1,8 +1,8 @@
-id: mediawiki/extensions/CreatePage
-name: mediawiki/extensions/CreatePage
-shortName: Codereview stats for mediawiki/extensions/CreatePage
+id: mediawiki_extensions_CreatePage
+shortName: mediawiki/extensions/CreatePage
+name: Codereview stats for mediawiki/extensions/CreatePage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CreatePage/CreatePage.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/CreatePage/CreatePage.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

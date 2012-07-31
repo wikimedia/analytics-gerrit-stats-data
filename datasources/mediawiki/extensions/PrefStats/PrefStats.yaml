@@ -1,8 +1,8 @@
-id: mediawiki/extensions/PrefStats
-name: mediawiki/extensions/PrefStats
-shortName: Codereview stats for mediawiki/extensions/PrefStats
+id: mediawiki_extensions_PrefStats
+shortName: mediawiki/extensions/PrefStats
+name: Codereview stats for mediawiki/extensions/PrefStats
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PrefStats/PrefStats.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/PrefStats/PrefStats.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

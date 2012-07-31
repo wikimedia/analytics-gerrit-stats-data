@@ -1,8 +1,8 @@
-id: mediawiki/extensions/CustomUserSignup
-name: mediawiki/extensions/CustomUserSignup
-shortName: Codereview stats for mediawiki/extensions/CustomUserSignup
+id: mediawiki_extensions_CustomUserSignup
+shortName: mediawiki/extensions/CustomUserSignup
+name: Codereview stats for mediawiki/extensions/CustomUserSignup
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CustomUserSignup/CustomUserSignup.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/CustomUserSignup/CustomUserSignup.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

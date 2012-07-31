@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Vector
-name: mediawiki/extensions/Vector
-shortName: Codereview stats for mediawiki/extensions/Vector
+id: mediawiki_extensions_Vector
+shortName: mediawiki/extensions/Vector
+name: Codereview stats for mediawiki/extensions/Vector
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Vector/Vector.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Vector/Vector.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

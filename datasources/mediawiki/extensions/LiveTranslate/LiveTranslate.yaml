@@ -1,8 +1,8 @@
-id: mediawiki/extensions/LiveTranslate
-name: mediawiki/extensions/LiveTranslate
-shortName: Codereview stats for mediawiki/extensions/LiveTranslate
+id: mediawiki_extensions_LiveTranslate
+shortName: mediawiki/extensions/LiveTranslate
+name: Codereview stats for mediawiki/extensions/LiveTranslate
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/LiveTranslate/LiveTranslate.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/LiveTranslate/LiveTranslate.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,8 +1,8 @@
-id: mediawiki/extensions/SemanticMaps
-name: mediawiki/extensions/SemanticMaps
-shortName: Codereview stats for mediawiki/extensions/SemanticMaps
+id: mediawiki_extensions_SemanticMaps
+shortName: mediawiki/extensions/SemanticMaps
+name: Codereview stats for mediawiki/extensions/SemanticMaps
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticMaps/SemanticMaps.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/SemanticMaps/SemanticMaps.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

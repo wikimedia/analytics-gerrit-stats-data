@@ -1,8 +1,8 @@
-id: mediawiki/extensions/wikidiff2
-name: mediawiki/extensions/wikidiff2
-shortName: Codereview stats for mediawiki/extensions/wikidiff2
+id: mediawiki_extensions_wikidiff2
+shortName: mediawiki/extensions/wikidiff2
+name: Codereview stats for mediawiki/extensions/wikidiff2
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/wikidiff2/wikidiff2.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/wikidiff2/wikidiff2.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

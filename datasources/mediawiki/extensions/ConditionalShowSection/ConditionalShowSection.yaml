@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ConditionalShowSection
-name: mediawiki/extensions/ConditionalShowSection
-shortName: Codereview stats for mediawiki/extensions/ConditionalShowSection
+id: mediawiki_extensions_ConditionalShowSection
+shortName: mediawiki/extensions/ConditionalShowSection
+name: Codereview stats for mediawiki/extensions/ConditionalShowSection
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ConditionalShowSection/ConditionalShowSection.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ConditionalShowSection/ConditionalShowSection.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

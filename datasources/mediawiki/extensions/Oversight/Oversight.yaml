@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Oversight
-name: mediawiki/extensions/Oversight
-shortName: Codereview stats for mediawiki/extensions/Oversight
+id: mediawiki_extensions_Oversight
+shortName: mediawiki/extensions/Oversight
+name: Codereview stats for mediawiki/extensions/Oversight
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Oversight/Oversight.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Oversight/Oversight.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

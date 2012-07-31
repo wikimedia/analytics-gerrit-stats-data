@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Push
-name: mediawiki/extensions/Push
-shortName: Codereview stats for mediawiki/extensions/Push
+id: mediawiki_extensions_Push
+shortName: mediawiki/extensions/Push
+name: Codereview stats for mediawiki/extensions/Push
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Push/Push.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Push/Push.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

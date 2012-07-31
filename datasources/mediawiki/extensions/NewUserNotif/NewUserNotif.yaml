@@ -1,8 +1,8 @@
-id: mediawiki/extensions/NewUserNotif
-name: mediawiki/extensions/NewUserNotif
-shortName: Codereview stats for mediawiki/extensions/NewUserNotif
+id: mediawiki_extensions_NewUserNotif
+shortName: mediawiki/extensions/NewUserNotif
+name: Codereview stats for mediawiki/extensions/NewUserNotif
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/NewUserNotif/NewUserNotif.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/NewUserNotif/NewUserNotif.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

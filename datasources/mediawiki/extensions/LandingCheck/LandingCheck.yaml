@@ -1,8 +1,8 @@
-id: mediawiki/extensions/LandingCheck
-name: mediawiki/extensions/LandingCheck
-shortName: Codereview stats for mediawiki/extensions/LandingCheck
+id: mediawiki_extensions_LandingCheck
+shortName: mediawiki/extensions/LandingCheck
+name: Codereview stats for mediawiki/extensions/LandingCheck
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/LandingCheck/LandingCheck.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/LandingCheck/LandingCheck.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,8 +1,8 @@
-id: mediawiki/extensions/OnlineStatus
-name: mediawiki/extensions/OnlineStatus
-shortName: Codereview stats for mediawiki/extensions/OnlineStatus
+id: mediawiki_extensions_OnlineStatus
+shortName: mediawiki/extensions/OnlineStatus
+name: Codereview stats for mediawiki/extensions/OnlineStatus
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/OnlineStatus/OnlineStatus.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/OnlineStatus/OnlineStatus.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

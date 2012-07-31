@@ -1,8 +1,8 @@
-id: mediawiki/extensions/TitleKey
-name: mediawiki/extensions/TitleKey
-shortName: Codereview stats for mediawiki/extensions/TitleKey
+id: mediawiki_extensions_TitleKey
+shortName: mediawiki/extensions/TitleKey
+name: Codereview stats for mediawiki/extensions/TitleKey
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/TitleKey/TitleKey.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/TitleKey/TitleKey.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

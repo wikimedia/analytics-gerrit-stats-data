@@ -1,8 +1,8 @@
-id: mediawiki/extensions/WebFonts
-name: mediawiki/extensions/WebFonts
-shortName: Codereview stats for mediawiki/extensions/WebFonts
+id: mediawiki_extensions_WebFonts
+shortName: mediawiki/extensions/WebFonts
+name: Codereview stats for mediawiki/extensions/WebFonts
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WebFonts/WebFonts.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/WebFonts/WebFonts.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

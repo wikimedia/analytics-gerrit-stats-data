@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ReplaceText
-name: mediawiki/extensions/ReplaceText
-shortName: Codereview stats for mediawiki/extensions/ReplaceText
+id: mediawiki_extensions_ReplaceText
+shortName: mediawiki/extensions/ReplaceText
+name: Codereview stats for mediawiki/extensions/ReplaceText
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ReplaceText/ReplaceText.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ReplaceText/ReplaceText.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

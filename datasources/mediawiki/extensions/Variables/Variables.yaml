@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Variables
-name: mediawiki/extensions/Variables
-shortName: Codereview stats for mediawiki/extensions/Variables
+id: mediawiki_extensions_Variables
+shortName: mediawiki/extensions/Variables
+name: Codereview stats for mediawiki/extensions/Variables
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Variables/Variables.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Variables/Variables.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

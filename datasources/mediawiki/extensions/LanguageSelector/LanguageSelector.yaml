@@ -1,8 +1,8 @@
-id: mediawiki/extensions/LanguageSelector
-name: mediawiki/extensions/LanguageSelector
-shortName: Codereview stats for mediawiki/extensions/LanguageSelector
+id: mediawiki_extensions_LanguageSelector
+shortName: mediawiki/extensions/LanguageSelector
+name: Codereview stats for mediawiki/extensions/LanguageSelector
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/LanguageSelector/LanguageSelector.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/LanguageSelector/LanguageSelector.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

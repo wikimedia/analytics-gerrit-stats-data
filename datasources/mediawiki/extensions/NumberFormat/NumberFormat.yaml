@@ -1,8 +1,8 @@
-id: mediawiki/extensions/NumberFormat
-name: mediawiki/extensions/NumberFormat
-shortName: Codereview stats for mediawiki/extensions/NumberFormat
+id: mediawiki_extensions_NumberFormat
+shortName: mediawiki/extensions/NumberFormat
+name: Codereview stats for mediawiki/extensions/NumberFormat
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/NumberFormat/NumberFormat.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/NumberFormat/NumberFormat.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

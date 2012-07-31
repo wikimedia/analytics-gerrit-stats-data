@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ActiveAbstract
-name: mediawiki/extensions/ActiveAbstract
-shortName: Codereview stats for mediawiki/extensions/ActiveAbstract
+id: mediawiki_extensions_ActiveAbstract
+shortName: mediawiki/extensions/ActiveAbstract
+name: Codereview stats for mediawiki/extensions/ActiveAbstract
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ActiveAbstract/ActiveAbstract.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ActiveAbstract/ActiveAbstract.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

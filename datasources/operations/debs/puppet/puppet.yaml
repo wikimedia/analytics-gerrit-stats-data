@@ -1,8 +1,8 @@
-id: operations/debs/puppet
-name: operations/debs/puppet
-shortName: Codereview stats for operations/debs/puppet
+id: operations_debs_puppet
+shortName: operations/debs/puppet
+name: Codereview stats for operations/debs/puppet
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/puppet/puppet.csv
+url: /data/datafiles/gerrit-stats/operations/debs/puppet/puppet.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

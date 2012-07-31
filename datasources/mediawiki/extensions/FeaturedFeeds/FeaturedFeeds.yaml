@@ -1,8 +1,8 @@
-id: mediawiki/extensions/FeaturedFeeds
-name: mediawiki/extensions/FeaturedFeeds
-shortName: Codereview stats for mediawiki/extensions/FeaturedFeeds
+id: mediawiki_extensions_FeaturedFeeds
+shortName: mediawiki/extensions/FeaturedFeeds
+name: Codereview stats for mediawiki/extensions/FeaturedFeeds
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/FeaturedFeeds/FeaturedFeeds.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/FeaturedFeeds/FeaturedFeeds.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

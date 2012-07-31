@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ConfirmAccount
-name: mediawiki/extensions/ConfirmAccount
-shortName: Codereview stats for mediawiki/extensions/ConfirmAccount
+id: mediawiki_extensions_ConfirmAccount
+shortName: mediawiki/extensions/ConfirmAccount
+name: Codereview stats for mediawiki/extensions/ConfirmAccount
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ConfirmAccount/ConfirmAccount.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ConfirmAccount/ConfirmAccount.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

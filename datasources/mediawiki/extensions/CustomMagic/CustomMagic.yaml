@@ -1,8 +1,8 @@
-id: mediawiki/extensions/CustomMagic
-name: mediawiki/extensions/CustomMagic
-shortName: Codereview stats for mediawiki/extensions/CustomMagic
+id: mediawiki_extensions_CustomMagic
+shortName: mediawiki/extensions/CustomMagic
+name: Codereview stats for mediawiki/extensions/CustomMagic
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CustomMagic/CustomMagic.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/CustomMagic/CustomMagic.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,8 +1,8 @@
-id: mediawiki/extensions/HashTables
-name: mediawiki/extensions/HashTables
-shortName: Codereview stats for mediawiki/extensions/HashTables
+id: mediawiki_extensions_HashTables
+shortName: mediawiki/extensions/HashTables
+name: Codereview stats for mediawiki/extensions/HashTables
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/HashTables/HashTables.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/HashTables/HashTables.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

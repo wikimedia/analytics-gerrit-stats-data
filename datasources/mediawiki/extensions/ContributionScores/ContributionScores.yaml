@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ContributionScores
-name: mediawiki/extensions/ContributionScores
-shortName: Codereview stats for mediawiki/extensions/ContributionScores
+id: mediawiki_extensions_ContributionScores
+shortName: mediawiki/extensions/ContributionScores
+name: Codereview stats for mediawiki/extensions/ContributionScores
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ContributionScores/ContributionScores.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ContributionScores/ContributionScores.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

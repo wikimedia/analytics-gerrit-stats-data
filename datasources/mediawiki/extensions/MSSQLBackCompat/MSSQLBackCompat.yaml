@@ -1,8 +1,8 @@
-id: mediawiki/extensions/MSSQLBackCompat
-name: mediawiki/extensions/MSSQLBackCompat
-shortName: Codereview stats for mediawiki/extensions/MSSQLBackCompat
+id: mediawiki_extensions_MSSQLBackCompat
+shortName: mediawiki/extensions/MSSQLBackCompat
+name: Codereview stats for mediawiki/extensions/MSSQLBackCompat
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/MSSQLBackCompat/MSSQLBackCompat.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/MSSQLBackCompat/MSSQLBackCompat.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

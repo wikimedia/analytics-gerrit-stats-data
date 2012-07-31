@@ -1,8 +1,8 @@
-id: mediawiki/extensions/UnicodeConverter
-name: mediawiki/extensions/UnicodeConverter
-shortName: Codereview stats for mediawiki/extensions/UnicodeConverter
+id: mediawiki_extensions_UnicodeConverter
+shortName: mediawiki/extensions/UnicodeConverter
+name: Codereview stats for mediawiki/extensions/UnicodeConverter
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UnicodeConverter/UnicodeConverter.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/UnicodeConverter/UnicodeConverter.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

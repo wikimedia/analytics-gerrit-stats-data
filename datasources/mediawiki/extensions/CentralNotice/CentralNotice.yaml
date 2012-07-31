@@ -1,8 +1,8 @@
-id: mediawiki/extensions/CentralNotice
-name: mediawiki/extensions/CentralNotice
-shortName: Codereview stats for mediawiki/extensions/CentralNotice
+id: mediawiki_extensions_CentralNotice
+shortName: mediawiki/extensions/CentralNotice
+name: Codereview stats for mediawiki/extensions/CentralNotice
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CentralNotice/CentralNotice.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/CentralNotice/CentralNotice.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,8 +1,8 @@
-id: mediawiki/tools/mwdumper
-name: mediawiki/tools/mwdumper
-shortName: Codereview stats for mediawiki/tools/mwdumper
+id: mediawiki_tools_mwdumper
+shortName: mediawiki/tools/mwdumper
+name: Codereview stats for mediawiki/tools/mwdumper
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/tools/mwdumper/mwdumper.csv
+url: /data/datafiles/gerrit-stats/mediawiki/tools/mwdumper/mwdumper.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Ratings
-name: mediawiki/extensions/Ratings
-shortName: Codereview stats for mediawiki/extensions/Ratings
+id: mediawiki_extensions_Ratings
+shortName: mediawiki/extensions/Ratings
+name: Codereview stats for mediawiki/extensions/Ratings
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Ratings/Ratings.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Ratings/Ratings.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

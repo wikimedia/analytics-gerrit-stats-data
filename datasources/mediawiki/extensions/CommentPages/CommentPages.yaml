@@ -1,8 +1,8 @@
-id: mediawiki/extensions/CommentPages
-name: mediawiki/extensions/CommentPages
-shortName: Codereview stats for mediawiki/extensions/CommentPages
+id: mediawiki_extensions_CommentPages
+shortName: mediawiki/extensions/CommentPages
+name: Codereview stats for mediawiki/extensions/CommentPages
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CommentPages/CommentPages.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/CommentPages/CommentPages.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

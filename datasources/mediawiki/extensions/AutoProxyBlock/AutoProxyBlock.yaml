@@ -1,8 +1,8 @@
-id: mediawiki/extensions/AutoProxyBlock
-name: mediawiki/extensions/AutoProxyBlock
-shortName: Codereview stats for mediawiki/extensions/AutoProxyBlock
+id: mediawiki_extensions_AutoProxyBlock
+shortName: mediawiki/extensions/AutoProxyBlock
+name: Codereview stats for mediawiki/extensions/AutoProxyBlock
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AutoProxyBlock/AutoProxyBlock.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/AutoProxyBlock/AutoProxyBlock.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

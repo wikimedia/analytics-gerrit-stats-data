@@ -1,8 +1,8 @@
-id: operations/debs/wikistats
-name: operations/debs/wikistats
-shortName: Codereview stats for operations/debs/wikistats
+id: operations_debs_wikistats
+shortName: operations/debs/wikistats
+name: Codereview stats for operations/debs/wikistats
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/wikistats/wikistats.csv
+url: /data/datafiles/gerrit-stats/operations/debs/wikistats/wikistats.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

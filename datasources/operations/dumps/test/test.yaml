@@ -1,8 +1,8 @@
-id: operations/dumps/test
-name: operations/dumps/test
-shortName: Codereview stats for operations/dumps/test
+id: operations_dumps_test
+shortName: operations/dumps/test
+name: Codereview stats for operations/dumps/test
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/dumps/test/test.csv
+url: /data/datafiles/gerrit-stats/operations/dumps/test/test.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,8 +1,8 @@
-id: mediawiki/extensions/UserDailyContribs
-name: mediawiki/extensions/UserDailyContribs
-shortName: Codereview stats for mediawiki/extensions/UserDailyContribs
+id: mediawiki_extensions_UserDailyContribs
+shortName: mediawiki/extensions/UserDailyContribs
+name: Codereview stats for mediawiki/extensions/UserDailyContribs
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UserDailyContribs/UserDailyContribs.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/UserDailyContribs/UserDailyContribs.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

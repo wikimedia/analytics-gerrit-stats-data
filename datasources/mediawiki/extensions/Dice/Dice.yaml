@@ -1,8 +1,8 @@
-id: mediawiki/extensions/Dice
-name: mediawiki/extensions/Dice
-shortName: Codereview stats for mediawiki/extensions/Dice
+id: mediawiki_extensions_Dice
+shortName: mediawiki/extensions/Dice
+name: Codereview stats for mediawiki/extensions/Dice
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Dice/Dice.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/Dice/Dice.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

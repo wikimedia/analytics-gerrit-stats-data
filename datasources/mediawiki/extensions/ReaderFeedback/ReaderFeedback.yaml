@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ReaderFeedback
-name: mediawiki/extensions/ReaderFeedback
-shortName: Codereview stats for mediawiki/extensions/ReaderFeedback
+id: mediawiki_extensions_ReaderFeedback
+shortName: mediawiki/extensions/ReaderFeedback
+name: Codereview stats for mediawiki/extensions/ReaderFeedback
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ReaderFeedback/ReaderFeedback.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ReaderFeedback/ReaderFeedback.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,8 +1,8 @@
-id: mediawiki/extensions/timeline
-name: mediawiki/extensions/timeline
-shortName: Codereview stats for mediawiki/extensions/timeline
+id: mediawiki_extensions_timeline
+shortName: mediawiki/extensions/timeline
+name: Codereview stats for mediawiki/extensions/timeline
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/timeline/timeline.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/timeline/timeline.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

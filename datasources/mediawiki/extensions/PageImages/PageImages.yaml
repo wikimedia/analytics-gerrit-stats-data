@@ -1,8 +1,8 @@
-id: mediawiki/extensions/PageImages
-name: mediawiki/extensions/PageImages
-shortName: Codereview stats for mediawiki/extensions/PageImages
+id: mediawiki_extensions_PageImages
+shortName: mediawiki/extensions/PageImages
+name: Codereview stats for mediawiki/extensions/PageImages
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PageImages/PageImages.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/PageImages/PageImages.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

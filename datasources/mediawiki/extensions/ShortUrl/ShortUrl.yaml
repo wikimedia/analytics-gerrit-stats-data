@@ -1,8 +1,8 @@
-id: mediawiki/extensions/ShortUrl
-name: mediawiki/extensions/ShortUrl
-shortName: Codereview stats for mediawiki/extensions/ShortUrl
+id: mediawiki_extensions_ShortUrl
+shortName: mediawiki/extensions/ShortUrl
+name: Codereview stats for mediawiki/extensions/ShortUrl
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ShortUrl/ShortUrl.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/ShortUrl/ShortUrl.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

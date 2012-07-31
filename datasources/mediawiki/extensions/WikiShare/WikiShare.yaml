@@ -1,8 +1,8 @@
-id: mediawiki/extensions/WikiShare
-name: mediawiki/extensions/WikiShare
-shortName: Codereview stats for mediawiki/extensions/WikiShare
+id: mediawiki_extensions_WikiShare
+shortName: mediawiki/extensions/WikiShare
+name: Codereview stats for mediawiki/extensions/WikiShare
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikiShare/WikiShare.csv
+url: /data/datafiles/gerrit-stats/mediawiki/extensions/WikiShare/WikiShare.csv
 
 timespan:
     end: 2012/7/30
@@ -11,7 +11,6 @@ timespan:
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review
