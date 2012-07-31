@@ -1,16 +1,17 @@
-id: mediawiki_extensions_GoogleNewsSitemap
-shortName: mediawiki/extensions/GoogleNewsSitemap
-name: Codereview stats for mediawiki/extensions/GoogleNewsSitemap
+id: mediawiki/extensions/GoogleNewsSitemap
+name: mediawiki/extensions/GoogleNewsSitemap
+shortName: Codereview stats for mediawiki/extensions/GoogleNewsSitemap
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/GoogleNewsSitemap/GoogleNewsSitemap.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/GoogleNewsSitemap/GoogleNewsSitemap.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

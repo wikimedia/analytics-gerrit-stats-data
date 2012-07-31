@@ -1,16 +1,17 @@
-id: mediawiki_extensions_PageSchemas
-shortName: mediawiki/extensions/PageSchemas
-name: Codereview stats for mediawiki/extensions/PageSchemas
+id: mediawiki/extensions/PageSchemas
+name: mediawiki/extensions/PageSchemas
+shortName: Codereview stats for mediawiki/extensions/PageSchemas
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/PageSchemas/PageSchemas.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PageSchemas/PageSchemas.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

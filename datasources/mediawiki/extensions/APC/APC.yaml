@@ -1,16 +1,17 @@
-id: mediawiki_extensions_APC
-shortName: mediawiki/extensions/APC
-name: Codereview stats for mediawiki/extensions/APC
+id: mediawiki/extensions/APC
+name: mediawiki/extensions/APC
+shortName: Codereview stats for mediawiki/extensions/APC
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/APC/APC.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/APC/APC.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

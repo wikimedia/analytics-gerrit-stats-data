@@ -1,16 +1,17 @@
-id: mediawiki_tools_codesniffer
-shortName: mediawiki/tools/codesniffer
-name: Codereview stats for mediawiki/tools/codesniffer
+id: mediawiki/tools/codesniffer
+name: mediawiki/tools/codesniffer
+shortName: Codereview stats for mediawiki/tools/codesniffer
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/tools/codesniffer/codesniffer.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/tools/codesniffer/codesniffer.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/11
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

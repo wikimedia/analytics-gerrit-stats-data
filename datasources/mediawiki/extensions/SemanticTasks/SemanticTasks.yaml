@@ -1,16 +1,17 @@
-id: mediawiki_extensions_SemanticTasks
-shortName: mediawiki/extensions/SemanticTasks
-name: Codereview stats for mediawiki/extensions/SemanticTasks
+id: mediawiki/extensions/SemanticTasks
+name: mediawiki/extensions/SemanticTasks
+shortName: Codereview stats for mediawiki/extensions/SemanticTasks
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/SemanticTasks/SemanticTasks.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticTasks/SemanticTasks.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

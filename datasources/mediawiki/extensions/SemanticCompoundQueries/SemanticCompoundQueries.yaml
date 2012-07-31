@@ -1,16 +1,17 @@
-id: mediawiki_extensions_SemanticCompoundQueries
-shortName: mediawiki/extensions/SemanticCompoundQueries
-name: Codereview stats for mediawiki/extensions/SemanticCompoundQueries
+id: mediawiki/extensions/SemanticCompoundQueries
+name: mediawiki/extensions/SemanticCompoundQueries
+shortName: Codereview stats for mediawiki/extensions/SemanticCompoundQueries
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/SemanticCompoundQueries/SemanticCompoundQueries.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticCompoundQueries/SemanticCompoundQueries.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

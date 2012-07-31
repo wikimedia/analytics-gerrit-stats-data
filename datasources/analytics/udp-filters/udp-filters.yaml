@@ -1,16 +1,17 @@
-id: analytics_udp-filters
-shortName: analytics/udp-filters
-name: Codereview stats for analytics/udp-filters
+id: analytics/udp-filters
+name: analytics/udp-filters
+shortName: Codereview stats for analytics/udp-filters
 format: csv
-url: /data/datafiles/gerrit-stats/analytics/udp-filters/udp-filters.csv
+url: /data/datasources/gerrit-stats/datafiles/analytics/udp-filters/udp-filters.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/1/24
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

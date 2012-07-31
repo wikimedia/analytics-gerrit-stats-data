@@ -1,16 +1,17 @@
-id: wikimedia_orgchart
-shortName: wikimedia/orgchart
-name: Codereview stats for wikimedia/orgchart
+id: wikimedia/orgchart
+name: wikimedia/orgchart
+shortName: Codereview stats for wikimedia/orgchart
 format: csv
-url: /data/datafiles/gerrit-stats/wikimedia/orgchart/orgchart.csv
+url: /data/datasources/gerrit-stats/datafiles/wikimedia/orgchart/orgchart.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/21
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

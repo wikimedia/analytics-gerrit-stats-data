@@ -1,16 +1,17 @@
-id: mediawiki_extensions_ConfirmEdit
-shortName: mediawiki/extensions/ConfirmEdit
-name: Codereview stats for mediawiki/extensions/ConfirmEdit
+id: mediawiki/extensions/ConfirmEdit
+name: mediawiki/extensions/ConfirmEdit
+shortName: Codereview stats for mediawiki/extensions/ConfirmEdit
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/ConfirmEdit/ConfirmEdit.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ConfirmEdit/ConfirmEdit.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

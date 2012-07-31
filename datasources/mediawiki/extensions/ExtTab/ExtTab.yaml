@@ -1,16 +1,17 @@
-id: mediawiki_extensions_ExtTab
-shortName: mediawiki/extensions/ExtTab
-name: Codereview stats for mediawiki/extensions/ExtTab
+id: mediawiki/extensions/ExtTab
+name: mediawiki/extensions/ExtTab
+shortName: Codereview stats for mediawiki/extensions/ExtTab
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/ExtTab/ExtTab.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ExtTab/ExtTab.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

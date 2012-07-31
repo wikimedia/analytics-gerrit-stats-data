@@ -1,16 +1,17 @@
-id: operations_debs_wikimedia-job-runner
-shortName: operations/debs/wikimedia-job-runner
-name: Codereview stats for operations/debs/wikimedia-job-runner
+id: operations/debs/wikimedia-job-runner
+name: operations/debs/wikimedia-job-runner
+shortName: Codereview stats for operations/debs/wikimedia-job-runner
 format: csv
-url: /data/datafiles/gerrit-stats/operations/debs/wikimedia-job-runner/wikimedia-job-runner.csv
+url: /data/datasources/gerrit-stats/datafiles/operations/debs/wikimedia-job-runner/wikimedia-job-runner.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

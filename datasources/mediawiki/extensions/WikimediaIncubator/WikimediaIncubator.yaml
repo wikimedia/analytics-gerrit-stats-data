@@ -1,16 +1,17 @@
-id: mediawiki_extensions_WikimediaIncubator
-shortName: mediawiki/extensions/WikimediaIncubator
-name: Codereview stats for mediawiki/extensions/WikimediaIncubator
+id: mediawiki/extensions/WikimediaIncubator
+name: mediawiki/extensions/WikimediaIncubator
+shortName: Codereview stats for mediawiki/extensions/WikimediaIncubator
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/WikimediaIncubator/WikimediaIncubator.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikimediaIncubator/WikimediaIncubator.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

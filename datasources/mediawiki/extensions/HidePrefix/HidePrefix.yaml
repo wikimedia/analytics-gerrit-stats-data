@@ -1,16 +1,17 @@
-id: mediawiki_extensions_HidePrefix
-shortName: mediawiki/extensions/HidePrefix
-name: Codereview stats for mediawiki/extensions/HidePrefix
+id: mediawiki/extensions/HidePrefix
+name: mediawiki/extensions/HidePrefix
+shortName: Codereview stats for mediawiki/extensions/HidePrefix
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/HidePrefix/HidePrefix.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/HidePrefix/HidePrefix.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

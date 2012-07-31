@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Cite
-shortName: mediawiki/extensions/Cite
-name: Codereview stats for mediawiki/extensions/Cite
+id: mediawiki/extensions/Cite
+name: mediawiki/extensions/Cite
+shortName: Codereview stats for mediawiki/extensions/Cite
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Cite/Cite.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Cite/Cite.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

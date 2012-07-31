@@ -1,16 +1,17 @@
-id: mediawiki_extensions_DismissableSiteNotice
-shortName: mediawiki/extensions/DismissableSiteNotice
-name: Codereview stats for mediawiki/extensions/DismissableSiteNotice
+id: mediawiki/extensions/DismissableSiteNotice
+name: mediawiki/extensions/DismissableSiteNotice
+shortName: Codereview stats for mediawiki/extensions/DismissableSiteNotice
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/DismissableSiteNotice/DismissableSiteNotice.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DismissableSiteNotice/DismissableSiteNotice.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

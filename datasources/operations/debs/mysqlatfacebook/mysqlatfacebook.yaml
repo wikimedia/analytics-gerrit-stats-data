@@ -1,16 +1,17 @@
-id: operations_debs_mysqlatfacebook
-shortName: operations/debs/mysqlatfacebook
-name: Codereview stats for operations/debs/mysqlatfacebook
+id: operations/debs/mysqlatfacebook
+name: operations/debs/mysqlatfacebook
+shortName: Codereview stats for operations/debs/mysqlatfacebook
 format: csv
-url: /data/datafiles/gerrit-stats/operations/debs/mysqlatfacebook/mysqlatfacebook.csv
+url: /data/datasources/gerrit-stats/datafiles/operations/debs/mysqlatfacebook/mysqlatfacebook.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

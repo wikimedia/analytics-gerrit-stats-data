@@ -1,16 +1,17 @@
-id: mediawiki_extensions_StringFunctionsEscaped
-shortName: mediawiki/extensions/StringFunctionsEscaped
-name: Codereview stats for mediawiki/extensions/StringFunctionsEscaped
+id: mediawiki/extensions/StringFunctionsEscaped
+name: mediawiki/extensions/StringFunctionsEscaped
+shortName: Codereview stats for mediawiki/extensions/StringFunctionsEscaped
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/StringFunctionsEscaped/StringFunctionsEscaped.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/StringFunctionsEscaped/StringFunctionsEscaped.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

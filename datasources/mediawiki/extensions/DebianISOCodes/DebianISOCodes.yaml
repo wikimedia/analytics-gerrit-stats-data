@@ -1,16 +1,17 @@
-id: mediawiki_extensions_DebianISOCodes
-shortName: mediawiki/extensions/DebianISOCodes
-name: Codereview stats for mediawiki/extensions/DebianISOCodes
+id: mediawiki/extensions/DebianISOCodes
+name: mediawiki/extensions/DebianISOCodes
+shortName: Codereview stats for mediawiki/extensions/DebianISOCodes
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/DebianISOCodes/DebianISOCodes.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DebianISOCodes/DebianISOCodes.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

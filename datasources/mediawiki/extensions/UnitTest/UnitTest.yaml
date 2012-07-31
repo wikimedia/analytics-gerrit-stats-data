@@ -1,16 +1,17 @@
-id: mediawiki_extensions_UnitTest
-shortName: mediawiki/extensions/UnitTest
-name: Codereview stats for mediawiki/extensions/UnitTest
+id: mediawiki/extensions/UnitTest
+name: mediawiki/extensions/UnitTest
+shortName: Codereview stats for mediawiki/extensions/UnitTest
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/UnitTest/UnitTest.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UnitTest/UnitTest.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

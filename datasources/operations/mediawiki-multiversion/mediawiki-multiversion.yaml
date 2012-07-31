@@ -1,16 +1,17 @@
-id: operations_mediawiki-multiversion
-shortName: operations/mediawiki-multiversion
-name: Codereview stats for operations/mediawiki-multiversion
+id: operations/mediawiki-multiversion
+name: operations/mediawiki-multiversion
+shortName: Codereview stats for operations/mediawiki-multiversion
 format: csv
-url: /data/datafiles/gerrit-stats/operations/mediawiki-multiversion/mediawiki-multiversion.csv
+url: /data/datasources/gerrit-stats/datafiles/operations/mediawiki-multiversion/mediawiki-multiversion.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/7/9
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

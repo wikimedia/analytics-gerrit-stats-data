@@ -1,16 +1,17 @@
-id: operations_mediawiki-config
-shortName: operations/mediawiki-config
-name: Codereview stats for operations/mediawiki-config
+id: operations/mediawiki-config
+name: operations/mediawiki-config
+shortName: Codereview stats for operations/mediawiki-config
 format: csv
-url: /data/datafiles/gerrit-stats/operations/mediawiki-config/mediawiki-config.csv
+url: /data/datasources/gerrit-stats/datafiles/operations/mediawiki-config/mediawiki-config.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/2/25
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

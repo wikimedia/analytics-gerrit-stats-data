@@ -1,16 +1,17 @@
-id: mediawiki_extensions_GraphViz
-shortName: mediawiki/extensions/GraphViz
-name: Codereview stats for mediawiki/extensions/GraphViz
+id: mediawiki/extensions/GraphViz
+name: mediawiki/extensions/GraphViz
+shortName: Codereview stats for mediawiki/extensions/GraphViz
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/GraphViz/GraphViz.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/GraphViz/GraphViz.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

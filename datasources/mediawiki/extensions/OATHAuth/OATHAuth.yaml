@@ -1,16 +1,17 @@
-id: mediawiki_extensions_OATHAuth
-shortName: mediawiki/extensions/OATHAuth
-name: Codereview stats for mediawiki/extensions/OATHAuth
+id: mediawiki/extensions/OATHAuth
+name: mediawiki/extensions/OATHAuth
+shortName: Codereview stats for mediawiki/extensions/OATHAuth
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/OATHAuth/OATHAuth.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/OATHAuth/OATHAuth.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/7
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

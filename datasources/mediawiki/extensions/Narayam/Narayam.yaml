@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Narayam
-shortName: mediawiki/extensions/Narayam
-name: Codereview stats for mediawiki/extensions/Narayam
+id: mediawiki/extensions/Narayam
+name: mediawiki/extensions/Narayam
+shortName: Codereview stats for mediawiki/extensions/Narayam
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Narayam/Narayam.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Narayam/Narayam.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

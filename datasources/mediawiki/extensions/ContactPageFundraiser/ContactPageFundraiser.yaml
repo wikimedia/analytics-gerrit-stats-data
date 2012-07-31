@@ -1,16 +1,17 @@
-id: mediawiki_extensions_ContactPageFundraiser
-shortName: mediawiki/extensions/ContactPageFundraiser
-name: Codereview stats for mediawiki/extensions/ContactPageFundraiser
+id: mediawiki/extensions/ContactPageFundraiser
+name: mediawiki/extensions/ContactPageFundraiser
+shortName: Codereview stats for mediawiki/extensions/ContactPageFundraiser
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/ContactPageFundraiser/ContactPageFundraiser.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ContactPageFundraiser/ContactPageFundraiser.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

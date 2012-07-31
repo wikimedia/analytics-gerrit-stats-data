@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Genderize
-shortName: mediawiki/extensions/Genderize
-name: Codereview stats for mediawiki/extensions/Genderize
+id: mediawiki/extensions/Genderize
+name: mediawiki/extensions/Genderize
+shortName: Codereview stats for mediawiki/extensions/Genderize
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Genderize/Genderize.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Genderize/Genderize.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

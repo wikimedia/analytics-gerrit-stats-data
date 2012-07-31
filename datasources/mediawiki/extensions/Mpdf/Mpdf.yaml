@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Mpdf
-shortName: mediawiki/extensions/Mpdf
-name: Codereview stats for mediawiki/extensions/Mpdf
+id: mediawiki/extensions/Mpdf
+name: mediawiki/extensions/Mpdf
+shortName: Codereview stats for mediawiki/extensions/Mpdf
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Mpdf/Mpdf.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Mpdf/Mpdf.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/7/20
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

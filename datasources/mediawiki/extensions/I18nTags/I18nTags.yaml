@@ -1,16 +1,17 @@
-id: mediawiki_extensions_I18nTags
-shortName: mediawiki/extensions/I18nTags
-name: Codereview stats for mediawiki/extensions/I18nTags
+id: mediawiki/extensions/I18nTags
+name: mediawiki/extensions/I18nTags
+shortName: Codereview stats for mediawiki/extensions/I18nTags
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/I18nTags/I18nTags.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/I18nTags/I18nTags.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

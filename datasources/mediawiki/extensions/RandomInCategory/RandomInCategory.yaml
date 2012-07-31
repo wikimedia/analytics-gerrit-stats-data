@@ -1,16 +1,17 @@
-id: mediawiki_extensions_RandomInCategory
-shortName: mediawiki/extensions/RandomInCategory
-name: Codereview stats for mediawiki/extensions/RandomInCategory
+id: mediawiki/extensions/RandomInCategory
+name: mediawiki/extensions/RandomInCategory
+shortName: Codereview stats for mediawiki/extensions/RandomInCategory
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/RandomInCategory/RandomInCategory.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/RandomInCategory/RandomInCategory.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

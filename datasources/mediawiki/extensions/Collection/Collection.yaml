@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Collection
-shortName: mediawiki/extensions/Collection
-name: Codereview stats for mediawiki/extensions/Collection
+id: mediawiki/extensions/Collection
+name: mediawiki/extensions/Collection
+shortName: Codereview stats for mediawiki/extensions/Collection
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Collection/Collection.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Collection/Collection.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

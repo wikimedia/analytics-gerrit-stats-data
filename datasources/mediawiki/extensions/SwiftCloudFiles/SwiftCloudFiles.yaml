@@ -1,16 +1,17 @@
-id: mediawiki_extensions_SwiftCloudFiles
-shortName: mediawiki/extensions/SwiftCloudFiles
-name: Codereview stats for mediawiki/extensions/SwiftCloudFiles
+id: mediawiki/extensions/SwiftCloudFiles
+name: mediawiki/extensions/SwiftCloudFiles
+shortName: Codereview stats for mediawiki/extensions/SwiftCloudFiles
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/SwiftCloudFiles/SwiftCloudFiles.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SwiftCloudFiles/SwiftCloudFiles.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

@@ -1,16 +1,17 @@
-id: mediawiki_extensions_SemanticACL
-shortName: mediawiki/extensions/SemanticACL
-name: Codereview stats for mediawiki/extensions/SemanticACL
+id: mediawiki/extensions/SemanticACL
+name: mediawiki/extensions/SemanticACL
+shortName: Codereview stats for mediawiki/extensions/SemanticACL
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/SemanticACL/SemanticACL.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticACL/SemanticACL.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

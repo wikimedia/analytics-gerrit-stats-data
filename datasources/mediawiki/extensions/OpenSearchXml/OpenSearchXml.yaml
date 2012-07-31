@@ -1,16 +1,17 @@
-id: mediawiki_extensions_OpenSearchXml
-shortName: mediawiki/extensions/OpenSearchXml
-name: Codereview stats for mediawiki/extensions/OpenSearchXml
+id: mediawiki/extensions/OpenSearchXml
+name: mediawiki/extensions/OpenSearchXml
+shortName: Codereview stats for mediawiki/extensions/OpenSearchXml
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/OpenSearchXml/OpenSearchXml.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/OpenSearchXml/OpenSearchXml.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

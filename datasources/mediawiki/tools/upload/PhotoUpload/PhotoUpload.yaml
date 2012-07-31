@@ -1,16 +1,17 @@
-id: mediawiki_tools_upload_PhotoUpload
-shortName: mediawiki/tools/upload/PhotoUpload
-name: Codereview stats for mediawiki/tools/upload/PhotoUpload
+id: mediawiki/tools/upload/PhotoUpload
+name: mediawiki/tools/upload/PhotoUpload
+shortName: Codereview stats for mediawiki/tools/upload/PhotoUpload
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/tools/upload/PhotoUpload/PhotoUpload.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/tools/upload/PhotoUpload/PhotoUpload.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

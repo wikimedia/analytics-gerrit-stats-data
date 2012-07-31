@@ -1,16 +1,17 @@
-id: mediawiki_extensions_ArticleFeedback
-shortName: mediawiki/extensions/ArticleFeedback
-name: Codereview stats for mediawiki/extensions/ArticleFeedback
+id: mediawiki/extensions/ArticleFeedback
+name: mediawiki/extensions/ArticleFeedback
+shortName: Codereview stats for mediawiki/extensions/ArticleFeedback
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/ArticleFeedback/ArticleFeedback.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ArticleFeedback/ArticleFeedback.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

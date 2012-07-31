@@ -1,16 +1,17 @@
-id: mediawiki_extensions_TorBlock
-shortName: mediawiki/extensions/TorBlock
-name: Codereview stats for mediawiki/extensions/TorBlock
+id: mediawiki/extensions/TorBlock
+name: mediawiki/extensions/TorBlock
+shortName: Codereview stats for mediawiki/extensions/TorBlock
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/TorBlock/TorBlock.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/TorBlock/TorBlock.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

@@ -1,16 +1,17 @@
-id: mediawiki_extensions_WikibaseLib
-shortName: mediawiki/extensions/WikibaseLib
-name: Codereview stats for mediawiki/extensions/WikibaseLib
+id: mediawiki/extensions/WikibaseLib
+name: mediawiki/extensions/WikibaseLib
+shortName: Codereview stats for mediawiki/extensions/WikibaseLib
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/WikibaseLib/WikibaseLib.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikibaseLib/WikibaseLib.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/9
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

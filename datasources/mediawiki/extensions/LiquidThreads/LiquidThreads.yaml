@@ -1,16 +1,17 @@
-id: mediawiki_extensions_LiquidThreads
-shortName: mediawiki/extensions/LiquidThreads
-name: Codereview stats for mediawiki/extensions/LiquidThreads
+id: mediawiki/extensions/LiquidThreads
+name: mediawiki/extensions/LiquidThreads
+shortName: Codereview stats for mediawiki/extensions/LiquidThreads
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/LiquidThreads/LiquidThreads.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/LiquidThreads/LiquidThreads.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

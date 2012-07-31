@@ -1,16 +1,17 @@
-id: mediawiki_extensions_GeoGebra
-shortName: mediawiki/extensions/GeoGebra
-name: Codereview stats for mediawiki/extensions/GeoGebra
+id: mediawiki/extensions/GeoGebra
+name: mediawiki/extensions/GeoGebra
+shortName: Codereview stats for mediawiki/extensions/GeoGebra
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/GeoGebra/GeoGebra.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/GeoGebra/GeoGebra.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

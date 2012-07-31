@@ -1,16 +1,17 @@
-id: mediawiki_extensions_SemanticPageMaker
-shortName: mediawiki/extensions/SemanticPageMaker
-name: Codereview stats for mediawiki/extensions/SemanticPageMaker
+id: mediawiki/extensions/SemanticPageMaker
+name: mediawiki/extensions/SemanticPageMaker
+shortName: Codereview stats for mediawiki/extensions/SemanticPageMaker
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/SemanticPageMaker/SemanticPageMaker.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticPageMaker/SemanticPageMaker.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

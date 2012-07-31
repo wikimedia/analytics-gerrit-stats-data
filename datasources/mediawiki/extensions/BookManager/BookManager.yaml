@@ -1,16 +1,17 @@
-id: mediawiki_extensions_BookManager
-shortName: mediawiki/extensions/BookManager
-name: Codereview stats for mediawiki/extensions/BookManager
+id: mediawiki/extensions/BookManager
+name: mediawiki/extensions/BookManager
+shortName: Codereview stats for mediawiki/extensions/BookManager
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/BookManager/BookManager.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/BookManager/BookManager.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

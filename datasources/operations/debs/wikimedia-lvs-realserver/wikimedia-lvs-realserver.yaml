@@ -1,16 +1,17 @@
-id: operations_debs_wikimedia-lvs-realserver
-shortName: operations/debs/wikimedia-lvs-realserver
-name: Codereview stats for operations/debs/wikimedia-lvs-realserver
+id: operations/debs/wikimedia-lvs-realserver
+name: operations/debs/wikimedia-lvs-realserver
+shortName: Codereview stats for operations/debs/wikimedia-lvs-realserver
 format: csv
-url: /data/datafiles/gerrit-stats/operations/debs/wikimedia-lvs-realserver/wikimedia-lvs-realserver.csv
+url: /data/datasources/gerrit-stats/datafiles/operations/debs/wikimedia-lvs-realserver/wikimedia-lvs-realserver.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/3
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

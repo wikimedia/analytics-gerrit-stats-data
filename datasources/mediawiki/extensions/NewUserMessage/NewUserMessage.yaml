@@ -1,16 +1,17 @@
-id: mediawiki_extensions_NewUserMessage
-shortName: mediawiki/extensions/NewUserMessage
-name: Codereview stats for mediawiki/extensions/NewUserMessage
+id: mediawiki/extensions/NewUserMessage
+name: mediawiki/extensions/NewUserMessage
+shortName: Codereview stats for mediawiki/extensions/NewUserMessage
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/NewUserMessage/NewUserMessage.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/NewUserMessage/NewUserMessage.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

@@ -1,16 +1,17 @@
-id: mediawiki_extensions_AddThis
-shortName: mediawiki/extensions/AddThis
-name: Codereview stats for mediawiki/extensions/AddThis
+id: mediawiki/extensions/AddThis
+name: mediawiki/extensions/AddThis
+shortName: Codereview stats for mediawiki/extensions/AddThis
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/AddThis/AddThis.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AddThis/AddThis.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

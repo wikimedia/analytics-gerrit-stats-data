@@ -1,16 +1,17 @@
-id: mediawiki_extensions_WikimediaMaintenance
-shortName: mediawiki/extensions/WikimediaMaintenance
-name: Codereview stats for mediawiki/extensions/WikimediaMaintenance
+id: mediawiki/extensions/WikimediaMaintenance
+name: mediawiki/extensions/WikimediaMaintenance
+shortName: Codereview stats for mediawiki/extensions/WikimediaMaintenance
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/WikimediaMaintenance/WikimediaMaintenance.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikimediaMaintenance/WikimediaMaintenance.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Score
-shortName: mediawiki/extensions/Score
-name: Codereview stats for mediawiki/extensions/Score
+id: mediawiki/extensions/Score
+name: mediawiki/extensions/Score
+shortName: Codereview stats for mediawiki/extensions/Score
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Score/Score.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Score/Score.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

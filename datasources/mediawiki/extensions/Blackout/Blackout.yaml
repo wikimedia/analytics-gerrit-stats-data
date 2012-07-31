@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Blackout
-shortName: mediawiki/extensions/Blackout
-name: Codereview stats for mediawiki/extensions/Blackout
+id: mediawiki/extensions/Blackout
+name: mediawiki/extensions/Blackout
+shortName: Codereview stats for mediawiki/extensions/Blackout
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Blackout/Blackout.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Blackout/Blackout.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

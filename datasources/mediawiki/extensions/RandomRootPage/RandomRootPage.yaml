@@ -1,16 +1,17 @@
-id: mediawiki_extensions_RandomRootPage
-shortName: mediawiki/extensions/RandomRootPage
-name: Codereview stats for mediawiki/extensions/RandomRootPage
+id: mediawiki/extensions/RandomRootPage
+name: mediawiki/extensions/RandomRootPage
+shortName: Codereview stats for mediawiki/extensions/RandomRootPage
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/RandomRootPage/RandomRootPage.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/RandomRootPage/RandomRootPage.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

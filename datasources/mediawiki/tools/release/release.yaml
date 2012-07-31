@@ -1,16 +1,17 @@
-id: mediawiki_tools_release
-shortName: mediawiki/tools/release
-name: Codereview stats for mediawiki/tools/release
+id: mediawiki/tools/release
+name: mediawiki/tools/release
+shortName: Codereview stats for mediawiki/tools/release
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/tools/release/release.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/tools/release/release.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/24
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

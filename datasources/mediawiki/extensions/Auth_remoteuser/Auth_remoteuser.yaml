@@ -1,16 +1,17 @@
-id: mediawiki_extensions_Auth_remoteuser
-shortName: mediawiki/extensions/Auth_remoteuser
-name: Codereview stats for mediawiki/extensions/Auth_remoteuser
+id: mediawiki/extensions/Auth_remoteuser
+name: mediawiki/extensions/Auth_remoteuser
+shortName: Codereview stats for mediawiki/extensions/Auth_remoteuser
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/Auth_remoteuser/Auth_remoteuser.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Auth_remoteuser/Auth_remoteuser.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

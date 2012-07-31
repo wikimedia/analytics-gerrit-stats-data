@@ -1,16 +1,17 @@
-id: mediawiki_extensions_WikimediaMessages
-shortName: mediawiki/extensions/WikimediaMessages
-name: Codereview stats for mediawiki/extensions/WikimediaMessages
+id: mediawiki/extensions/WikimediaMessages
+name: mediawiki/extensions/WikimediaMessages
+shortName: Codereview stats for mediawiki/extensions/WikimediaMessages
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/WikimediaMessages/WikimediaMessages.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikimediaMessages/WikimediaMessages.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

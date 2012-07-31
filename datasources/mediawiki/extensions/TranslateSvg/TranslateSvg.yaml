@@ -1,16 +1,17 @@
-id: mediawiki_extensions_TranslateSvg
-shortName: mediawiki/extensions/TranslateSvg
-name: Codereview stats for mediawiki/extensions/TranslateSvg
+id: mediawiki/extensions/TranslateSvg
+name: mediawiki/extensions/TranslateSvg
+shortName: Codereview stats for mediawiki/extensions/TranslateSvg
 format: csv
-url: /data/datafiles/gerrit-stats/mediawiki/extensions/TranslateSvg/TranslateSvg.csv
+url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/TranslateSvg/TranslateSvg.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review

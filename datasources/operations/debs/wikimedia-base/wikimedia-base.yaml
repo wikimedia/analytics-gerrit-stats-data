@@ -1,16 +1,17 @@
-id: operations_debs_wikimedia-base
-shortName: operations/debs/wikimedia-base
-name: Codereview stats for operations/debs/wikimedia-base
+id: operations/debs/wikimedia-base
+name: operations/debs/wikimedia-base
+shortName: Codereview stats for operations/debs/wikimedia-base
 format: csv
-url: /data/datafiles/gerrit-stats/operations/debs/wikimedia-base/wikimedia-base.csv
+url: /data/datasources/gerrit-stats/datafiles/operations/debs/wikimedia-base/wikimedia-base.csv
 
 timespan:
-    end: 2012/7/30
+    end: 2012/7/31
     start: 2012/5/3
     step: 1d
 
 columns:
     labels:
+    - Date
     - date
     - commits
     - self_review
