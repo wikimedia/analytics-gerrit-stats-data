@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Score/Score.csv
 
 timespan:
-    end: 2012/7/31
+    end: 2012/8/1
     start: 2012/4/27
     step: 1d
 

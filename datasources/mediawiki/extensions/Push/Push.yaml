@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Push/Push.csv
 
 timespan:
-    end: 2012/7/31
+    end: 2012/8/1
     start: 2012/4/6
     step: 1d
 
