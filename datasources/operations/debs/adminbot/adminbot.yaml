@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/operations/debs/adminbot/adminbot.csv
 
 timespan:
-    end: 2012/8/1
+    end: 2012/8/2
     start: 2012/6/16
     step: 1d
 

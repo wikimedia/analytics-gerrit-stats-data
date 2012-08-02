@@ -5,7 +5,7 @@ format: csv
 url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CustomMagic/CustomMagic.csv
 
 timespan:
-    end: 2012/8/1
+    end: 2012/8/2
     start: 2012/5/27
     step: 1d
 
