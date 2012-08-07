@@ -15,8 +15,8 @@
             "name": "Mediawiki", 
             "graph_ids":[
                 "all_metrics",
-                "operations_puppet_puppet",
+                "operations_puppet_puppet"
             ]
         }
-   ]
+    ]
 }
