@@ -1,0 +1,35 @@
+id: mediawiki_extensions_LinkedWiki_LinkedWiki
+name: Codereview stats for mediawiki/extensions/LinkedWiki repo
+shortName: mediawiki/extensions/LinkedWiki
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/LinkedWiki/LinkedWiki.csv
+
+timespan:
+    end: 2012/8/7
+    start: 2012/7/23
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - time_first_review_staff
+    - time_first_review_total
+    - time_first_review_volunteer
+    - time_plus2_staff
+    - time_plus2_total
+    - time_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

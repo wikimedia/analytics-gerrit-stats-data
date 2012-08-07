@@ -1,0 +1,35 @@
+id: mediawiki_extensions_DynamicSidebar_DynamicSidebar
+name: Codereview stats for mediawiki/extensions/DynamicSidebar repo
+shortName: mediawiki/extensions/DynamicSidebar
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/DynamicSidebar/DynamicSidebar.csv
+
+timespan:
+    end: 2012/8/7
+    start: 2012/7/25
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - time_first_review_staff
+    - time_first_review_total
+    - time_first_review_volunteer
+    - time_plus2_staff
+    - time_plus2_total
+    - time_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

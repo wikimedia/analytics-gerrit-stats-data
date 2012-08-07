@@ -1,0 +1,35 @@
+id: mediawiki_tools_commonshelper2_commonshelper2
+name: Codereview stats for mediawiki/tools/commonshelper2 repo
+shortName: mediawiki/tools/commonshelper2
+format: csv
+url: /data/datafiles/gs/mediawiki/tools/commonshelper2/commonshelper2.csv
+
+timespan:
+    end: 2012/8/7
+    start: 2012/7/31
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - time_first_review_staff
+    - time_first_review_total
+    - time_first_review_volunteer
+    - time_plus2_staff
+    - time_plus2_total
+    - time_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
