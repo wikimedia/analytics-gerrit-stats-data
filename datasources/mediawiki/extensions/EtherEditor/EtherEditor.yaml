@@ -1,17 +1,16 @@
-id: mediawiki/extensions/EtherEditor
-name: mediawiki/extensions/EtherEditor
-shortName: Codereview stats for mediawiki/extensions/EtherEditor
+id: mediawiki_extensions_EtherEditor_EtherEditor
+name: Codereview stats for mediawiki/extensions/EtherEditor repo
+shortName: mediawiki/extensions/EtherEditor
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/EtherEditor/EtherEditor.csv
+url: /data/datafiles/gs/mediawiki/extensions/EtherEditor/EtherEditor.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,0 +1,35 @@
+id: operations_operations
+name: Codereview stats for operations repo
+shortName: operations
+format: csv
+url: /data/datafiles/gs/operations/operations.csv
+
+timespan:
+    end: 2012/8/7
+    start: 2011/9/7
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - time_first_review_staff
+    - time_first_review_total
+    - time_first_review_volunteer
+    - time_plus2_staff
+    - time_plus2_total
+    - time_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

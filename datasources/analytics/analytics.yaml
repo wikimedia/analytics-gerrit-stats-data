@@ -1,17 +1,16 @@
-id: analytics
-name: analytics
-shortName: Codereview stats for analytics
+id: analytics_analytics
+name: Codereview stats for analytics repo
+shortName: analytics
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/analytics/analytics.csv
+url: /data/datafiles/gs/analytics/analytics.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/1/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AccessControl
-name: mediawiki/extensions/AccessControl
-shortName: Codereview stats for mediawiki/extensions/AccessControl
+id: mediawiki_extensions_AccessControl_AccessControl
+name: Codereview stats for mediawiki/extensions/AccessControl repo
+shortName: mediawiki/extensions/AccessControl
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AccessControl/AccessControl.csv
+url: /data/datafiles/gs/mediawiki/extensions/AccessControl/AccessControl.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/11
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

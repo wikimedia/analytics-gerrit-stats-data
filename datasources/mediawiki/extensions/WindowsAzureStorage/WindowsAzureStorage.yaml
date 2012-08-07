@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WindowsAzureStorage
-name: mediawiki/extensions/WindowsAzureStorage
-shortName: Codereview stats for mediawiki/extensions/WindowsAzureStorage
+id: mediawiki_extensions_WindowsAzureStorage_WindowsAzureStorage
+name: Codereview stats for mediawiki/extensions/WindowsAzureStorage repo
+shortName: mediawiki/extensions/WindowsAzureStorage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WindowsAzureStorage/WindowsAzureStorage.csv
+url: /data/datafiles/gs/mediawiki/extensions/WindowsAzureStorage/WindowsAzureStorage.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

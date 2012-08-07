@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AbsenteeLandlord
-name: mediawiki/extensions/AbsenteeLandlord
-shortName: Codereview stats for mediawiki/extensions/AbsenteeLandlord
+id: mediawiki_extensions_AbsenteeLandlord_AbsenteeLandlord
+name: Codereview stats for mediawiki/extensions/AbsenteeLandlord repo
+shortName: mediawiki/extensions/AbsenteeLandlord
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AbsenteeLandlord/AbsenteeLandlord.csv
+url: /data/datafiles/gs/mediawiki/extensions/AbsenteeLandlord/AbsenteeLandlord.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

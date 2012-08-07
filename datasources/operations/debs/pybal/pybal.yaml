@@ -1,17 +1,16 @@
-id: operations/debs/pybal
-name: operations/debs/pybal
-shortName: Codereview stats for operations/debs/pybal
+id: operations_debs_pybal_pybal
+name: Codereview stats for operations/debs/pybal repo
+shortName: operations/debs/pybal
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/pybal/pybal.csv
+url: /data/datafiles/gs/operations/debs/pybal/pybal.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/24
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

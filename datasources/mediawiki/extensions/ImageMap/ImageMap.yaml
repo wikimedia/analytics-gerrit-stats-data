@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ImageMap
-name: mediawiki/extensions/ImageMap
-shortName: Codereview stats for mediawiki/extensions/ImageMap
+id: mediawiki_extensions_ImageMap_ImageMap
+name: Codereview stats for mediawiki/extensions/ImageMap repo
+shortName: mediawiki/extensions/ImageMap
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ImageMap/ImageMap.csv
+url: /data/datafiles/gs/mediawiki/extensions/ImageMap/ImageMap.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

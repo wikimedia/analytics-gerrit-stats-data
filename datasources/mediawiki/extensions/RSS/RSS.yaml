@@ -1,17 +1,16 @@
-id: mediawiki/extensions/RSS
-name: mediawiki/extensions/RSS
-shortName: Codereview stats for mediawiki/extensions/RSS
+id: mediawiki_extensions_RSS_RSS
+name: Codereview stats for mediawiki/extensions/RSS repo
+shortName: mediawiki/extensions/RSS
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/RSS/RSS.csv
+url: /data/datafiles/gs/mediawiki/extensions/RSS/RSS.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

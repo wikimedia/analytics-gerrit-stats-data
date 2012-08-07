@@ -1,17 +1,16 @@
-id: mediawiki/extensions/TitleBlacklist
-name: mediawiki/extensions/TitleBlacklist
-shortName: Codereview stats for mediawiki/extensions/TitleBlacklist
+id: mediawiki_extensions_TitleBlacklist_TitleBlacklist
+name: Codereview stats for mediawiki/extensions/TitleBlacklist repo
+shortName: mediawiki/extensions/TitleBlacklist
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/TitleBlacklist/TitleBlacklist.csv
+url: /data/datafiles/gs/mediawiki/extensions/TitleBlacklist/TitleBlacklist.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

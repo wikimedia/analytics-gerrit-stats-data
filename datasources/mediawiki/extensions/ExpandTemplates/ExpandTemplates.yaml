@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ExpandTemplates
-name: mediawiki/extensions/ExpandTemplates
-shortName: Codereview stats for mediawiki/extensions/ExpandTemplates
+id: mediawiki_extensions_ExpandTemplates_ExpandTemplates
+name: Codereview stats for mediawiki/extensions/ExpandTemplates repo
+shortName: mediawiki/extensions/ExpandTemplates
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ExpandTemplates/ExpandTemplates.csv
+url: /data/datafiles/gs/mediawiki/extensions/ExpandTemplates/ExpandTemplates.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

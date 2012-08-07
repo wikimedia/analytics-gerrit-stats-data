@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ZeroRatedMobileAccess
-name: mediawiki/extensions/ZeroRatedMobileAccess
-shortName: Codereview stats for mediawiki/extensions/ZeroRatedMobileAccess
+id: mediawiki_extensions_ZeroRatedMobileAccess_ZeroRatedMobileAccess
+name: Codereview stats for mediawiki/extensions/ZeroRatedMobileAccess repo
+shortName: mediawiki/extensions/ZeroRatedMobileAccess
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ZeroRatedMobileAccess/ZeroRatedMobileAccess.csv
+url: /data/datafiles/gs/mediawiki/extensions/ZeroRatedMobileAccess/ZeroRatedMobileAccess.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

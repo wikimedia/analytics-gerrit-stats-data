@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WikimediaShopLink
-name: mediawiki/extensions/WikimediaShopLink
-shortName: Codereview stats for mediawiki/extensions/WikimediaShopLink
+id: mediawiki_extensions_WikimediaShopLink_WikimediaShopLink
+name: Codereview stats for mediawiki/extensions/WikimediaShopLink repo
+shortName: mediawiki/extensions/WikimediaShopLink
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikimediaShopLink/WikimediaShopLink.csv
+url: /data/datafiles/gs/mediawiki/extensions/WikimediaShopLink/WikimediaShopLink.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/8
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ConventionExtension
-name: mediawiki/extensions/ConventionExtension
-shortName: Codereview stats for mediawiki/extensions/ConventionExtension
+id: mediawiki_extensions_ConventionExtension_ConventionExtension
+name: Codereview stats for mediawiki/extensions/ConventionExtension repo
+shortName: mediawiki/extensions/ConventionExtension
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ConventionExtension/ConventionExtension.csv
+url: /data/datafiles/gs/mediawiki/extensions/ConventionExtension/ConventionExtension.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/12
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

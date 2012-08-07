@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AllTimeZones
-name: mediawiki/extensions/AllTimeZones
-shortName: Codereview stats for mediawiki/extensions/AllTimeZones
+id: mediawiki_extensions_AllTimeZones_AllTimeZones
+name: Codereview stats for mediawiki/extensions/AllTimeZones repo
+shortName: mediawiki/extensions/AllTimeZones
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AllTimeZones/AllTimeZones.csv
+url: /data/datafiles/gs/mediawiki/extensions/AllTimeZones/AllTimeZones.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/16
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/EditPageTracking
-name: mediawiki/extensions/EditPageTracking
-shortName: Codereview stats for mediawiki/extensions/EditPageTracking
+id: mediawiki_extensions_EditPageTracking_EditPageTracking
+name: Codereview stats for mediawiki/extensions/EditPageTracking repo
+shortName: mediawiki/extensions/EditPageTracking
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/EditPageTracking/EditPageTracking.csv
+url: /data/datafiles/gs/mediawiki/extensions/EditPageTracking/EditPageTracking.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Premoderation
-name: mediawiki/extensions/Premoderation
-shortName: Codereview stats for mediawiki/extensions/Premoderation
+id: mediawiki_extensions_Premoderation_Premoderation
+name: Codereview stats for mediawiki/extensions/Premoderation repo
+shortName: mediawiki/extensions/Premoderation
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Premoderation/Premoderation.csv
+url: /data/datafiles/gs/mediawiki/extensions/Premoderation/Premoderation.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

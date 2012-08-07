@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Variables
-name: mediawiki/extensions/Variables
-shortName: Codereview stats for mediawiki/extensions/Variables
+id: mediawiki_extensions_Variables_Variables
+name: Codereview stats for mediawiki/extensions/Variables repo
+shortName: mediawiki/extensions/Variables
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Variables/Variables.csv
+url: /data/datafiles/gs/mediawiki/extensions/Variables/Variables.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

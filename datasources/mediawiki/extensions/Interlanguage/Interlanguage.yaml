@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Interlanguage
-name: mediawiki/extensions/Interlanguage
-shortName: Codereview stats for mediawiki/extensions/Interlanguage
+id: mediawiki_extensions_Interlanguage_Interlanguage
+name: Codereview stats for mediawiki/extensions/Interlanguage repo
+shortName: mediawiki/extensions/Interlanguage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Interlanguage/Interlanguage.csv
+url: /data/datafiles/gs/mediawiki/extensions/Interlanguage/Interlanguage.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

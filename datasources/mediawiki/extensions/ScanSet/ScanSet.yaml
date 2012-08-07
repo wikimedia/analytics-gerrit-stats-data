@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ScanSet
-name: mediawiki/extensions/ScanSet
-shortName: Codereview stats for mediawiki/extensions/ScanSet
+id: mediawiki_extensions_ScanSet_ScanSet
+name: Codereview stats for mediawiki/extensions/ScanSet repo
+shortName: mediawiki/extensions/ScanSet
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ScanSet/ScanSet.csv
+url: /data/datafiles/gs/mediawiki/extensions/ScanSet/ScanSet.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

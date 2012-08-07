@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SemanticResultFormats
-name: mediawiki/extensions/SemanticResultFormats
-shortName: Codereview stats for mediawiki/extensions/SemanticResultFormats
+id: mediawiki_extensions_SemanticResultFormats_SemanticResultFormats
+name: Codereview stats for mediawiki/extensions/SemanticResultFormats repo
+shortName: mediawiki/extensions/SemanticResultFormats
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticResultFormats/SemanticResultFormats.csv
+url: /data/datafiles/gs/mediawiki/extensions/SemanticResultFormats/SemanticResultFormats.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

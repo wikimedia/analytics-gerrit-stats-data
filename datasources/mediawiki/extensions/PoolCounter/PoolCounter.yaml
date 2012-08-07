@@ -1,17 +1,16 @@
-id: mediawiki/extensions/PoolCounter
-name: mediawiki/extensions/PoolCounter
-shortName: Codereview stats for mediawiki/extensions/PoolCounter
+id: mediawiki_extensions_PoolCounter_PoolCounter
+name: Codereview stats for mediawiki/extensions/PoolCounter repo
+shortName: mediawiki/extensions/PoolCounter
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PoolCounter/PoolCounter.csv
+url: /data/datafiles/gs/mediawiki/extensions/PoolCounter/PoolCounter.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

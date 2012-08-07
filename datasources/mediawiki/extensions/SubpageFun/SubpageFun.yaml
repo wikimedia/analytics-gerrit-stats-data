@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SubpageFun
-name: mediawiki/extensions/SubpageFun
-shortName: Codereview stats for mediawiki/extensions/SubpageFun
+id: mediawiki_extensions_SubpageFun_SubpageFun
+name: Codereview stats for mediawiki/extensions/SubpageFun repo
+shortName: mediawiki/extensions/SubpageFun
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SubpageFun/SubpageFun.csv
+url: /data/datafiles/gs/mediawiki/extensions/SubpageFun/SubpageFun.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/OAI
-name: mediawiki/extensions/OAI
-shortName: Codereview stats for mediawiki/extensions/OAI
+id: mediawiki_extensions_OAI_OAI
+name: Codereview stats for mediawiki/extensions/OAI repo
+shortName: mediawiki/extensions/OAI
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/OAI/OAI.csv
+url: /data/datafiles/gs/mediawiki/extensions/OAI/OAI.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

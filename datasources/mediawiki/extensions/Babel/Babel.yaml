@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Babel
-name: mediawiki/extensions/Babel
-shortName: Codereview stats for mediawiki/extensions/Babel
+id: mediawiki_extensions_Babel_Babel
+name: Codereview stats for mediawiki/extensions/Babel repo
+shortName: mediawiki/extensions/Babel
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Babel/Babel.csv
+url: /data/datafiles/gs/mediawiki/extensions/Babel/Babel.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

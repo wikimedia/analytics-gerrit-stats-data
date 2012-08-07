@@ -1,17 +1,16 @@
-id: mediawiki/extensions/RegexFunctions
-name: mediawiki/extensions/RegexFunctions
-shortName: Codereview stats for mediawiki/extensions/RegexFunctions
+id: mediawiki_extensions_RegexFunctions_RegexFunctions
+name: Codereview stats for mediawiki/extensions/RegexFunctions repo
+shortName: mediawiki/extensions/RegexFunctions
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/RegexFunctions/RegexFunctions.csv
+url: /data/datafiles/gs/mediawiki/extensions/RegexFunctions/RegexFunctions.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

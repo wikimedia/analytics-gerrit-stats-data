@@ -1,17 +1,16 @@
-id: operations/debs/squid
-name: operations/debs/squid
-shortName: Codereview stats for operations/debs/squid
+id: operations_debs_squid_squid
+name: Codereview stats for operations/debs/squid repo
+shortName: operations/debs/squid
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/squid/squid.csv
+url: /data/datafiles/gs/operations/debs/squid/squid.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/19
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

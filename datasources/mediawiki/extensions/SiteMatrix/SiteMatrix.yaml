@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SiteMatrix
-name: mediawiki/extensions/SiteMatrix
-shortName: Codereview stats for mediawiki/extensions/SiteMatrix
+id: mediawiki_extensions_SiteMatrix_SiteMatrix
+name: Codereview stats for mediawiki/extensions/SiteMatrix repo
+shortName: mediawiki/extensions/SiteMatrix
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SiteMatrix/SiteMatrix.csv
+url: /data/datafiles/gs/mediawiki/extensions/SiteMatrix/SiteMatrix.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

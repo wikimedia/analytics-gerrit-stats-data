@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ClickTracking
-name: mediawiki/extensions/ClickTracking
-shortName: Codereview stats for mediawiki/extensions/ClickTracking
+id: mediawiki_extensions_ClickTracking_ClickTracking
+name: Codereview stats for mediawiki/extensions/ClickTracking repo
+shortName: mediawiki/extensions/ClickTracking
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ClickTracking/ClickTracking.csv
+url: /data/datafiles/gs/mediawiki/extensions/ClickTracking/ClickTracking.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

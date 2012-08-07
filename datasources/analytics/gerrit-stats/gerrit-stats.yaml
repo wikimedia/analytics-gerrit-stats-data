@@ -1,17 +1,16 @@
-id: analytics/gerrit-stats
-name: analytics/gerrit-stats
-shortName: Codereview stats for analytics/gerrit-stats
+id: analytics_gerrit-stats_gerrit-stats
+name: Codereview stats for analytics/gerrit-stats repo
+shortName: analytics/gerrit-stats
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/analytics/gerrit-stats/gerrit-stats.csv
+url: /data/datafiles/gs/analytics/gerrit-stats/gerrit-stats.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

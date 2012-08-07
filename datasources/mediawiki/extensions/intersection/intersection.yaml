@@ -1,17 +1,16 @@
-id: mediawiki/extensions/intersection
-name: mediawiki/extensions/intersection
-shortName: Codereview stats for mediawiki/extensions/intersection
+id: mediawiki_extensions_intersection_intersection
+name: Codereview stats for mediawiki/extensions/intersection repo
+shortName: mediawiki/extensions/intersection
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/intersection/intersection.csv
+url: /data/datafiles/gs/mediawiki/extensions/intersection/intersection.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

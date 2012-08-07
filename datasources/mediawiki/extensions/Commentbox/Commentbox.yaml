@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Commentbox
-name: mediawiki/extensions/Commentbox
-shortName: Codereview stats for mediawiki/extensions/Commentbox
+id: mediawiki_extensions_Commentbox_Commentbox
+name: Codereview stats for mediawiki/extensions/Commentbox repo
+shortName: mediawiki/extensions/Commentbox
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Commentbox/Commentbox.csv
+url: /data/datafiles/gs/mediawiki/extensions/Commentbox/Commentbox.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

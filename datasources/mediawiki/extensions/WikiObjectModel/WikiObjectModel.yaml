@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WikiObjectModel
-name: mediawiki/extensions/WikiObjectModel
-shortName: Codereview stats for mediawiki/extensions/WikiObjectModel
+id: mediawiki_extensions_WikiObjectModel_WikiObjectModel
+name: Codereview stats for mediawiki/extensions/WikiObjectModel repo
+shortName: mediawiki/extensions/WikiObjectModel
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikiObjectModel/WikiObjectModel.csv
+url: /data/datafiles/gs/mediawiki/extensions/WikiObjectModel/WikiObjectModel.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

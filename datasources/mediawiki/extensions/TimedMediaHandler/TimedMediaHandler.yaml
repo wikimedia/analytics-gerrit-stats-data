@@ -1,17 +1,16 @@
-id: mediawiki/extensions/TimedMediaHandler
-name: mediawiki/extensions/TimedMediaHandler
-shortName: Codereview stats for mediawiki/extensions/TimedMediaHandler
+id: mediawiki_extensions_TimedMediaHandler_TimedMediaHandler
+name: Codereview stats for mediawiki/extensions/TimedMediaHandler repo
+shortName: mediawiki/extensions/TimedMediaHandler
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/TimedMediaHandler/TimedMediaHandler.csv
+url: /data/datafiles/gs/mediawiki/extensions/TimedMediaHandler/TimedMediaHandler.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

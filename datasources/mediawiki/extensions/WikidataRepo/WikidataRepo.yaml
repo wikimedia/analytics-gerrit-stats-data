@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WikidataRepo
-name: mediawiki/extensions/WikidataRepo
-shortName: Codereview stats for mediawiki/extensions/WikidataRepo
+id: mediawiki_extensions_WikidataRepo_WikidataRepo
+name: Codereview stats for mediawiki/extensions/WikidataRepo repo
+shortName: mediawiki/extensions/WikidataRepo
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikidataRepo/WikidataRepo.csv
+url: /data/datafiles/gs/mediawiki/extensions/WikidataRepo/WikidataRepo.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/4
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

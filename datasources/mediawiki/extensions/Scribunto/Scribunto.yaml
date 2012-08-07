@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Scribunto
-name: mediawiki/extensions/Scribunto
-shortName: Codereview stats for mediawiki/extensions/Scribunto
+id: mediawiki_extensions_Scribunto_Scribunto
+name: Codereview stats for mediawiki/extensions/Scribunto repo
+shortName: mediawiki/extensions/Scribunto
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Scribunto/Scribunto.csv
+url: /data/datafiles/gs/mediawiki/extensions/Scribunto/Scribunto.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

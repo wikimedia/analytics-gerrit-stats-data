@@ -1,17 +1,16 @@
-id: analytics/reportcard
-name: analytics/reportcard
-shortName: Codereview stats for analytics/reportcard
+id: analytics_reportcard_reportcard
+name: Codereview stats for analytics/reportcard repo
+shortName: analytics/reportcard
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/analytics/reportcard/reportcard.csv
+url: /data/datafiles/gs/analytics/reportcard/reportcard.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/1/24
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

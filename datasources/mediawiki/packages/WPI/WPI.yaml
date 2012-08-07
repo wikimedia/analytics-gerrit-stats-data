@@ -1,17 +1,16 @@
-id: mediawiki/packages/WPI
-name: mediawiki/packages/WPI
-shortName: Codereview stats for mediawiki/packages/WPI
+id: mediawiki_packages_WPI_WPI
+name: Codereview stats for mediawiki/packages/WPI repo
+shortName: mediawiki/packages/WPI
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/packages/WPI/WPI.csv
+url: /data/datafiles/gs/mediawiki/packages/WPI/WPI.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/3
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

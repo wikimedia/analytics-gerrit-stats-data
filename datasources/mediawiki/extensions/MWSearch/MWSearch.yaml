@@ -1,17 +1,16 @@
-id: mediawiki/extensions/MWSearch
-name: mediawiki/extensions/MWSearch
-shortName: Codereview stats for mediawiki/extensions/MWSearch
+id: mediawiki_extensions_MWSearch_MWSearch
+name: Codereview stats for mediawiki/extensions/MWSearch repo
+shortName: mediawiki/extensions/MWSearch
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/MWSearch/MWSearch.csv
+url: /data/datafiles/gs/mediawiki/extensions/MWSearch/MWSearch.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

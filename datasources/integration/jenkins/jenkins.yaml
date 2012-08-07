@@ -1,17 +1,16 @@
-id: integration/jenkins
-name: integration/jenkins
-shortName: Codereview stats for integration/jenkins
+id: integration_jenkins_jenkins
+name: Codereview stats for integration/jenkins repo
+shortName: integration/jenkins
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/integration/jenkins/jenkins.csv
+url: /data/datafiles/gs/integration/jenkins/jenkins.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2011/10/20
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AbuseFilter
-name: mediawiki/extensions/AbuseFilter
-shortName: Codereview stats for mediawiki/extensions/AbuseFilter
+id: mediawiki_extensions_AbuseFilter_AbuseFilter
+name: Codereview stats for mediawiki/extensions/AbuseFilter repo
+shortName: mediawiki/extensions/AbuseFilter
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AbuseFilter/AbuseFilter.csv
+url: /data/datafiles/gs/mediawiki/extensions/AbuseFilter/AbuseFilter.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

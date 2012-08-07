@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SkinPerPage
-name: mediawiki/extensions/SkinPerPage
-shortName: Codereview stats for mediawiki/extensions/SkinPerPage
+id: mediawiki_extensions_SkinPerPage_SkinPerPage
+name: Codereview stats for mediawiki/extensions/SkinPerPage repo
+shortName: mediawiki/extensions/SkinPerPage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SkinPerPage/SkinPerPage.csv
+url: /data/datafiles/gs/mediawiki/extensions/SkinPerPage/SkinPerPage.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

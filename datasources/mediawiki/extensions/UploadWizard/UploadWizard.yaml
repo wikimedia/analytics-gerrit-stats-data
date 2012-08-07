@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UploadWizard
-name: mediawiki/extensions/UploadWizard
-shortName: Codereview stats for mediawiki/extensions/UploadWizard
+id: mediawiki_extensions_UploadWizard_UploadWizard
+name: Codereview stats for mediawiki/extensions/UploadWizard repo
+shortName: mediawiki/extensions/UploadWizard
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UploadWizard/UploadWizard.csv
+url: /data/datafiles/gs/mediawiki/extensions/UploadWizard/UploadWizard.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

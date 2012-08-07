@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SphinxSearch
-name: mediawiki/extensions/SphinxSearch
-shortName: Codereview stats for mediawiki/extensions/SphinxSearch
+id: mediawiki_extensions_SphinxSearch_SphinxSearch
+name: Codereview stats for mediawiki/extensions/SphinxSearch repo
+shortName: mediawiki/extensions/SphinxSearch
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SphinxSearch/SphinxSearch.csv
+url: /data/datafiles/gs/mediawiki/extensions/SphinxSearch/SphinxSearch.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

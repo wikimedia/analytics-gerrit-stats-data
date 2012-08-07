@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Drafts
-name: mediawiki/extensions/Drafts
-shortName: Codereview stats for mediawiki/extensions/Drafts
+id: mediawiki_extensions_Drafts_Drafts
+name: Codereview stats for mediawiki/extensions/Drafts repo
+shortName: mediawiki/extensions/Drafts
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Drafts/Drafts.csv
+url: /data/datafiles/gs/mediawiki/extensions/Drafts/Drafts.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

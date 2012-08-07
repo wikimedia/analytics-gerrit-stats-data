@@ -1,17 +1,16 @@
-id: mediawiki/extensions/FormelApplet
-name: mediawiki/extensions/FormelApplet
-shortName: Codereview stats for mediawiki/extensions/FormelApplet
+id: mediawiki_extensions_FormelApplet_FormelApplet
+name: Codereview stats for mediawiki/extensions/FormelApplet repo
+shortName: mediawiki/extensions/FormelApplet
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/FormelApplet/FormelApplet.csv
+url: /data/datafiles/gs/mediawiki/extensions/FormelApplet/FormelApplet.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

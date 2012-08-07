@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UserMerge
-name: mediawiki/extensions/UserMerge
-shortName: Codereview stats for mediawiki/extensions/UserMerge
+id: mediawiki_extensions_UserMerge_UserMerge
+name: Codereview stats for mediawiki/extensions/UserMerge repo
+shortName: mediawiki/extensions/UserMerge
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UserMerge/UserMerge.csv
+url: /data/datafiles/gs/mediawiki/extensions/UserMerge/UserMerge.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

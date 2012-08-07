@@ -1,17 +1,16 @@
-id: mediawiki/extensions/DoubleWiki
-name: mediawiki/extensions/DoubleWiki
-shortName: Codereview stats for mediawiki/extensions/DoubleWiki
+id: mediawiki_extensions_DoubleWiki_DoubleWiki
+name: Codereview stats for mediawiki/extensions/DoubleWiki repo
+shortName: mediawiki/extensions/DoubleWiki
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DoubleWiki/DoubleWiki.csv
+url: /data/datafiles/gs/mediawiki/extensions/DoubleWiki/DoubleWiki.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

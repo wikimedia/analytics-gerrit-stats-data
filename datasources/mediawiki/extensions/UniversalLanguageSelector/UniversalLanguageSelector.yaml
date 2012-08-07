@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UniversalLanguageSelector
-name: mediawiki/extensions/UniversalLanguageSelector
-shortName: Codereview stats for mediawiki/extensions/UniversalLanguageSelector
+id: mediawiki_extensions_UniversalLanguageSelector_UniversalLanguageSelector
+name: Codereview stats for mediawiki/extensions/UniversalLanguageSelector repo
+shortName: mediawiki/extensions/UniversalLanguageSelector
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UniversalLanguageSelector/UniversalLanguageSelector.csv
+url: /data/datafiles/gs/mediawiki/extensions/UniversalLanguageSelector/UniversalLanguageSelector.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/12
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

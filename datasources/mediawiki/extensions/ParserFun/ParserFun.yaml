@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ParserFun
-name: mediawiki/extensions/ParserFun
-shortName: Codereview stats for mediawiki/extensions/ParserFun
+id: mediawiki_extensions_ParserFun_ParserFun
+name: Codereview stats for mediawiki/extensions/ParserFun repo
+shortName: mediawiki/extensions/ParserFun
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ParserFun/ParserFun.csv
+url: /data/datafiles/gs/mediawiki/extensions/ParserFun/ParserFun.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SkelJS
-name: mediawiki/extensions/SkelJS
-shortName: Codereview stats for mediawiki/extensions/SkelJS
+id: mediawiki_extensions_SkelJS_SkelJS
+name: Codereview stats for mediawiki/extensions/SkelJS repo
+shortName: mediawiki/extensions/SkelJS
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SkelJS/SkelJS.csv
+url: /data/datafiles/gs/mediawiki/extensions/SkelJS/SkelJS.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/28
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ClientSide
-name: mediawiki/extensions/ClientSide
-shortName: Codereview stats for mediawiki/extensions/ClientSide
+id: mediawiki_extensions_ClientSide_ClientSide
+name: Codereview stats for mediawiki/extensions/ClientSide repo
+shortName: mediawiki/extensions/ClientSide
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ClientSide/ClientSide.csv
+url: /data/datafiles/gs/mediawiki/extensions/ClientSide/ClientSide.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

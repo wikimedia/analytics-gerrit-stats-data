@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SecurePoll
-name: mediawiki/extensions/SecurePoll
-shortName: Codereview stats for mediawiki/extensions/SecurePoll
+id: mediawiki_extensions_SecurePoll_SecurePoll
+name: Codereview stats for mediawiki/extensions/SecurePoll repo
+shortName: mediawiki/extensions/SecurePoll
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SecurePoll/SecurePoll.csv
+url: /data/datafiles/gs/mediawiki/extensions/SecurePoll/SecurePoll.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

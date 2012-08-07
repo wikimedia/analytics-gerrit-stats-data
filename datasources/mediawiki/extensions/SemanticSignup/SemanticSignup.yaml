@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SemanticSignup
-name: mediawiki/extensions/SemanticSignup
-shortName: Codereview stats for mediawiki/extensions/SemanticSignup
+id: mediawiki_extensions_SemanticSignup_SemanticSignup
+name: Codereview stats for mediawiki/extensions/SemanticSignup repo
+shortName: mediawiki/extensions/SemanticSignup
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticSignup/SemanticSignup.csv
+url: /data/datafiles/gs/mediawiki/extensions/SemanticSignup/SemanticSignup.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

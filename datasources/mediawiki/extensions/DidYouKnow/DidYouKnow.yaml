@@ -1,17 +1,16 @@
-id: mediawiki/extensions/DidYouKnow
-name: mediawiki/extensions/DidYouKnow
-shortName: Codereview stats for mediawiki/extensions/DidYouKnow
+id: mediawiki_extensions_DidYouKnow_DidYouKnow
+name: Codereview stats for mediawiki/extensions/DidYouKnow repo
+shortName: mediawiki/extensions/DidYouKnow
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DidYouKnow/DidYouKnow.csv
+url: /data/datafiles/gs/mediawiki/extensions/DidYouKnow/DidYouKnow.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

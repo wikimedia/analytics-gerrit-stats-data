@@ -1,17 +1,16 @@
-id: mediawiki/extensions/StrategyWiki
-name: mediawiki/extensions/StrategyWiki
-shortName: Codereview stats for mediawiki/extensions/StrategyWiki
+id: mediawiki_extensions_StrategyWiki_StrategyWiki
+name: Codereview stats for mediawiki/extensions/StrategyWiki repo
+shortName: mediawiki/extensions/StrategyWiki
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/StrategyWiki/StrategyWiki.csv
+url: /data/datafiles/gs/mediawiki/extensions/StrategyWiki/StrategyWiki.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

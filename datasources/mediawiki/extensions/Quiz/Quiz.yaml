@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Quiz
-name: mediawiki/extensions/Quiz
-shortName: Codereview stats for mediawiki/extensions/Quiz
+id: mediawiki_extensions_Quiz_Quiz
+name: Codereview stats for mediawiki/extensions/Quiz repo
+shortName: mediawiki/extensions/Quiz
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Quiz/Quiz.csv
+url: /data/datafiles/gs/mediawiki/extensions/Quiz/Quiz.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

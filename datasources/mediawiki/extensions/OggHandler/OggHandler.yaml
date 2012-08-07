@@ -1,17 +1,16 @@
-id: mediawiki/extensions/OggHandler
-name: mediawiki/extensions/OggHandler
-shortName: Codereview stats for mediawiki/extensions/OggHandler
+id: mediawiki_extensions_OggHandler_OggHandler
+name: Codereview stats for mediawiki/extensions/OggHandler repo
+shortName: mediawiki/extensions/OggHandler
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/OggHandler/OggHandler.csv
+url: /data/datafiles/gs/mediawiki/extensions/OggHandler/OggHandler.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SimpleSurvey
-name: mediawiki/extensions/SimpleSurvey
-shortName: Codereview stats for mediawiki/extensions/SimpleSurvey
+id: mediawiki_extensions_SimpleSurvey_SimpleSurvey
+name: Codereview stats for mediawiki/extensions/SimpleSurvey repo
+shortName: mediawiki/extensions/SimpleSurvey
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SimpleSurvey/SimpleSurvey.csv
+url: /data/datafiles/gs/mediawiki/extensions/SimpleSurvey/SimpleSurvey.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

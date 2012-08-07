@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AdManager
-name: mediawiki/extensions/AdManager
-shortName: Codereview stats for mediawiki/extensions/AdManager
+id: mediawiki_extensions_AdManager_AdManager
+name: Codereview stats for mediawiki/extensions/AdManager repo
+shortName: mediawiki/extensions/AdManager
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AdManager/AdManager.csv
+url: /data/datafiles/gs/mediawiki/extensions/AdManager/AdManager.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WikiEditor
-name: mediawiki/extensions/WikiEditor
-shortName: Codereview stats for mediawiki/extensions/WikiEditor
+id: mediawiki_extensions_WikiEditor_WikiEditor
+name: Codereview stats for mediawiki/extensions/WikiEditor repo
+shortName: mediawiki/extensions/WikiEditor
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikiEditor/WikiEditor.csv
+url: /data/datafiles/gs/mediawiki/extensions/WikiEditor/WikiEditor.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

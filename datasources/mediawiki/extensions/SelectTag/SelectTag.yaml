@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SelectTag
-name: mediawiki/extensions/SelectTag
-shortName: Codereview stats for mediawiki/extensions/SelectTag
+id: mediawiki_extensions_SelectTag_SelectTag
+name: Codereview stats for mediawiki/extensions/SelectTag repo
+shortName: mediawiki/extensions/SelectTag
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SelectTag/SelectTag.csv
+url: /data/datafiles/gs/mediawiki/extensions/SelectTag/SelectTag.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/30
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

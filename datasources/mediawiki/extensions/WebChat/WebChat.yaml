@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WebChat
-name: mediawiki/extensions/WebChat
-shortName: Codereview stats for mediawiki/extensions/WebChat
+id: mediawiki_extensions_WebChat_WebChat
+name: Codereview stats for mediawiki/extensions/WebChat repo
+shortName: mediawiki/extensions/WebChat
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WebChat/WebChat.csv
+url: /data/datafiles/gs/mediawiki/extensions/WebChat/WebChat.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

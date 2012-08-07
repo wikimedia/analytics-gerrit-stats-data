@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SemanticForms
-name: mediawiki/extensions/SemanticForms
-shortName: Codereview stats for mediawiki/extensions/SemanticForms
+id: mediawiki_extensions_SemanticForms_SemanticForms
+name: Codereview stats for mediawiki/extensions/SemanticForms repo
+shortName: mediawiki/extensions/SemanticForms
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticForms/SemanticForms.csv
+url: /data/datafiles/gs/mediawiki/extensions/SemanticForms/SemanticForms.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

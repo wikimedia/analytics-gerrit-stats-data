@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ForcePreview
-name: mediawiki/extensions/ForcePreview
-shortName: Codereview stats for mediawiki/extensions/ForcePreview
+id: mediawiki_extensions_ForcePreview_ForcePreview
+name: Codereview stats for mediawiki/extensions/ForcePreview repo
+shortName: mediawiki/extensions/ForcePreview
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ForcePreview/ForcePreview.csv
+url: /data/datafiles/gs/mediawiki/extensions/ForcePreview/ForcePreview.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

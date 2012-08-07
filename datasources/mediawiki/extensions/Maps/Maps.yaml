@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Maps
-name: mediawiki/extensions/Maps
-shortName: Codereview stats for mediawiki/extensions/Maps
+id: mediawiki_extensions_Maps_Maps
+name: Codereview stats for mediawiki/extensions/Maps repo
+shortName: mediawiki/extensions/Maps
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Maps/Maps.csv
+url: /data/datafiles/gs/mediawiki/extensions/Maps/Maps.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

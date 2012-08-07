@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UserFunctions
-name: mediawiki/extensions/UserFunctions
-shortName: Codereview stats for mediawiki/extensions/UserFunctions
+id: mediawiki_extensions_UserFunctions_UserFunctions
+name: Codereview stats for mediawiki/extensions/UserFunctions repo
+shortName: mediawiki/extensions/UserFunctions
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UserFunctions/UserFunctions.csv
+url: /data/datafiles/gs/mediawiki/extensions/UserFunctions/UserFunctions.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: operations/puppet
-name: operations/puppet
-shortName: Codereview stats for operations/puppet
+id: operations_puppet_puppet
+name: Codereview stats for operations/puppet repo
+shortName: operations/puppet
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/puppet/puppet.csv
+url: /data/datafiles/gs/operations/puppet/puppet.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2011/9/7
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

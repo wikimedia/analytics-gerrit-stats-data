@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Offline
-name: mediawiki/extensions/Offline
-shortName: Codereview stats for mediawiki/extensions/Offline
+id: mediawiki_extensions_Offline_Offline
+name: Codereview stats for mediawiki/extensions/Offline repo
+shortName: mediawiki/extensions/Offline
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Offline/Offline.csv
+url: /data/datafiles/gs/mediawiki/extensions/Offline/Offline.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

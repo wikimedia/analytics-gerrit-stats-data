@@ -1,17 +1,16 @@
-id: mediawiki/extensions/InputBox
-name: mediawiki/extensions/InputBox
-shortName: Codereview stats for mediawiki/extensions/InputBox
+id: mediawiki_extensions_InputBox_InputBox
+name: Codereview stats for mediawiki/extensions/InputBox repo
+shortName: mediawiki/extensions/InputBox
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/InputBox/InputBox.csv
+url: /data/datafiles/gs/mediawiki/extensions/InputBox/InputBox.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

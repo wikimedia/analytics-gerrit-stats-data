@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WebFonts
-name: mediawiki/extensions/WebFonts
-shortName: Codereview stats for mediawiki/extensions/WebFonts
+id: mediawiki_extensions_WebFonts_WebFonts
+name: Codereview stats for mediawiki/extensions/WebFonts repo
+shortName: mediawiki/extensions/WebFonts
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WebFonts/WebFonts.csv
+url: /data/datafiles/gs/mediawiki/extensions/WebFonts/WebFonts.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

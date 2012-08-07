@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UploadBlacklist
-name: mediawiki/extensions/UploadBlacklist
-shortName: Codereview stats for mediawiki/extensions/UploadBlacklist
+id: mediawiki_extensions_UploadBlacklist_UploadBlacklist
+name: Codereview stats for mediawiki/extensions/UploadBlacklist repo
+shortName: mediawiki/extensions/UploadBlacklist
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UploadBlacklist/UploadBlacklist.csv
+url: /data/datafiles/gs/mediawiki/extensions/UploadBlacklist/UploadBlacklist.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

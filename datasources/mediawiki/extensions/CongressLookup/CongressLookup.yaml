@@ -1,17 +1,16 @@
-id: mediawiki/extensions/CongressLookup
-name: mediawiki/extensions/CongressLookup
-shortName: Codereview stats for mediawiki/extensions/CongressLookup
+id: mediawiki_extensions_CongressLookup_CongressLookup
+name: Codereview stats for mediawiki/extensions/CongressLookup repo
+shortName: mediawiki/extensions/CongressLookup
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CongressLookup/CongressLookup.csv
+url: /data/datafiles/gs/mediawiki/extensions/CongressLookup/CongressLookup.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

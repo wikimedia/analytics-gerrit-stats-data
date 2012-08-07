@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AuthorProtect
-name: mediawiki/extensions/AuthorProtect
-shortName: Codereview stats for mediawiki/extensions/AuthorProtect
+id: mediawiki_extensions_AuthorProtect_AuthorProtect
+name: Codereview stats for mediawiki/extensions/AuthorProtect repo
+shortName: mediawiki/extensions/AuthorProtect
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AuthorProtect/AuthorProtect.csv
+url: /data/datafiles/gs/mediawiki/extensions/AuthorProtect/AuthorProtect.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

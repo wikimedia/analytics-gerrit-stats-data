@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Survey
-name: mediawiki/extensions/Survey
-shortName: Codereview stats for mediawiki/extensions/Survey
+id: mediawiki_extensions_Survey_Survey
+name: Codereview stats for mediawiki/extensions/Survey repo
+shortName: mediawiki/extensions/Survey
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Survey/Survey.csv
+url: /data/datafiles/gs/mediawiki/extensions/Survey/Survey.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

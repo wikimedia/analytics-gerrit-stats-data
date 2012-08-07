@@ -1,17 +1,16 @@
-id: mediawiki/extensions/PagedTiffHandler
-name: mediawiki/extensions/PagedTiffHandler
-shortName: Codereview stats for mediawiki/extensions/PagedTiffHandler
+id: mediawiki_extensions_PagedTiffHandler_PagedTiffHandler
+name: Codereview stats for mediawiki/extensions/PagedTiffHandler repo
+shortName: mediawiki/extensions/PagedTiffHandler
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PagedTiffHandler/PagedTiffHandler.csv
+url: /data/datafiles/gs/mediawiki/extensions/PagedTiffHandler/PagedTiffHandler.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

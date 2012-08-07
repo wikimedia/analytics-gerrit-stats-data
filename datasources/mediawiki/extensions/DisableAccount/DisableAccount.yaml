@@ -1,17 +1,16 @@
-id: mediawiki/extensions/DisableAccount
-name: mediawiki/extensions/DisableAccount
-shortName: Codereview stats for mediawiki/extensions/DisableAccount
+id: mediawiki_extensions_DisableAccount_DisableAccount
+name: Codereview stats for mediawiki/extensions/DisableAccount repo
+shortName: mediawiki/extensions/DisableAccount
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DisableAccount/DisableAccount.csv
+url: /data/datafiles/gs/mediawiki/extensions/DisableAccount/DisableAccount.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

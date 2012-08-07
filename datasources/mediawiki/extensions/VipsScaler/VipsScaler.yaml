@@ -1,17 +1,16 @@
-id: mediawiki/extensions/VipsScaler
-name: mediawiki/extensions/VipsScaler
-shortName: Codereview stats for mediawiki/extensions/VipsScaler
+id: mediawiki_extensions_VipsScaler_VipsScaler
+name: Codereview stats for mediawiki/extensions/VipsScaler repo
+shortName: mediawiki/extensions/VipsScaler
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/VipsScaler/VipsScaler.csv
+url: /data/datafiles/gs/mediawiki/extensions/VipsScaler/VipsScaler.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

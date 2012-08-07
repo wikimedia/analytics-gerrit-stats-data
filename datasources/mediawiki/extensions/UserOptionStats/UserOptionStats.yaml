@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UserOptionStats
-name: mediawiki/extensions/UserOptionStats
-shortName: Codereview stats for mediawiki/extensions/UserOptionStats
+id: mediawiki_extensions_UserOptionStats_UserOptionStats
+name: Codereview stats for mediawiki/extensions/UserOptionStats repo
+shortName: mediawiki/extensions/UserOptionStats
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UserOptionStats/UserOptionStats.csv
+url: /data/datafiles/gs/mediawiki/extensions/UserOptionStats/UserOptionStats.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

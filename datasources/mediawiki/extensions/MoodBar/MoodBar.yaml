@@ -1,17 +1,16 @@
-id: mediawiki/extensions/MoodBar
-name: mediawiki/extensions/MoodBar
-shortName: Codereview stats for mediawiki/extensions/MoodBar
+id: mediawiki_extensions_MoodBar_MoodBar
+name: Codereview stats for mediawiki/extensions/MoodBar repo
+shortName: mediawiki/extensions/MoodBar
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/MoodBar/MoodBar.csv
+url: /data/datafiles/gs/mediawiki/extensions/MoodBar/MoodBar.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

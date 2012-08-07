@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Echo
-name: mediawiki/extensions/Echo
-shortName: Codereview stats for mediawiki/extensions/Echo
+id: mediawiki_extensions_Echo_Echo
+name: Codereview stats for mediawiki/extensions/Echo repo
+shortName: mediawiki/extensions/Echo
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Echo/Echo.csv
+url: /data/datafiles/gs/mediawiki/extensions/Echo/Echo.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

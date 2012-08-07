@@ -1,0 +1,35 @@
+id: wikimedia_wikimedia
+name: Codereview stats for wikimedia repo
+shortName: wikimedia
+format: csv
+url: /data/datafiles/gs/wikimedia/wikimedia.csv
+
+timespan:
+    end: 2012/8/7
+    start: 2012/5/21
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - time_first_review_staff
+    - time_first_review_total
+    - time_first_review_volunteer
+    - time_plus2_staff
+    - time_plus2_total
+    - time_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/GlobalUsage
-name: mediawiki/extensions/GlobalUsage
-shortName: Codereview stats for mediawiki/extensions/GlobalUsage
+id: mediawiki_extensions_GlobalUsage_GlobalUsage
+name: Codereview stats for mediawiki/extensions/GlobalUsage repo
+shortName: mediawiki/extensions/GlobalUsage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/GlobalUsage/GlobalUsage.csv
+url: /data/datafiles/gs/mediawiki/extensions/GlobalUsage/GlobalUsage.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

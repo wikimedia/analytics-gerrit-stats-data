@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SemanticPageSeries
-name: mediawiki/extensions/SemanticPageSeries
-shortName: Codereview stats for mediawiki/extensions/SemanticPageSeries
+id: mediawiki_extensions_SemanticPageSeries_SemanticPageSeries
+name: Codereview stats for mediawiki/extensions/SemanticPageSeries repo
+shortName: mediawiki/extensions/SemanticPageSeries
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticPageSeries/SemanticPageSeries.csv
+url: /data/datafiles/gs/mediawiki/extensions/SemanticPageSeries/SemanticPageSeries.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

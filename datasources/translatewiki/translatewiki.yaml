@@ -1,17 +1,16 @@
-id: translatewiki
-name: translatewiki
-shortName: Codereview stats for translatewiki
+id: translatewiki_translatewiki
+name: Codereview stats for translatewiki repo
+shortName: translatewiki
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/translatewiki/translatewiki.csv
+url: /data/datafiles/gs/translatewiki/translatewiki.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/25
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

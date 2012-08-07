@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UploadLocal
-name: mediawiki/extensions/UploadLocal
-shortName: Codereview stats for mediawiki/extensions/UploadLocal
+id: mediawiki_extensions_UploadLocal_UploadLocal
+name: Codereview stats for mediawiki/extensions/UploadLocal repo
+shortName: mediawiki/extensions/UploadLocal
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UploadLocal/UploadLocal.csv
+url: /data/datafiles/gs/mediawiki/extensions/UploadLocal/UploadLocal.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Awesomeness
-name: mediawiki/extensions/Awesomeness
-shortName: Codereview stats for mediawiki/extensions/Awesomeness
+id: mediawiki_extensions_Awesomeness_Awesomeness
+name: Codereview stats for mediawiki/extensions/Awesomeness repo
+shortName: mediawiki/extensions/Awesomeness
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Awesomeness/Awesomeness.csv
+url: /data/datafiles/gs/mediawiki/extensions/Awesomeness/Awesomeness.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/DataTransfer
-name: mediawiki/extensions/DataTransfer
-shortName: Codereview stats for mediawiki/extensions/DataTransfer
+id: mediawiki_extensions_DataTransfer_DataTransfer
+name: Codereview stats for mediawiki/extensions/DataTransfer repo
+shortName: mediawiki/extensions/DataTransfer
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DataTransfer/DataTransfer.csv
+url: /data/datafiles/gs/mediawiki/extensions/DataTransfer/DataTransfer.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

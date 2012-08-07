@@ -1,17 +1,16 @@
-id: mediawiki/extensions/EditSubpages
-name: mediawiki/extensions/EditSubpages
-shortName: Codereview stats for mediawiki/extensions/EditSubpages
+id: mediawiki_extensions_EditSubpages_EditSubpages
+name: Codereview stats for mediawiki/extensions/EditSubpages repo
+shortName: mediawiki/extensions/EditSubpages
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/EditSubpages/EditSubpages.csv
+url: /data/datafiles/gs/mediawiki/extensions/EditSubpages/EditSubpages.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

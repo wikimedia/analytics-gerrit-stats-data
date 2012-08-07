@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Gadgets
-name: mediawiki/extensions/Gadgets
-shortName: Codereview stats for mediawiki/extensions/Gadgets
+id: mediawiki_extensions_Gadgets_Gadgets
+name: Codereview stats for mediawiki/extensions/Gadgets repo
+shortName: mediawiki/extensions/Gadgets
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Gadgets/Gadgets.csv
+url: /data/datafiles/gs/mediawiki/extensions/Gadgets/Gadgets.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

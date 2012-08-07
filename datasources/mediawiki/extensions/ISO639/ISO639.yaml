@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ISO639
-name: mediawiki/extensions/ISO639
-shortName: Codereview stats for mediawiki/extensions/ISO639
+id: mediawiki_extensions_ISO639_ISO639
+name: Codereview stats for mediawiki/extensions/ISO639 repo
+shortName: mediawiki/extensions/ISO639
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ISO639/ISO639.csv
+url: /data/datafiles/gs/mediawiki/extensions/ISO639/ISO639.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/8
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

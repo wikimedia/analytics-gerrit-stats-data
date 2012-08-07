@@ -1,17 +1,16 @@
-id: mediawiki/extensions/CategoryTree
-name: mediawiki/extensions/CategoryTree
-shortName: Codereview stats for mediawiki/extensions/CategoryTree
+id: mediawiki_extensions_CategoryTree_CategoryTree
+name: Codereview stats for mediawiki/extensions/CategoryTree repo
+shortName: mediawiki/extensions/CategoryTree
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CategoryTree/CategoryTree.csv
+url: /data/datafiles/gs/mediawiki/extensions/CategoryTree/CategoryTree.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

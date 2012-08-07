@@ -1,17 +1,16 @@
-id: operations/apache-config
-name: operations/apache-config
-shortName: Codereview stats for operations/apache-config
+id: operations_apache-config_apache-config
+name: Codereview stats for operations/apache-config repo
+shortName: operations/apache-config
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/apache-config/apache-config.csv
+url: /data/datafiles/gs/operations/apache-config/apache-config.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/9
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: operations/debs/ircd-ratbox
-name: operations/debs/ircd-ratbox
-shortName: Codereview stats for operations/debs/ircd-ratbox
+id: operations_debs_ircd-ratbox_ircd-ratbox
+name: Codereview stats for operations/debs/ircd-ratbox repo
+shortName: operations/debs/ircd-ratbox
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/ircd-ratbox/ircd-ratbox.csv
+url: /data/datafiles/gs/operations/debs/ircd-ratbox/ircd-ratbox.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

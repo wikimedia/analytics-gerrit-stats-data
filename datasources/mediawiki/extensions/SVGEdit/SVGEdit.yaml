@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SVGEdit
-name: mediawiki/extensions/SVGEdit
-shortName: Codereview stats for mediawiki/extensions/SVGEdit
+id: mediawiki_extensions_SVGEdit_SVGEdit
+name: Codereview stats for mediawiki/extensions/SVGEdit repo
+shortName: mediawiki/extensions/SVGEdit
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SVGEdit/SVGEdit.csv
+url: /data/datafiles/gs/mediawiki/extensions/SVGEdit/SVGEdit.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

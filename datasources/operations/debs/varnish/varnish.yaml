@@ -1,17 +1,16 @@
-id: operations/debs/varnish
-name: operations/debs/varnish
-shortName: Codereview stats for operations/debs/varnish
+id: operations_debs_varnish_varnish
+name: Codereview stats for operations/debs/varnish repo
+shortName: operations/debs/varnish
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/varnish/varnish.csv
+url: /data/datafiles/gs/operations/debs/varnish/varnish.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

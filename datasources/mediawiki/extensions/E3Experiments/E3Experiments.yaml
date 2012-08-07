@@ -1,17 +1,16 @@
-id: mediawiki/extensions/E3Experiments
-name: mediawiki/extensions/E3Experiments
-shortName: Codereview stats for mediawiki/extensions/E3Experiments
+id: mediawiki_extensions_E3Experiments_E3Experiments
+name: Codereview stats for mediawiki/extensions/E3Experiments repo
+shortName: mediawiki/extensions/E3Experiments
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/E3Experiments/E3Experiments.csv
+url: /data/datafiles/gs/mediawiki/extensions/E3Experiments/E3Experiments.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/8
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/MarkAsHelpful
-name: mediawiki/extensions/MarkAsHelpful
-shortName: Codereview stats for mediawiki/extensions/MarkAsHelpful
+id: mediawiki_extensions_MarkAsHelpful_MarkAsHelpful
+name: Codereview stats for mediawiki/extensions/MarkAsHelpful repo
+shortName: mediawiki/extensions/MarkAsHelpful
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/MarkAsHelpful/MarkAsHelpful.csv
+url: /data/datafiles/gs/mediawiki/extensions/MarkAsHelpful/MarkAsHelpful.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

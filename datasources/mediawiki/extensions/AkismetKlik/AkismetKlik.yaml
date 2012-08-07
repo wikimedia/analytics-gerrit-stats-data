@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AkismetKlik
-name: mediawiki/extensions/AkismetKlik
-shortName: Codereview stats for mediawiki/extensions/AkismetKlik
+id: mediawiki_extensions_AkismetKlik_AkismetKlik
+name: Codereview stats for mediawiki/extensions/AkismetKlik repo
+shortName: mediawiki/extensions/AkismetKlik
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AkismetKlik/AkismetKlik.csv
+url: /data/datafiles/gs/mediawiki/extensions/AkismetKlik/AkismetKlik.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

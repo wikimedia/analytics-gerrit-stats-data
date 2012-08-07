@@ -1,17 +1,16 @@
-id: mediawiki/extensions/DeleteBatch
-name: mediawiki/extensions/DeleteBatch
-shortName: Codereview stats for mediawiki/extensions/DeleteBatch
+id: mediawiki_extensions_DeleteBatch_DeleteBatch
+name: Codereview stats for mediawiki/extensions/DeleteBatch repo
+shortName: mediawiki/extensions/DeleteBatch
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DeleteBatch/DeleteBatch.csv
+url: /data/datafiles/gs/mediawiki/extensions/DeleteBatch/DeleteBatch.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

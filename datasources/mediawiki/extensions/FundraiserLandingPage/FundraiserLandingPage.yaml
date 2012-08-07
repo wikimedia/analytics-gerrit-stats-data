@@ -1,17 +1,16 @@
-id: mediawiki/extensions/FundraiserLandingPage
-name: mediawiki/extensions/FundraiserLandingPage
-shortName: Codereview stats for mediawiki/extensions/FundraiserLandingPage
+id: mediawiki_extensions_FundraiserLandingPage_FundraiserLandingPage
+name: Codereview stats for mediawiki/extensions/FundraiserLandingPage repo
+shortName: mediawiki/extensions/FundraiserLandingPage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/FundraiserLandingPage/FundraiserLandingPage.csv
+url: /data/datafiles/gs/mediawiki/extensions/FundraiserLandingPage/FundraiserLandingPage.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

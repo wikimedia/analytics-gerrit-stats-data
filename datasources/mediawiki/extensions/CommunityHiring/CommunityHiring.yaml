@@ -1,17 +1,16 @@
-id: mediawiki/extensions/CommunityHiring
-name: mediawiki/extensions/CommunityHiring
-shortName: Codereview stats for mediawiki/extensions/CommunityHiring
+id: mediawiki_extensions_CommunityHiring_CommunityHiring
+name: Codereview stats for mediawiki/extensions/CommunityHiring repo
+shortName: mediawiki/extensions/CommunityHiring
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CommunityHiring/CommunityHiring.csv
+url: /data/datafiles/gs/mediawiki/extensions/CommunityHiring/CommunityHiring.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

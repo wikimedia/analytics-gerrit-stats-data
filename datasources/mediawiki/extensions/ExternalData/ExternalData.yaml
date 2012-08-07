@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ExternalData
-name: mediawiki/extensions/ExternalData
-shortName: Codereview stats for mediawiki/extensions/ExternalData
+id: mediawiki_extensions_ExternalData_ExternalData
+name: Codereview stats for mediawiki/extensions/ExternalData repo
+shortName: mediawiki/extensions/ExternalData
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ExternalData/ExternalData.csv
+url: /data/datafiles/gs/mediawiki/extensions/ExternalData/ExternalData.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

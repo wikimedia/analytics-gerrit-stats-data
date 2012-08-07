@@ -1,17 +1,16 @@
-id: mediawiki/extensions/TweetANew
-name: mediawiki/extensions/TweetANew
-shortName: Codereview stats for mediawiki/extensions/TweetANew
+id: mediawiki_extensions_TweetANew_TweetANew
+name: Codereview stats for mediawiki/extensions/TweetANew repo
+shortName: mediawiki/extensions/TweetANew
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/TweetANew/TweetANew.csv
+url: /data/datafiles/gs/mediawiki/extensions/TweetANew/TweetANew.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

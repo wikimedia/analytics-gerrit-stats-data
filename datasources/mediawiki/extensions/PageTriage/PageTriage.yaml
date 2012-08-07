@@ -1,17 +1,16 @@
-id: mediawiki/extensions/PageTriage
-name: mediawiki/extensions/PageTriage
-shortName: Codereview stats for mediawiki/extensions/PageTriage
+id: mediawiki_extensions_PageTriage_PageTriage
+name: Codereview stats for mediawiki/extensions/PageTriage repo
+shortName: mediawiki/extensions/PageTriage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PageTriage/PageTriage.csv
+url: /data/datafiles/gs/mediawiki/extensions/PageTriage/PageTriage.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/18
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

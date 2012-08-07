@@ -1,17 +1,16 @@
-id: mediawiki/extensions/GeoData
-name: mediawiki/extensions/GeoData
-shortName: Codereview stats for mediawiki/extensions/GeoData
+id: mediawiki_extensions_GeoData_GeoData
+name: Codereview stats for mediawiki/extensions/GeoData repo
+shortName: mediawiki/extensions/GeoData
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/GeoData/GeoData.csv
+url: /data/datafiles/gs/mediawiki/extensions/GeoData/GeoData.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

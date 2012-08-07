@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WikiLove
-name: mediawiki/extensions/WikiLove
-shortName: Codereview stats for mediawiki/extensions/WikiLove
+id: mediawiki_extensions_WikiLove_WikiLove
+name: Codereview stats for mediawiki/extensions/WikiLove repo
+shortName: mediawiki/extensions/WikiLove
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikiLove/WikiLove.csv
+url: /data/datafiles/gs/mediawiki/extensions/WikiLove/WikiLove.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

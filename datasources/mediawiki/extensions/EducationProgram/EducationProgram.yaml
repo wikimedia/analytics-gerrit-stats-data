@@ -1,17 +1,16 @@
-id: mediawiki/extensions/EducationProgram
-name: mediawiki/extensions/EducationProgram
-shortName: Codereview stats for mediawiki/extensions/EducationProgram
+id: mediawiki_extensions_EducationProgram_EducationProgram
+name: Codereview stats for mediawiki/extensions/EducationProgram repo
+shortName: mediawiki/extensions/EducationProgram
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/EducationProgram/EducationProgram.csv
+url: /data/datafiles/gs/mediawiki/extensions/EducationProgram/EducationProgram.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/CentralAuth
-name: mediawiki/extensions/CentralAuth
-shortName: Codereview stats for mediawiki/extensions/CentralAuth
+id: mediawiki_extensions_CentralAuth_CentralAuth
+name: Codereview stats for mediawiki/extensions/CentralAuth repo
+shortName: mediawiki/extensions/CentralAuth
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CentralAuth/CentralAuth.csv
+url: /data/datafiles/gs/mediawiki/extensions/CentralAuth/CentralAuth.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

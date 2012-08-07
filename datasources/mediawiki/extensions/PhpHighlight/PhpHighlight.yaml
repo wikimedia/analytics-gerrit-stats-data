@@ -1,17 +1,16 @@
-id: mediawiki/extensions/PhpHighlight
-name: mediawiki/extensions/PhpHighlight
-shortName: Codereview stats for mediawiki/extensions/PhpHighlight
+id: mediawiki_extensions_PhpHighlight_PhpHighlight
+name: Codereview stats for mediawiki/extensions/PhpHighlight repo
+shortName: mediawiki/extensions/PhpHighlight
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PhpHighlight/PhpHighlight.csv
+url: /data/datafiles/gs/mediawiki/extensions/PhpHighlight/PhpHighlight.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

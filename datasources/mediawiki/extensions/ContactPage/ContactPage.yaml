@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ContactPage
-name: mediawiki/extensions/ContactPage
-shortName: Codereview stats for mediawiki/extensions/ContactPage
+id: mediawiki_extensions_ContactPage_ContactPage
+name: Codereview stats for mediawiki/extensions/ContactPage repo
+shortName: mediawiki/extensions/ContactPage
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ContactPage/ContactPage.csv
+url: /data/datafiles/gs/mediawiki/extensions/ContactPage/ContactPage.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

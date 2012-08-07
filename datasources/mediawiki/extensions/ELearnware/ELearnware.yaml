@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ELearnware
-name: mediawiki/extensions/ELearnware
-shortName: Codereview stats for mediawiki/extensions/ELearnware
+id: mediawiki_extensions_ELearnware_ELearnware
+name: Codereview stats for mediawiki/extensions/ELearnware repo
+shortName: mediawiki/extensions/ELearnware
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ELearnware/ELearnware.csv
+url: /data/datafiles/gs/mediawiki/extensions/ELearnware/ELearnware.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/8
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

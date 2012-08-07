@@ -1,17 +1,16 @@
-id: mediawiki/extensions/NSFileRepo
-name: mediawiki/extensions/NSFileRepo
-shortName: Codereview stats for mediawiki/extensions/NSFileRepo
+id: mediawiki_extensions_NSFileRepo_NSFileRepo
+name: Codereview stats for mediawiki/extensions/NSFileRepo repo
+shortName: mediawiki/extensions/NSFileRepo
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/NSFileRepo/NSFileRepo.csv
+url: /data/datafiles/gs/mediawiki/extensions/NSFileRepo/NSFileRepo.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

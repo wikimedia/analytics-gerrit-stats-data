@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SemanticExpressiveness
-name: mediawiki/extensions/SemanticExpressiveness
-shortName: Codereview stats for mediawiki/extensions/SemanticExpressiveness
+id: mediawiki_extensions_SemanticExpressiveness_SemanticExpressiveness
+name: Codereview stats for mediawiki/extensions/SemanticExpressiveness repo
+shortName: mediawiki/extensions/SemanticExpressiveness
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SemanticExpressiveness/SemanticExpressiveness.csv
+url: /data/datafiles/gs/mediawiki/extensions/SemanticExpressiveness/SemanticExpressiveness.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

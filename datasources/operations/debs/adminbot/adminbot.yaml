@@ -1,17 +1,16 @@
-id: operations/debs/adminbot
-name: operations/debs/adminbot
-shortName: Codereview stats for operations/debs/adminbot
+id: operations_debs_adminbot_adminbot
+name: Codereview stats for operations/debs/adminbot repo
+shortName: operations/debs/adminbot
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/adminbot/adminbot.csv
+url: /data/datafiles/gs/operations/debs/adminbot/adminbot.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/16
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

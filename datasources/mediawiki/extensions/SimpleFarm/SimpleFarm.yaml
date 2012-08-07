@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SimpleFarm
-name: mediawiki/extensions/SimpleFarm
-shortName: Codereview stats for mediawiki/extensions/SimpleFarm
+id: mediawiki_extensions_SimpleFarm_SimpleFarm
+name: Codereview stats for mediawiki/extensions/SimpleFarm repo
+shortName: mediawiki/extensions/SimpleFarm
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SimpleFarm/SimpleFarm.csv
+url: /data/datafiles/gs/mediawiki/extensions/SimpleFarm/SimpleFarm.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

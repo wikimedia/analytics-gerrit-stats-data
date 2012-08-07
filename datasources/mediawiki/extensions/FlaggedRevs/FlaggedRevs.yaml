@@ -1,17 +1,16 @@
-id: mediawiki/extensions/FlaggedRevs
-name: mediawiki/extensions/FlaggedRevs
-shortName: Codereview stats for mediawiki/extensions/FlaggedRevs
+id: mediawiki_extensions_FlaggedRevs_FlaggedRevs
+name: Codereview stats for mediawiki/extensions/FlaggedRevs repo
+shortName: mediawiki/extensions/FlaggedRevs
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/FlaggedRevs/FlaggedRevs.csv
+url: /data/datafiles/gs/mediawiki/extensions/FlaggedRevs/FlaggedRevs.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

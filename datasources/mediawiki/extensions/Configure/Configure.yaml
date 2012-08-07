@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Configure
-name: mediawiki/extensions/Configure
-shortName: Codereview stats for mediawiki/extensions/Configure
+id: mediawiki_extensions_Configure_Configure
+name: Codereview stats for mediawiki/extensions/Configure repo
+shortName: mediawiki/extensions/Configure
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Configure/Configure.csv
+url: /data/datafiles/gs/mediawiki/extensions/Configure/Configure.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

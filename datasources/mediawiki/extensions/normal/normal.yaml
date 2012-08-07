@@ -1,17 +1,16 @@
-id: mediawiki/extensions/normal
-name: mediawiki/extensions/normal
-shortName: Codereview stats for mediawiki/extensions/normal
+id: mediawiki_extensions_normal_normal
+name: Codereview stats for mediawiki/extensions/normal repo
+shortName: mediawiki/extensions/normal
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/normal/normal.csv
+url: /data/datafiles/gs/mediawiki/extensions/normal/normal.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

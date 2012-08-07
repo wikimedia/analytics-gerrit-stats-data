@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AntiSpoof
-name: mediawiki/extensions/AntiSpoof
-shortName: Codereview stats for mediawiki/extensions/AntiSpoof
+id: mediawiki_extensions_AntiSpoof_AntiSpoof
+name: Codereview stats for mediawiki/extensions/AntiSpoof repo
+shortName: mediawiki/extensions/AntiSpoof
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AntiSpoof/AntiSpoof.csv
+url: /data/datafiles/gs/mediawiki/extensions/AntiSpoof/AntiSpoof.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/DiscussionThreading
-name: mediawiki/extensions/DiscussionThreading
-shortName: Codereview stats for mediawiki/extensions/DiscussionThreading
+id: mediawiki_extensions_DiscussionThreading_DiscussionThreading
+name: Codereview stats for mediawiki/extensions/DiscussionThreading repo
+shortName: mediawiki/extensions/DiscussionThreading
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/DiscussionThreading/DiscussionThreading.csv
+url: /data/datafiles/gs/mediawiki/extensions/DiscussionThreading/DiscussionThreading.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

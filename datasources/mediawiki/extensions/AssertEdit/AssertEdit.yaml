@@ -1,17 +1,16 @@
-id: mediawiki/extensions/AssertEdit
-name: mediawiki/extensions/AssertEdit
-shortName: Codereview stats for mediawiki/extensions/AssertEdit
+id: mediawiki_extensions_AssertEdit_AssertEdit
+name: Codereview stats for mediawiki/extensions/AssertEdit repo
+shortName: mediawiki/extensions/AssertEdit
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/AssertEdit/AssertEdit.csv
+url: /data/datafiles/gs/mediawiki/extensions/AssertEdit/AssertEdit.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

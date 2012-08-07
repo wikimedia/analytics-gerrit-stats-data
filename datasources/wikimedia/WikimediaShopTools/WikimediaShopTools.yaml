@@ -1,17 +1,16 @@
-id: wikimedia/WikimediaShopTools
-name: wikimedia/WikimediaShopTools
-shortName: Codereview stats for wikimedia/WikimediaShopTools
+id: wikimedia_WikimediaShopTools_WikimediaShopTools
+name: Codereview stats for wikimedia/WikimediaShopTools repo
+shortName: wikimedia/WikimediaShopTools
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/wikimedia/WikimediaShopTools/WikimediaShopTools.csv
+url: /data/datafiles/gs/wikimedia/WikimediaShopTools/WikimediaShopTools.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/11
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

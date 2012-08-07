@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Checkpoint
-name: mediawiki/extensions/Checkpoint
-shortName: Codereview stats for mediawiki/extensions/Checkpoint
+id: mediawiki_extensions_Checkpoint_Checkpoint
+name: Codereview stats for mediawiki/extensions/Checkpoint repo
+shortName: mediawiki/extensions/Checkpoint
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Checkpoint/Checkpoint.csv
+url: /data/datafiles/gs/mediawiki/extensions/Checkpoint/Checkpoint.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

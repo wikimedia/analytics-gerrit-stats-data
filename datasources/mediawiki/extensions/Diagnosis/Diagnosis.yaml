@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Diagnosis
-name: mediawiki/extensions/Diagnosis
-shortName: Codereview stats for mediawiki/extensions/Diagnosis
+id: mediawiki_extensions_Diagnosis_Diagnosis
+name: Codereview stats for mediawiki/extensions/Diagnosis repo
+shortName: mediawiki/extensions/Diagnosis
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Diagnosis/Diagnosis.csv
+url: /data/datafiles/gs/mediawiki/extensions/Diagnosis/Diagnosis.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

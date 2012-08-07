@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WhiteSpace
-name: mediawiki/extensions/WhiteSpace
-shortName: Codereview stats for mediawiki/extensions/WhiteSpace
+id: mediawiki_extensions_WhiteSpace_WhiteSpace
+name: Codereview stats for mediawiki/extensions/WhiteSpace repo
+shortName: mediawiki/extensions/WhiteSpace
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WhiteSpace/WhiteSpace.csv
+url: /data/datafiles/gs/mediawiki/extensions/WhiteSpace/WhiteSpace.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

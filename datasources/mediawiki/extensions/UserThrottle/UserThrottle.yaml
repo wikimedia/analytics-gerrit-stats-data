@@ -1,17 +1,16 @@
-id: mediawiki/extensions/UserThrottle
-name: mediawiki/extensions/UserThrottle
-shortName: Codereview stats for mediawiki/extensions/UserThrottle
+id: mediawiki_extensions_UserThrottle_UserThrottle
+name: Codereview stats for mediawiki/extensions/UserThrottle repo
+shortName: mediawiki/extensions/UserThrottle
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/UserThrottle/UserThrottle.csv
+url: /data/datafiles/gs/mediawiki/extensions/UserThrottle/UserThrottle.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

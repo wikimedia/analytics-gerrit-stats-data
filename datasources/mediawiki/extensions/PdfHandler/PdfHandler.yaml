@@ -1,17 +1,16 @@
-id: mediawiki/extensions/PdfHandler
-name: mediawiki/extensions/PdfHandler
-shortName: Codereview stats for mediawiki/extensions/PdfHandler
+id: mediawiki_extensions_PdfHandler_PdfHandler
+name: Codereview stats for mediawiki/extensions/PdfHandler repo
+shortName: mediawiki/extensions/PdfHandler
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/PdfHandler/PdfHandler.csv
+url: /data/datafiles/gs/mediawiki/extensions/PdfHandler/PdfHandler.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

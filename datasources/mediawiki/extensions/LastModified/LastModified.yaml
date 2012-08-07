@@ -1,17 +1,16 @@
-id: mediawiki/extensions/LastModified
-name: mediawiki/extensions/LastModified
-shortName: Codereview stats for mediawiki/extensions/LastModified
+id: mediawiki_extensions_LastModified_LastModified
+name: Codereview stats for mediawiki/extensions/LastModified repo
+shortName: mediawiki/extensions/LastModified
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/LastModified/LastModified.csv
+url: /data/datafiles/gs/mediawiki/extensions/LastModified/LastModified.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

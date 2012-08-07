@@ -1,17 +1,16 @@
-id: mediawiki/extensions/GoogleAdSense
-name: mediawiki/extensions/GoogleAdSense
-shortName: Codereview stats for mediawiki/extensions/GoogleAdSense
+id: mediawiki_extensions_GoogleAdSense_GoogleAdSense
+name: Codereview stats for mediawiki/extensions/GoogleAdSense repo
+shortName: mediawiki/extensions/GoogleAdSense
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/GoogleAdSense/GoogleAdSense.csv
+url: /data/datafiles/gs/mediawiki/extensions/GoogleAdSense/GoogleAdSense.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/21
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

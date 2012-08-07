@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SkinPerNamespace
-name: mediawiki/extensions/SkinPerNamespace
-shortName: Codereview stats for mediawiki/extensions/SkinPerNamespace
+id: mediawiki_extensions_SkinPerNamespace_SkinPerNamespace
+name: Codereview stats for mediawiki/extensions/SkinPerNamespace repo
+shortName: mediawiki/extensions/SkinPerNamespace
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SkinPerNamespace/SkinPerNamespace.csv
+url: /data/datafiles/gs/mediawiki/extensions/SkinPerNamespace/SkinPerNamespace.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/5/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

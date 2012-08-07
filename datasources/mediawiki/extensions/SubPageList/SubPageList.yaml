@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SubPageList
-name: mediawiki/extensions/SubPageList
-shortName: Codereview stats for mediawiki/extensions/SubPageList
+id: mediawiki_extensions_SubPageList_SubPageList
+name: Codereview stats for mediawiki/extensions/SubPageList repo
+shortName: mediawiki/extensions/SubPageList
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SubPageList/SubPageList.csv
+url: /data/datafiles/gs/mediawiki/extensions/SubPageList/SubPageList.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

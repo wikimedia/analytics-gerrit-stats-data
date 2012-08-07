@@ -1,17 +1,16 @@
-id: mediawiki/extensions/CommunityApplications
-name: mediawiki/extensions/CommunityApplications
-shortName: Codereview stats for mediawiki/extensions/CommunityApplications
+id: mediawiki_extensions_CommunityApplications_CommunityApplications
+name: Codereview stats for mediawiki/extensions/CommunityApplications repo
+shortName: mediawiki/extensions/CommunityApplications
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/CommunityApplications/CommunityApplications.csv
+url: /data/datafiles/gs/mediawiki/extensions/CommunityApplications/CommunityApplications.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/23
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

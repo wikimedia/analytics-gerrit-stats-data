@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Widgets
-name: mediawiki/extensions/Widgets
-shortName: Codereview stats for mediawiki/extensions/Widgets
+id: mediawiki_extensions_Widgets_Widgets
+name: Codereview stats for mediawiki/extensions/Widgets repo
+shortName: mediawiki/extensions/Widgets
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Widgets/Widgets.csv
+url: /data/datafiles/gs/mediawiki/extensions/Widgets/Widgets.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/27
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

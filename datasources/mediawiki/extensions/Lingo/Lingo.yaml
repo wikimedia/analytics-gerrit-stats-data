@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Lingo
-name: mediawiki/extensions/Lingo
-shortName: Codereview stats for mediawiki/extensions/Lingo
+id: mediawiki_extensions_Lingo_Lingo
+name: Codereview stats for mediawiki/extensions/Lingo repo
+shortName: mediawiki/extensions/Lingo
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Lingo/Lingo.csv
+url: /data/datafiles/gs/mediawiki/extensions/Lingo/Lingo.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

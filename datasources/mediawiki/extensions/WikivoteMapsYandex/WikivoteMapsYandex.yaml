@@ -1,17 +1,16 @@
-id: mediawiki/extensions/WikivoteMapsYandex
-name: mediawiki/extensions/WikivoteMapsYandex
-shortName: Codereview stats for mediawiki/extensions/WikivoteMapsYandex
+id: mediawiki_extensions_WikivoteMapsYandex_WikivoteMapsYandex
+name: Codereview stats for mediawiki/extensions/WikivoteMapsYandex repo
+shortName: mediawiki/extensions/WikivoteMapsYandex
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/WikivoteMapsYandex/WikivoteMapsYandex.csv
+url: /data/datafiles/gs/mediawiki/extensions/WikivoteMapsYandex/WikivoteMapsYandex.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

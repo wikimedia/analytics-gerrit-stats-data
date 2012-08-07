@@ -1,17 +1,16 @@
-id: operations/debs/search-qa
-name: operations/debs/search-qa
-shortName: Codereview stats for operations/debs/search-qa
+id: operations_debs_search-qa_search-qa
+name: Codereview stats for operations/debs/search-qa repo
+shortName: operations/debs/search-qa
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/debs/search-qa/search-qa.csv
+url: /data/datafiles/gs/operations/debs/search-qa/search-qa.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/13
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

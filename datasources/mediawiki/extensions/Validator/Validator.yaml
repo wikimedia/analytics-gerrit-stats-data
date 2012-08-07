@@ -1,17 +1,16 @@
-id: mediawiki/extensions/Validator
-name: mediawiki/extensions/Validator
-shortName: Codereview stats for mediawiki/extensions/Validator
+id: mediawiki_extensions_Validator_Validator
+name: Codereview stats for mediawiki/extensions/Validator repo
+shortName: mediawiki/extensions/Validator
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/Validator/Validator.csv
+url: /data/datafiles/gs/mediawiki/extensions/Validator/Validator.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/4/6
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

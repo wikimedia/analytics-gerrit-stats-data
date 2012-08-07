@@ -1,17 +1,16 @@
-id: mediawiki/extensions/SubpageSortkey
-name: mediawiki/extensions/SubpageSortkey
-shortName: Codereview stats for mediawiki/extensions/SubpageSortkey
+id: mediawiki_extensions_SubpageSortkey_SubpageSortkey
+name: Codereview stats for mediawiki/extensions/SubpageSortkey repo
+shortName: mediawiki/extensions/SubpageSortkey
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/SubpageSortkey/SubpageSortkey.csv
+url: /data/datafiles/gs/mediawiki/extensions/SubpageSortkey/SubpageSortkey.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/7/18
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

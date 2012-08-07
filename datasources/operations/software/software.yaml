@@ -1,17 +1,16 @@
-id: operations/software
-name: operations/software
-shortName: Codereview stats for operations/software
+id: operations_software_software
+name: Codereview stats for operations/software repo
+shortName: operations/software
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/operations/software/software.csv
+url: /data/datafiles/gs/operations/software/software.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/1/12
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

@@ -1,17 +1,16 @@
-id: mediawiki/extensions/BreadCrumbs
-name: mediawiki/extensions/BreadCrumbs
-shortName: Codereview stats for mediawiki/extensions/BreadCrumbs
+id: mediawiki_extensions_BreadCrumbs_BreadCrumbs
+name: Codereview stats for mediawiki/extensions/BreadCrumbs repo
+shortName: mediawiki/extensions/BreadCrumbs
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/BreadCrumbs/BreadCrumbs.csv
+url: /data/datafiles/gs/mediawiki/extensions/BreadCrumbs/BreadCrumbs.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

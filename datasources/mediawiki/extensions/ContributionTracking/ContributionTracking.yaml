@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ContributionTracking
-name: mediawiki/extensions/ContributionTracking
-shortName: Codereview stats for mediawiki/extensions/ContributionTracking
+id: mediawiki_extensions_ContributionTracking_ContributionTracking
+name: Codereview stats for mediawiki/extensions/ContributionTracking repo
+shortName: mediawiki/extensions/ContributionTracking
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ContributionTracking/ContributionTracking.csv
+url: /data/datafiles/gs/mediawiki/extensions/ContributionTracking/ContributionTracking.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/3/22
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review

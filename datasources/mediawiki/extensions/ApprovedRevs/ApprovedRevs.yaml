@@ -1,17 +1,16 @@
-id: mediawiki/extensions/ApprovedRevs
-name: mediawiki/extensions/ApprovedRevs
-shortName: Codereview stats for mediawiki/extensions/ApprovedRevs
+id: mediawiki_extensions_ApprovedRevs_ApprovedRevs
+name: Codereview stats for mediawiki/extensions/ApprovedRevs repo
+shortName: mediawiki/extensions/ApprovedRevs
 format: csv
-url: /data/datasources/gerrit-stats/datafiles/mediawiki/extensions/ApprovedRevs/ApprovedRevs.csv
+url: /data/datafiles/gs/mediawiki/extensions/ApprovedRevs/ApprovedRevs.csv
 
 timespan:
-    end: 2012/8/2
+    end: 2012/8/7
     start: 2012/6/15
     step: 1d
 
 columns:
     labels:
-    - Date
     - date
     - commits
     - self_review
