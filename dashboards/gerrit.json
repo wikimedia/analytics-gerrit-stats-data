@@ -1,15 +1,21 @@
 {
-    "name": "Gerrit Stats",
-    "headline": "Code Review Activity",
+    "name": "Gerrit Stats | WMF Code Review Activity",
+    "headline": "WMF Code Review Activity",
     "subhead": "Gerrit Stats",
     "tabs": [
         {
-            "name": "Core", 
+            "name": "Summaries", 
             "graph_ids": [
+                "some_commits",
+                "analytics",
+                "all_extensions",
+                "wmf_extensions"
             ]
         }, {
-            "name": "Secondary", 
+            "name": "Mediawiki", 
             "graph_ids":[
+                "all_metrics",
+                "operations_puppet_puppet",
             ]
         }
    ]
