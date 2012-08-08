@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ISO639/ISO639.csv
 
 timespan:
-    end: 2012/8/7
+    end: 2012/8/8
     start: 2012/6/8
     step: 1d
 

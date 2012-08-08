@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/software/software.csv
 
 timespan:
-    end: 2012/8/7
+    end: 2012/8/8
     start: 2012/1/12
     step: 1d
 
