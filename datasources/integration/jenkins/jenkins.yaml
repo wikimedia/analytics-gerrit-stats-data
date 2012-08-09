@@ -6,7 +6,7 @@ url: /data/datafiles/gs/integration/jenkins/jenkins.csv
 
 timespan:
     end: 2012/8/9
-    start: 2011/10/20
+    start: 2011/9/8
     step: 1d
 
 columns:

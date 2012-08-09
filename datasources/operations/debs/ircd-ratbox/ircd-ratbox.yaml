@@ -6,7 +6,7 @@ url: /data/datafiles/gs/operations/debs/ircd-ratbox/ircd-ratbox.csv
 
 timespan:
     end: 2012/8/9
-    start: 2012/6/21
+    start: 2011/9/8
     step: 1d
 
 columns:
