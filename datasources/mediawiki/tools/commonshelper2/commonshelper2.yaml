@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/tools/commonshelper2/commonshelper2.csv
 
 timespan:
-    end: 2012/8/8
+    end: 2012/8/9
     start: 2012/7/31
     step: 1d
 
