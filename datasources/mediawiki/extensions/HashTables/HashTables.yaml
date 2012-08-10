@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/HashTables/HashTables.csv
 
 timespan:
     end: 2012/8/9
-    start: 2011/9/8
+    start: 2012/5/27
     step: 1d
 
 columns:
@@ -14,12 +14,12 @@ columns:
     - date
     - commits
     - self_review
-    - time_first_review_staff
-    - time_first_review_total
-    - time_first_review_volunteer
-    - time_plus2_staff
-    - time_plus2_total
-    - time_plus2_volunteer
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
     types:
     - date
     - int
