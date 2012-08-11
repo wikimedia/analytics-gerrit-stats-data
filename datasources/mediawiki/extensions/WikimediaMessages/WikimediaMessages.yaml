@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WikimediaMessages/WikimediaMessages.csv
 
 timespan:
-    end: 2012/8/9
+    end: 2012/8/10
     start: 2012/3/23
     step: 1d
 
