@@ -1,0 +1,35 @@
+id: analytics_gerrit-stats_data_data
+name: Codereview stats for analytics/gerrit-stats/data repo
+shortName: analytics/gerrit-stats/data
+format: csv
+url: /data/datafiles/gs/analytics/gerrit-stats/data/data.csv
+
+timespan:
+    end: 2012/8/11
+    start: 2012/8/10
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

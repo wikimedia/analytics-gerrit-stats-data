@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/packages/WPI/WPI.csv
 
 timespan:
-    end: 2012/8/10
+    end: 2012/8/11
     start: 2012/6/3
     step: 1d
 

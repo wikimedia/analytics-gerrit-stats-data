@@ -1,0 +1,35 @@
+id: mediawiki_php_wmerrors_wmerrors
+name: Codereview stats for mediawiki/php/wmerrors repo
+shortName: mediawiki/php/wmerrors
+format: csv
+url: /data/datafiles/gs/mediawiki/php/wmerrors/wmerrors.csv
+
+timespan:
+    end: 2012/8/11
+    start: 2012/8/10
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

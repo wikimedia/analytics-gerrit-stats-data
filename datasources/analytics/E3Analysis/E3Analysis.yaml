@@ -1,0 +1,35 @@
+id: analytics_E3Analysis_E3Analysis
+name: Codereview stats for analytics/E3Analysis repo
+shortName: analytics/E3Analysis
+format: csv
+url: /data/datafiles/gs/analytics/E3Analysis/E3Analysis.csv
+
+timespan:
+    end: 2012/8/11
+    start: 2012/8/10
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
