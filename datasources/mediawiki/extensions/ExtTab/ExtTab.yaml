@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/ExtTab/ExtTab.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/7/18
+    start: 2012/7/17
     step: 1d
 
 columns:

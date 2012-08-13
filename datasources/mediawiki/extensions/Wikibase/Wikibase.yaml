@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/Wikibase/Wikibase.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/6/8
+    start: 2012/6/7
     step: 1d
 
 columns:

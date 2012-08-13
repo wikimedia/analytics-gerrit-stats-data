@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/tools/upload/PhotoUpload/PhotoUpload.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/6/15
+    start: 2012/6/14
     step: 1d
 
 columns:

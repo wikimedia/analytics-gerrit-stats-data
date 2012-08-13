@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/MathSearch/MathSearch.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/7/20
+    start: 2012/7/19
     step: 1d
 
 columns:

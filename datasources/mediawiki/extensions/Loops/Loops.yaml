@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/Loops/Loops.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/5/27
+    start: 2012/5/26
     step: 1d
 
 columns:

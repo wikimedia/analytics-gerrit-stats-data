@@ -6,7 +6,7 @@ url: /data/datafiles/gs/operations/debs/lucene-search-2/lucene-search-2.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/5/30
+    start: 2012/5/29
     step: 1d
 
 columns:

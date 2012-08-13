@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/tools/codesniffer/codesniffer.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/4/11
+    start: 2012/4/10
     step: 1d
 
 columns:

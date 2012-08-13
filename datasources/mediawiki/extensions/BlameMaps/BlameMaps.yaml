@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/BlameMaps/BlameMaps.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/8/7
+    start: 2012/8/6
     step: 1d
 
 columns:

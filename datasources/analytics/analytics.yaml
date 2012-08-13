@@ -6,7 +6,7 @@ url: /data/datafiles/gs/analytics/analytics.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/1/23
+    start: 2012/1/22
     step: 1d
 
 columns:

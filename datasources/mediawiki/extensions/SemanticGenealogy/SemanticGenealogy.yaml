@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/SemanticGenealogy/SemanticGenealogy
 
 timespan:
     end: 2012/8/12
-    start: 2012/8/10
+    start: 2012/8/9
     step: 1d
 
 columns:

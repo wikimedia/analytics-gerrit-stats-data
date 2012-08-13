@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/FormPreloadPostCache/FormPreloadPos
 
 timespan:
     end: 2012/8/12
-    start: 2012/3/23
+    start: 2012/3/22
     step: 1d
 
 columns:

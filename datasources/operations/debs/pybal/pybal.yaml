@@ -6,7 +6,7 @@ url: /data/datafiles/gs/operations/debs/pybal/pybal.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/5/24
+    start: 2012/5/23
     step: 1d
 
 columns:

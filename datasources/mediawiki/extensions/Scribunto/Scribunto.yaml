@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/Scribunto/Scribunto.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/4/6
+    start: 2012/4/5
     step: 1d
 
 columns:

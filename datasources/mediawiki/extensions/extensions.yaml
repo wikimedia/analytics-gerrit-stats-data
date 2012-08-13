@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/extensions.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/3/21
+    start: 2012/3/20
     step: 1d
 
 columns:

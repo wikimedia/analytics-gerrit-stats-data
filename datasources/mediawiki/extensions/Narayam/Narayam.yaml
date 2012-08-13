@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/Narayam/Narayam.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/3/22
+    start: 2012/3/21
     step: 1d
 
 columns:

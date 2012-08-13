@@ -6,7 +6,7 @@ url: /data/datafiles/gs/mediawiki/extensions/SemanticBundle/SemanticBundle.csv
 
 timespan:
     end: 2012/8/12
-    start: 2012/7/23
+    start: 2012/7/22
     step: 1d
 
 columns:
