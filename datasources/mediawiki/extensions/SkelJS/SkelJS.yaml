@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SkelJS/SkelJS.csv
 
 timespan:
-    end: 2012/8/11
+    end: 2012/8/12
     start: 2012/6/28
     step: 1d
 
