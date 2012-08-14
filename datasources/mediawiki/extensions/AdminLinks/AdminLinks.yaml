@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/AdminLinks/AdminLinks.csv
 
 timespan:
-    end: 2012/8/12
+    end: 2012/8/13
     start: 2012/4/5
     step: 1d
 
