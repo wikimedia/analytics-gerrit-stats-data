@@ -1,0 +1,35 @@
+id: mediawiki_extensions_Quantcast_Quantcast
+name: Codereview stats for mediawiki/extensions/Quantcast repo
+shortName: mediawiki/extensions/Quantcast
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/Quantcast/Quantcast.csv
+
+timespan:
+    end: 2012/8/13
+    start: 2012/8/13
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
