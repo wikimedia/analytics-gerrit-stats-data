@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/debs/mysqlatfacebook/mysqlatfacebook.csv
 
 timespan:
-    end: 2012/8/13
+    end: 2012/8/14
     start: 2012/7/17
     step: 1d
 

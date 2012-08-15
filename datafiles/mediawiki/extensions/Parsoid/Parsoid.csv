@@ -15,3 +15,4 @@ date,commits,self_review,waiting_first_review_staff,waiting_first_review_total,w
 2012/08/11,set([18697L]),0,0,1,1,0,0,0,0
 2012/08/12,set([18697L, 18996L, 19001L]),2,0,3,3,0,0,0,0
 2012/08/13,set([18697L, 18996L, 19001L]),3,0,3,3,0,0,0,0
+2012/08/14,set([19001L, 18996L]),2,0,2,2,0,0,0,0
