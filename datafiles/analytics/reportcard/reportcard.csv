@@ -1,7 +1,7 @@
 date,commits,self_review,waiting_first_review_staff,waiting_first_review_total,waiting_first_review_volunteer,waiting_plus2_staff,waiting_plus2_total,waiting_plus2_volunteer
 2012/01/22,0,0,0,0,0,0,0,0
 2012/01/23,0,0,0,0,0,3,3,0
-2012/01/24,4,1,1,1,0,4,4,0
+2012/01/24,4,1,0,0,0,4,4,0
 2012/01/25,2,0,0,0,0,0,0,0
 2012/01/26,0,0,0,0,0,3,3,0
 2012/01/27,3,0,0,0,0,3,3,0
@@ -24,7 +24,7 @@ date,commits,self_review,waiting_first_review_staff,waiting_first_review_total,w
 2012/02/13,0,0,6,6,0,0,0,0
 2012/02/14,0,0,6,6,0,0,0,0
 2012/02/15,1,0,6,6,0,0,0,0
-2012/02/16,1,0,7,7,0,10,10,0
+2012/02/16,1,0,6,6,0,10,10,0
 2012/02/17,3,0,0,0,0,0,0,0
 2012/02/18,0,0,0,0,0,0,0,0
 2012/02/19,0,0,0,0,0,0,0,0
