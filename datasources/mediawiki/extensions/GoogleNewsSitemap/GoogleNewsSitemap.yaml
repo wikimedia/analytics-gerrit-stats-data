@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/GoogleNewsSitemap/GoogleNewsSitemap.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/3/22
+    end: 2012/8/15
+    start: 2012/3/21
     step: 1d
 
 columns:

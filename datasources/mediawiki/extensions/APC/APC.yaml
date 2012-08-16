@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/APC/APC.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/6/20
+    end: 2012/8/15
+    start: 2012/6/19
     step: 1d
 
 columns:

@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/GerritTools/GerritTools.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/6/3
+    end: 2012/8/15
+    start: 2012/6/2
     step: 1d
 
 columns:

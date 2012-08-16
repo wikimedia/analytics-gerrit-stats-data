@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ELearnware/ELearnware.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/6/7
+    end: 2012/8/15
+    start: 2012/6/6
     step: 1d
 
 columns:

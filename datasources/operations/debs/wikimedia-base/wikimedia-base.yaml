@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/debs/wikimedia-base/wikimedia-base.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/5/2
+    end: 2012/8/15
+    start: 2012/5/1
     step: 1d
 
 columns:

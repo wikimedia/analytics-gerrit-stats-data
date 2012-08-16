@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SVGEdit/SVGEdit.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/7/17
+    end: 2012/8/15
+    start: 2012/7/16
     step: 1d
 
 columns:

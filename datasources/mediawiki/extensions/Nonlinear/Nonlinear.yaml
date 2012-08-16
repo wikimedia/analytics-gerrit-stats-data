@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Nonlinear/Nonlinear.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/7/28
+    end: 2012/8/15
+    start: 2012/7/27
     step: 1d
 
 columns:

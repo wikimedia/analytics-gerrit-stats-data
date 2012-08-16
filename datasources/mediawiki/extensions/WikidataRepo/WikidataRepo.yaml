@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WikidataRepo/WikidataRepo.csv
 
 timespan:
-    end: 2012/8/14
-    start: 2012/4/3
+    end: 2012/8/15
+    start: 2012/4/2
     step: 1d
 
 columns:

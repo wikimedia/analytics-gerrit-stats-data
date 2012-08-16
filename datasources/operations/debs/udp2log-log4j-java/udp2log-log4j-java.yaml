@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/debs/udp2log-log4j-java/udp2log-log4j-java.csv
 
 timespan:
-    end: 2012/8/14
+    end: 2012/8/15
     start: 2012/8/9
     step: 1d
 
