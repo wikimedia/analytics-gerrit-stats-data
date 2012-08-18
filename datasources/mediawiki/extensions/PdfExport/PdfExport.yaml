@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/PdfExport/PdfExport.csv
 
 timespan:
-    end: 2012/8/16
+    end: 2012/8/17
     start: 2012/6/13
     step: 1d
 
