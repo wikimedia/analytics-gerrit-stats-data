@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Spark/Spark.csv
 
 timespan:
-    end: 2012/8/17
+    end: 2012/8/18
     start: 2012/4/25
     step: 1d
 
