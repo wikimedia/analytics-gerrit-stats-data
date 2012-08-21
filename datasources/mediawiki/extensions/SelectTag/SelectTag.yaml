@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SelectTag/SelectTag.csv
 
 timespan:
-    end: 2012/8/19
+    end: 2012/8/20
     start: 2012/4/28
     step: 1d
 
