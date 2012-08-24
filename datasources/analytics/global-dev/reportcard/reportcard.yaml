@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/analytics/global-dev/reportcard/reportcard.csv
 
 timespan:
-    end: 2012/8/22
+    end: 2012/8/23
     start: 2012/8/9
     step: 1d
 
