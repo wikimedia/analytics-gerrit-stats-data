@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/wikimedia/communications/WMBlog/WMBlog.csv
 
 timespan:
-    end: 2012/8/25
-    start: 2012/8/25
+    end: 2012/8/26
+    start: 2012/8/26
     step: 1d
 
 columns:

@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WikidataClient/WikidataClient.csv
 
 timespan:
-    end: 2012/8/25
+    end: 2012/8/26
     start: 2012/4/4
     step: 1d
 
