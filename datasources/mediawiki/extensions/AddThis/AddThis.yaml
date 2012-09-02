@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/AddThis/AddThis.csv
 
 timespan:
-    end: 2012/8/30
+    end: 2012/9/1
     start: 2012/4/4
     step: 1d
 
