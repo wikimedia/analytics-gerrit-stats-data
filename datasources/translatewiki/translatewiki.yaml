@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/translatewiki/translatewiki.csv
 
 timespan:
-    end: 2012/9/1
+    end: 2012/9/2
     start: 2012/6/23
     step: 1d
 

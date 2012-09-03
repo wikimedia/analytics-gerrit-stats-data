@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/GlobalUsage/GlobalUsage.csv
 
 timespan:
-    end: 2012/9/1
+    end: 2012/9/2
     start: 2012/3/21
     step: 1d
 
