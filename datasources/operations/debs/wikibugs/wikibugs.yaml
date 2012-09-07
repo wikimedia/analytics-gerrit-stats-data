@@ -1,12 +1,12 @@
-id: mediawiki_extensions_Nonlinear_Nonlinear
-name: Codereview stats for mediawiki/extensions/Nonlinear repo
-shortName: mediawiki/extensions/Nonlinear
+id: operations_debs_wikibugs_wikibugs
+name: Codereview stats for operations/debs/wikibugs repo
+shortName: operations/debs/wikibugs
 format: csv
-url: /data/datafiles/gs/mediawiki/extensions/Nonlinear/Nonlinear.csv
+url: /data/datafiles/gs/operations/debs/wikibugs/wikibugs.csv
 
 timespan:
     end: 2012/9/6
-    start: 2012/9/5
+    start: 2012/9/6
     step: 1d
 
 columns:

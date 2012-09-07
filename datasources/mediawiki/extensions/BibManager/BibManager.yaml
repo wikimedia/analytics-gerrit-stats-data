@@ -1,12 +1,12 @@
-id: mediawiki_extensions_Nonlinear_Nonlinear
-name: Codereview stats for mediawiki/extensions/Nonlinear repo
-shortName: mediawiki/extensions/Nonlinear
+id: mediawiki_extensions_BibManager_BibManager
+name: Codereview stats for mediawiki/extensions/BibManager repo
+shortName: mediawiki/extensions/BibManager
 format: csv
-url: /data/datafiles/gs/mediawiki/extensions/Nonlinear/Nonlinear.csv
+url: /data/datafiles/gs/mediawiki/extensions/BibManager/BibManager.csv
 
 timespan:
     end: 2012/9/6
-    start: 2012/9/5
+    start: 2012/9/6
     step: 1d
 
 columns:
