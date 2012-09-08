@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/GoogleDocs4MW/GoogleDocs4MW.csv
 
 timespan:
-    end: 2012/9/6
+    end: 2012/9/7
     start: 2012/8/12
     step: 1d
 

@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Auth_remoteuser/Auth_remoteuser.csv
 
 timespan:
-    end: 2012/9/6
+    end: 2012/9/7
     start: 2012/5/25
     step: 1d
 

@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ConventionExtension/ConventionExtension.csv
 
 timespan:
-    end: 2012/9/6
+    end: 2012/9/7
     start: 2012/5/11
     step: 1d
 
