@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/FacebookOpenGraph/FacebookOpenGraph.csv
 
 timespan:
-    end: 2012/9/7
+    end: 2012/9/8
     start: 2012/7/28
     step: 1d
 
