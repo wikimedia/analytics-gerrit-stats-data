@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/BibManager/BibManager.csv
 
 timespan:
-    end: 2012/9/8
-    start: 2012/9/8
+    end: 2012/9/9
+    start: 2012/9/9
     step: 1d
 
 columns:
