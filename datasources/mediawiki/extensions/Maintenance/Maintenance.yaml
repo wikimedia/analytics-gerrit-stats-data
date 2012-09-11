@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Maintenance/Maintenance.csv
 
 timespan:
-    end: 2012/9/9
+    end: 2012/9/10
     start: 2012/4/25
     step: 1d
 
