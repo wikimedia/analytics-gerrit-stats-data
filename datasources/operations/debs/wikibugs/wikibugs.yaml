@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/debs/wikibugs/wikibugs.csv
 
 timespan:
-    end: 2012/9/12
-    start: 2012/9/12
+    end: 2012/9/13
+    start: 2012/9/13
     step: 1d
 
 columns:
