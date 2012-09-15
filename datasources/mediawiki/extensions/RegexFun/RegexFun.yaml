@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/RegexFun/RegexFun.csv
 
 timespan:
-    end: 2012/9/13
+    end: 2012/9/14
     start: 2012/5/25
     step: 1d
 

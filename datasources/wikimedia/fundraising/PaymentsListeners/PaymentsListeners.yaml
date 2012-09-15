@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/wikimedia/fundraising/PaymentsListeners/PaymentsListeners.csv
 
 timespan:
-    end: 2012/9/13
-    start: 2012/9/13
+    end: 2012/9/14
+    start: 2012/9/14
     step: 1d
 
 columns:
