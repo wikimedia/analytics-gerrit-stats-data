@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ArticleRatings/ArticleRatings.csv
 
 timespan:
-    end: 2012/9/17
+    end: 2012/9/18
     start: 2012/7/27
     step: 1d
 

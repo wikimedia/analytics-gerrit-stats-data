@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/FormatDates/FormatDates.csv
 
 timespan:
-    end: 2012/9/17
-    start: 2012/9/17
+    end: 2012/9/18
+    start: 2012/9/18
     step: 1d
 
 columns:
