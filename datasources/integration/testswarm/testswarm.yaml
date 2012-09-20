@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/integration/testswarm/testswarm.csv
 
 timespan:
-    end: 2012/9/18
+    end: 2012/9/19
     start: 2012/2/27
     step: 1d
 
