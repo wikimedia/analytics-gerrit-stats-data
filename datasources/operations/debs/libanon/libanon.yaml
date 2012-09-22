@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/debs/libanon/libanon.csv
 
 timespan:
-    end: 2012/9/20
-    start: 2012/9/20
+    end: 2012/9/21
+    start: 2012/9/21
     step: 1d
 
 columns:

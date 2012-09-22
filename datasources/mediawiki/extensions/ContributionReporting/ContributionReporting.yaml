@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ContributionReporting/ContributionReporting.csv
 
 timespan:
-    end: 2012/9/20
+    end: 2012/9/21
     start: 2012/3/21
     step: 1d
 
