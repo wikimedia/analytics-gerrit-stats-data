@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/RefreshSpecial/RefreshSpecial.csv
 
 timespan:
-    end: 2012/9/21
+    end: 2012/9/22
     start: 2012/8/12
     step: 1d
 
