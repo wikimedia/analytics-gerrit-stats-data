@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/debs/lucene-search-2/lucene-search-2.csv
 
 timespan:
-    end: 2012/9/22
+    end: 2012/9/23
     start: 2012/5/28
     step: 1d
 
