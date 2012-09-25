@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/software/gitlist/gitlist.csv
 
 timespan:
-    end: 2012/9/23
+    end: 2012/9/24
     start: 2012/8/8
     step: 1d
 

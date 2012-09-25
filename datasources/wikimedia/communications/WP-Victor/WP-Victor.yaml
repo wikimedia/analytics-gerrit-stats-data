@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/wikimedia/communications/WP-Victor/WP-Victor.csv
 
 timespan:
-    end: 2012/9/23
-    start: 2012/9/23
+    end: 2012/9/24
+    start: 2012/9/24
     step: 1d
 
 columns:
