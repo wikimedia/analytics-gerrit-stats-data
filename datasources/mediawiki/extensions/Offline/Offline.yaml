@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Offline/Offline.csv
 
 timespan:
-    end: 2012/9/24
+    end: 2012/9/25
     start: 2012/4/4
     step: 1d
 
