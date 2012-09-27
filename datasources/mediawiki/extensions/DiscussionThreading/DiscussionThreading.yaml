@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/DiscussionThreading/DiscussionThreading.csv
 
 timespan:
-    end: 2012/9/25
+    end: 2012/9/26
     start: 2012/5/25
     step: 1d
 

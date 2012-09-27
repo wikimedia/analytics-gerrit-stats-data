@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SecureHTML/SecureHTML.csv
 
 timespan:
-    end: 2012/9/25
+    end: 2012/9/26
     start: 2012/9/22
     step: 1d
 
