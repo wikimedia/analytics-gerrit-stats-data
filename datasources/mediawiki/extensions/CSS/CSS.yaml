@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/CSS/CSS.csv
 
 timespan:
-    end: 2012/9/26
+    end: 2012/9/27
     start: 2012/5/25
     step: 1d
 
