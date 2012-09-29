@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/analytics/reportcard/old-pipeline/old-pipeline.csv
 
 timespan:
-    end: 2012/9/27
-    start: 2012/9/27
+    end: 2012/9/28
+    start: 2012/9/28
     step: 1d
 
 columns:
