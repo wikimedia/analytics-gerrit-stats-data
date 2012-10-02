@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Tabber/Tabber.csv
 
 timespan:
-    end: 2012/9/30
+    end: 2012/10/1
     start: 2012/7/18
     step: 1d
 

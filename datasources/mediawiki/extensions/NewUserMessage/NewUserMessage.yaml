@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/NewUserMessage/NewUserMessage.csv
 
 timespan:
-    end: 2012/9/30
+    end: 2012/10/1
     start: 2012/3/21
     step: 1d
 
