@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/wikidiff2/wikidiff2.csv
 
 timespan:
-    end: 2012/10/1
+    end: 2012/10/2
     start: 2012/3/21
     step: 1d
 
