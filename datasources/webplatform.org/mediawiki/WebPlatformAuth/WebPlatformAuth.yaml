@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/webplatform.org/mediawiki/WebPlatformAuth/WebPlatformAuth.csv
 
 timespan:
-    end: 2012/10/3
-    start: 2012/10/3
+    end: 2012/10/4
+    start: 2012/10/4
     step: 1d
 
 columns:
