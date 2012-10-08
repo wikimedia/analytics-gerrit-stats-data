@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WikiEditor/WikiEditor.csv
 
 timespan:
-    end: 2012/10/6
+    end: 2012/10/7
     start: 2012/3/21
     step: 1d
 
