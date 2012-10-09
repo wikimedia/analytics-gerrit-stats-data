@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/webplatform.org/mediawiki/WebPlatformSearchAutocomplete/WebPlatformSearchAutocomplete.csv
 
 timespan:
-    end: 2012/10/7
-    start: 2012/10/7
+    end: 2012/10/8
+    start: 2012/10/8
     step: 1d
 
 columns:
