@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/php/wmerrors/wmerrors.csv
 
 timespan:
-    end: 2012/10/8
+    end: 2012/10/9
     start: 2012/8/8
     step: 1d
 
