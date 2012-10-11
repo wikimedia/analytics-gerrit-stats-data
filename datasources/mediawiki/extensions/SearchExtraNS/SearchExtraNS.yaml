@@ -1,0 +1,35 @@
+id: mediawiki_extensions_SearchExtraNS_SearchExtraNS
+name: Codereview stats for mediawiki/extensions/SearchExtraNS repo
+shortName: mediawiki/extensions/SearchExtraNS
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/SearchExtraNS/SearchExtraNS.csv
+
+timespan:
+    end: 2012/10/10
+    start: 2012/10/9
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
