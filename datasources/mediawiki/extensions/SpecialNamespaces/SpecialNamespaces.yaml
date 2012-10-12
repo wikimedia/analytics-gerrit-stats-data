@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SpecialNamespaces/SpecialNamespaces.csv
 
 timespan:
-    end: 2012/10/10
+    end: 2012/10/11
     start: 2012/10/9
     step: 1d
 

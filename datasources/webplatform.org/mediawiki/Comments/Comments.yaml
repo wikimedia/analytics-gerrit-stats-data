@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/webplatform.org/mediawiki/Comments/Comments.csv
 
 timespan:
-    end: 2012/10/10
-    start: 2012/10/10
+    end: 2012/10/11
+    start: 2012/10/11
     step: 1d
 
 columns:
