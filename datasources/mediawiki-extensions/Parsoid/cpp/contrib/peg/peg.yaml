@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki-extensions/Parsoid/cpp/contrib/peg/peg.csv
 
 timespan:
-    end: 2012/10/12
-    start: 2012/10/12
+    end: 2012/10/13
+    start: 2012/10/13
     step: 1d
 
 columns:
