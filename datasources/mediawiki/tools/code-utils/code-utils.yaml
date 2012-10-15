@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/tools/code-utils/code-utils.csv
 
 timespan:
-    end: 2012/10/13
-    start: 2012/10/13
+    end: 2012/10/14
+    start: 2012/10/14
     step: 1d
 
 columns:

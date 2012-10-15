@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Insider/Insider.csv
 
 timespan:
-    end: 2012/10/13
+    end: 2012/10/14
     start: 2012/10/9
     step: 1d
 
