@@ -1,0 +1,35 @@
+id: qa_browsertests_browsertests
+name: Codereview stats for qa/browsertests repo
+shortName: qa/browsertests
+format: csv
+url: /data/datafiles/gs/qa/browsertests/browsertests.csv
+
+timespan:
+    end: 2012/10/15
+    start: 2012/10/15
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

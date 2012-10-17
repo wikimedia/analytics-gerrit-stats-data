@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Arrays/Arrays.csv
 
 timespan:
-    end: 2012/10/14
+    end: 2012/10/16
     start: 2012/5/25
     step: 1d
 
