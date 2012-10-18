@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/analytics/global-dev/misc/misc.csv
 
 timespan:
-    end: 2012/10/16
-    start: 2012/10/16
+    end: 2012/10/17
+    start: 2012/10/17
     step: 1d
 
 columns:

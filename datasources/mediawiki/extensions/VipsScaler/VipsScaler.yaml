@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/VipsScaler/VipsScaler.csv
 
 timespan:
-    end: 2012/10/16
+    end: 2012/10/17
     start: 2012/3/21
     step: 1d
 
