@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Configure/Configure.csv
 
 timespan:
-    end: 2012/10/17
+    end: 2012/10/18
     start: 2012/5/25
     step: 1d
 

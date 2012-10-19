@@ -1,0 +1,35 @@
+id: mediawiki_extensions_TemplateDocumentation_TemplateDocumentation
+name: Codereview stats for mediawiki/extensions/TemplateDocumentation repo
+shortName: mediawiki/extensions/TemplateDocumentation
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/TemplateDocumentation/TemplateDocumentation.csv
+
+timespan:
+    end: 2012/10/18
+    start: 2012/10/18
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
