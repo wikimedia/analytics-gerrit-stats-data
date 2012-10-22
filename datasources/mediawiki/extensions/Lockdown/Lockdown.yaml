@@ -1,0 +1,35 @@
+id: mediawiki_extensions_Lockdown_Lockdown
+name: Codereview stats for mediawiki/extensions/Lockdown repo
+shortName: mediawiki/extensions/Lockdown
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/Lockdown/Lockdown.csv
+
+timespan:
+    end: 2012/10/21
+    start: 2012/10/20
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
