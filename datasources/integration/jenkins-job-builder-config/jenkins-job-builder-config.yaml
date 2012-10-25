@@ -1,0 +1,35 @@
+id: integration_jenkins-job-builder-config_jenkins-job-builder-config
+name: Codereview stats for integration/jenkins-job-builder-config repo
+shortName: integration/jenkins-job-builder-config
+format: csv
+url: /data/datafiles/gs/integration/jenkins-job-builder-config/jenkins-job-builder-config.csv
+
+timespan:
+    end: 2012/10/24
+    start: 2012/10/24
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
