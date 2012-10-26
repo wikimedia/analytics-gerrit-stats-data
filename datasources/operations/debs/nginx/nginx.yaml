@@ -1,0 +1,35 @@
+id: operations_debs_nginx_nginx
+name: Codereview stats for operations/debs/nginx repo
+shortName: operations/debs/nginx
+format: csv
+url: /data/datafiles/gs/operations/debs/nginx/nginx.csv
+
+timespan:
+    end: 2012/10/25
+    start: 2012/10/25
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
