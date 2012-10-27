@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/PrefixExport/PrefixExport.csv
 
 timespan:
-    end: 2012/10/25
+    end: 2012/10/26
     start: 2012/10/9
     step: 1d
 
