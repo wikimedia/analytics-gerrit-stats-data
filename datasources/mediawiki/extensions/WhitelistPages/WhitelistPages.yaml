@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WhitelistPages/WhitelistPages.csv
 
 timespan:
-    end: 2012/10/26
+    end: 2012/10/27
     start: 2012/8/12
     step: 1d
 

@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/analytics/glass/glass.csv
 
 timespan:
-    end: 2012/10/26
-    start: 2012/10/25
+    end: 2012/10/27
+    start: 2012/10/26
     step: 1d
 
 columns:
