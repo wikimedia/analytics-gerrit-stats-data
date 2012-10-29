@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WikiArticleFeeds/WikiArticleFeeds.csv
 
 timespan:
-    end: 2012/10/27
+    end: 2012/10/28
     start: 2012/10/21
     step: 1d
 

@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/integration/zuul/zuul.csv
 
 timespan:
-    end: 2012/10/27
-    start: 2012/10/27
+    end: 2012/10/28
+    start: 2012/10/28
     step: 1d
 
 columns:
