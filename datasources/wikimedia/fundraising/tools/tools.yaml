@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/wikimedia/fundraising/tools/tools.csv
 
 timespan:
-    end: 2012/10/28
-    start: 2012/10/28
+    end: 2012/10/29
+    start: 2012/10/29
     step: 1d
 
 columns:
