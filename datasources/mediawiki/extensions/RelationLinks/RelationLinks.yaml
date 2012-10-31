@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/RelationLinks/RelationLinks.csv
 
 timespan:
-    end: 2012/10/29
+    end: 2012/10/30
     start: 2012/7/16
     step: 1d
 
