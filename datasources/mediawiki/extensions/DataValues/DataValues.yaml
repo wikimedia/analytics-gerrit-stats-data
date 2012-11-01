@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/DataValues/DataValues.csv
 
 timespan:
-    end: 2012/10/30
+    end: 2012/10/31
     start: 2012/9/16
     step: 1d
 

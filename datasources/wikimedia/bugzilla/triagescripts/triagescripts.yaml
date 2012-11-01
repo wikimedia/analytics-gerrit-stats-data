@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/wikimedia/bugzilla/triagescripts/triagescripts.csv
 
 timespan:
-    end: 2012/10/30
-    start: 2012/10/30
+    end: 2012/10/31
+    start: 2012/10/31
     step: 1d
 
 columns:
