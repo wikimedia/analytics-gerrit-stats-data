@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/labs/nagios-builder/nagios-builder.csv
 
 timespan:
-    end: 2012/11/1
+    end: 2012/11/2
     start: 2012/9/2
     step: 1d
 
