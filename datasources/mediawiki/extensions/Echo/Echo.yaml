@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Echo/Echo.csv
 
 timespan:
-    end: 2012/11/2
+    end: 2012/11/3
     start: 2012/4/25
     step: 1d
 
