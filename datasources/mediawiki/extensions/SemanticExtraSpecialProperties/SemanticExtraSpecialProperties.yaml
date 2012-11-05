@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SemanticExtraSpecialProperties/SemanticExtraSpecialProperties.csv
 
 timespan:
-    end: 2012/11/3
+    end: 2012/11/4
     start: 2012/10/29
     step: 1d
 

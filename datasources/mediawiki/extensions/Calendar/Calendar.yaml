@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Calendar/Calendar.csv
 
 timespan:
-    end: 2012/11/3
+    end: 2012/11/4
     start: 2012/10/10
     step: 1d
 
