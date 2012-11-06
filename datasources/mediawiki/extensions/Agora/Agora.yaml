@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Agora/Agora.csv
 
 timespan:
-    end: 2012/11/4
+    end: 2012/11/5
     start: 2012/10/18
     step: 1d
 

@@ -1,0 +1,35 @@
+id: lua_helloworld_helloworld
+name: Codereview stats for lua/helloworld repo
+shortName: lua/helloworld
+format: csv
+url: /data/datafiles/gs/lua/helloworld/helloworld.csv
+
+timespan:
+    end: 2012/11/5
+    start: 2012/11/4
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
