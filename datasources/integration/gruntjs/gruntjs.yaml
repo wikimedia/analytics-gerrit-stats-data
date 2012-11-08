@@ -1,0 +1,35 @@
+id: integration_gruntjs_gruntjs
+name: Codereview stats for integration/gruntjs repo
+shortName: integration/gruntjs
+format: csv
+url: /data/datafiles/gs/integration/gruntjs/gruntjs.csv
+
+timespan:
+    end: 2012/11/7
+    start: 2012/11/6
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
