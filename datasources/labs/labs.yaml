@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/labs/labs.csv
 
 timespan:
-    end: 2012/11/7
+    end: 2012/11/8
     start: 2012/9/2
     step: 1d
 
