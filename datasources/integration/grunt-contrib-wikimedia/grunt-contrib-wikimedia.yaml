@@ -1,0 +1,35 @@
+id: integration_grunt-contrib-wikimedia_grunt-contrib-wikimedia
+name: Codereview stats for integration/grunt-contrib-wikimedia repo
+shortName: integration/grunt-contrib-wikimedia
+format: csv
+url: /data/datafiles/gs/integration/grunt-contrib-wikimedia/grunt-contrib-wikimedia.csv
+
+timespan:
+    end: 2012/11/9
+    start: 2012/11/8
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
