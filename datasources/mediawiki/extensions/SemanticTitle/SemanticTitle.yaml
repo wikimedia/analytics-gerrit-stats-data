@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SemanticTitle/SemanticTitle.csv
 
 timespan:
-    end: 2012/11/9
+    end: 2012/11/10
     start: 2012/7/16
     step: 1d
 

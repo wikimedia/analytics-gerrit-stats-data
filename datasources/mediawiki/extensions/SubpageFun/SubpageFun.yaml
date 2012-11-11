@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SubpageFun/SubpageFun.csv
 
 timespan:
-    end: 2012/11/9
+    end: 2012/11/10
     start: 2012/5/25
     step: 1d
 
