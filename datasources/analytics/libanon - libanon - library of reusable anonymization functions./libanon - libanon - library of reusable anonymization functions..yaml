@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/analytics/libanon - libanon - library of reusable anonymization functions./libanon - libanon - library of reusable anonymization functions..csv
 
 timespan:
-    end: 2012/11/10
-    start: 2012/11/10
+    end: 2012/11/11
+    start: 2012/11/11
     step: 1d
 
 columns:

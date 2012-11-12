@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/RandomRootPage/RandomRootPage.csv
 
 timespan:
-    end: 2012/11/10
+    end: 2012/11/11
     start: 2012/4/25
     step: 1d
 
