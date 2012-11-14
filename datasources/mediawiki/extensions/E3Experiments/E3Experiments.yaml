@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/E3Experiments/E3Experiments.csv
 
 timespan:
-    end: 2012/11/12
+    end: 2012/11/13
     start: 2012/6/6
     step: 1d
 
