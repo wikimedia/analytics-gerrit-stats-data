@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/integration/grunt-contrib-wikimedia/grunt-contrib-wikimedia.csv
 
 timespan:
-    end: 2012/11/13
+    end: 2012/11/14
     start: 2012/11/8
     step: 1d
 

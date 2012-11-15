@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SemanticMediaWiki/SemanticMediaWiki.csv
 
 timespan:
-    end: 2012/11/13
+    end: 2012/11/14
     start: 2012/4/4
     step: 1d
 
