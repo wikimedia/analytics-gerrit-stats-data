@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Checkpoint/Checkpoint.csv
 
 timespan:
-    end: 2012/11/17
+    end: 2012/11/18
     start: 2012/4/25
     step: 1d
 

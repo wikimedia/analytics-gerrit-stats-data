@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/wikimedia/fundraising/DonationEmailUnsubscribe/DonationEmailUnsubscribe.csv
 
 timespan:
-    end: 2012/11/17
+    end: 2012/11/18
     start: 2012/9/3
     step: 1d
 
