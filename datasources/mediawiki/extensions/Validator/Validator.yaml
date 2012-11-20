@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Validator/Validator.csv
 
 timespan:
-    end: 2012/11/18
+    end: 2012/11/19
     start: 2012/4/4
     step: 1d
 

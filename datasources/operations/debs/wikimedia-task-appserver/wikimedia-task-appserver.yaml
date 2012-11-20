@@ -1,0 +1,35 @@
+id: operations_debs_wikimedia-task-appserver_wikimedia-task-appserver
+name: Codereview stats for operations/debs/wikimedia-task-appserver repo
+shortName: operations/debs/wikimedia-task-appserver
+format: csv
+url: /data/datafiles/gs/operations/debs/wikimedia-task-appserver/wikimedia-task-appserver.csv
+
+timespan:
+    end: 2012/11/19
+    start: 2012/11/18
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
