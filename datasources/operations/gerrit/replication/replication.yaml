@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/gerrit/replication/replication.csv
 
 timespan:
-    end: 2012/11/20
-    start: 2012/11/20
+    end: 2012/11/21
+    start: 2012/11/21
     step: 1d
 
 columns:

@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/tools/mwdumper/mwdumper.csv
 
 timespan:
-    end: 2012/11/20
+    end: 2012/11/21
     start: 2012/2/13
     step: 1d
 

@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/qa/browsertests/browsertests.csv
 
 timespan:
-    end: 2012/11/20
+    end: 2012/11/21
     start: 2012/10/22
     step: 1d
 
