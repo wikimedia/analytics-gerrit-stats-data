@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Transliterator/Transliterator.csv
 
 timespan:
-    end: 2012/11/21
+    end: 2012/11/22
     start: 2012/10/21
     step: 1d
 

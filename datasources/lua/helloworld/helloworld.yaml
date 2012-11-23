@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/lua/helloworld/helloworld.csv
 
 timespan:
-    end: 2012/11/21
+    end: 2012/11/22
     start: 2012/11/4
     step: 1d
 
