@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ExpandTemplates/ExpandTemplates.csv
 
 timespan:
-    end: 2012/11/22
+    end: 2012/11/23
     start: 2012/3/21
     step: 1d
 

@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/php/FastStringSearch/FastStringSearch.csv
 
 timespan:
-    end: 2012/11/22
-    start: 2012/11/22
+    end: 2012/11/23
+    start: 2012/11/23
     step: 1d
 
 columns:
