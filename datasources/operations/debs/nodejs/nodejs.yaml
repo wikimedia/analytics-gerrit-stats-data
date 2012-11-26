@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/debs/nodejs/nodejs.csv
 
 timespan:
-    end: 2012/11/24
+    end: 2012/11/25
     start: 2012/8/9
     step: 1d
 
