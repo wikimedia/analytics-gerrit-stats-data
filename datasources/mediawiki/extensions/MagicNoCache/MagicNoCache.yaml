@@ -1,0 +1,35 @@
+id: mediawiki_extensions_MagicNoCache_MagicNoCache
+name: Codereview stats for mediawiki/extensions/MagicNoCache repo
+shortName: mediawiki/extensions/MagicNoCache
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/MagicNoCache/MagicNoCache.csv
+
+timespan:
+    end: 2012/11/27
+    start: 2012/11/25
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
