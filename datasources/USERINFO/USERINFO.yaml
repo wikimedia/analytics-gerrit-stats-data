@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/USERINFO/USERINFO.csv
 
 timespan:
-    end: 2012/11/28
-    start: 2012/11/28
+    end: 2012/11/29
+    start: 2012/11/29
     step: 1d
 
 columns:
