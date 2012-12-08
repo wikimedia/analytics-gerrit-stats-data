@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SearchExtraNS/SearchExtraNS.csv
 
 timespan:
-    end: 2012/12/6
+    end: 2012/12/7
     start: 2012/10/9
     step: 1d
 
