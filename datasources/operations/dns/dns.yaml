@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/dns/dns.csv
 
 timespan:
-    end: 2012/12/7
+    end: 2012/12/8
     start: 2012/8/9
     step: 1d
 
