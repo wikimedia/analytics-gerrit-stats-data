@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SemanticDrilldown/SemanticDrilldown.csv
 
 timespan:
-    end: 2012/12/8
+    end: 2012/12/9
     start: 2012/6/13
     step: 1d
 
