@@ -1,0 +1,35 @@
+id: mediawiki_extensions_MyVariables_MyVariables
+name: Codereview stats for mediawiki/extensions/MyVariables repo
+shortName: mediawiki/extensions/MyVariables
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/MyVariables/MyVariables.csv
+
+timespan:
+    end: 2012/12/10
+    start: 2012/12/10
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

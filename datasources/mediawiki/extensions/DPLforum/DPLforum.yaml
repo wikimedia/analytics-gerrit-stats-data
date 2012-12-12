@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/DPLforum/DPLforum.csv
 
 timespan:
-    end: 2012/12/9
+    end: 2012/12/10
     start: 2012/11/19
     step: 1d
 
