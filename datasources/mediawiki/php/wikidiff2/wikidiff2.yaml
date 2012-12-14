@@ -1,0 +1,35 @@
+id: mediawiki_php_wikidiff2_wikidiff2
+name: Codereview stats for mediawiki/php/wikidiff2 repo
+shortName: mediawiki/php/wikidiff2
+format: csv
+url: /data/datafiles/gs/mediawiki/php/wikidiff2/wikidiff2.csv
+
+timespan:
+    end: 2012/12/13
+    start: 2012/3/21
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

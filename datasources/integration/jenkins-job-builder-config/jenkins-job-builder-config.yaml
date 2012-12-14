@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/integration/jenkins-job-builder-config/jenkins-job-builder-config.csv
 
 timespan:
-    end: 2012/12/12
+    end: 2012/12/13
     start: 2012/11/18
     step: 1d
 
