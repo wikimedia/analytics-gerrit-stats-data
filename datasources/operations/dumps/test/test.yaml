@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/dumps/test/test.csv
 
 timespan:
-    end: 2012/12/13
+    end: 2012/12/14
     start: 2012/2/25
     step: 1d
 

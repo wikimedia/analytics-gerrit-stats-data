@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/FormatNum/FormatNum.csv
 
 timespan:
-    end: 2012/12/13
+    end: 2012/12/14
     start: 2012/7/16
     step: 1d
 
