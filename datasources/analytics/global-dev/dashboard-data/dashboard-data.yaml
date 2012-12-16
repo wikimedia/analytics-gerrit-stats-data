@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/analytics/global-dev/dashboard-data/dashboard-data.csv
 
 timespan:
-    end: 2012/12/14
+    end: 2012/12/15
     start: 2012/8/9
     step: 1d
 
