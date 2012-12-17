@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Parsoid/cpp/contrib/pugixml/pugixml.csv
 
 timespan:
-    end: 2012/12/15
-    start: 2012/12/15
+    end: 2012/12/16
+    start: 2012/12/16
     step: 1d
 
 columns:
