@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/debs/nginx/nginx.csv
 
 timespan:
-    end: 2012/12/22
-    start: 2012/12/22
+    end: 2012/12/23
+    start: 2012/12/23
     step: 1d
 
 columns:
