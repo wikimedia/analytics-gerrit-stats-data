@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SkinPerNamespace/SkinPerNamespace.csv
 
 timespan:
-    end: 2012/12/25
+    end: 2012/12/26
     start: 2012/5/25
     step: 1d
 

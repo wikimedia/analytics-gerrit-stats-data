@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Parsoid/cpp/contrib/libhubbub/libhubbub.csv
 
 timespan:
-    end: 2012/12/25
+    end: 2012/12/26
     start: 2012/9/30
     step: 1d
 
