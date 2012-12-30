@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Solarium/Solarium.csv
 
 timespan:
-    end: 2012/12/27
+    end: 2012/12/28
     start: 2012/10/19
     step: 1d
 
