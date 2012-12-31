@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SecureSessions/SecureSessions.csv
 
 timespan:
-    end: 2012/12/28
+    end: 2012/12/30
     start: 2012/12/3
     step: 1d
 
