@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Git2Pages/Git2Pages.csv
 
 timespan:
-    end: 2012/12/30
+    end: 2012/12/31
     start: 2012/12/17
     step: 1d
 
