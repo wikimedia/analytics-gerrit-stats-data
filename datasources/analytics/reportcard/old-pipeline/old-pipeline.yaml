@@ -6,7 +6,7 @@ url: /data/datafiles/gs/analytics/reportcard/old-pipeline/old-pipeline.csv
 
 timespan:
     end: 2013/1/2
-    start: 2013/1/1
+    start: 2013/1/2
     step: 1d
 
 columns:
