@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WikiFarm/WikiFarm.csv
 
 timespan:
-    end: 2013/1/4
+    end: 2013/1/5
     start: 2012/10/24
     step: 1d
 
