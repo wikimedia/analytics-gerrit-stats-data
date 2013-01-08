@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/labs/qmwbot/qmwbot.csv
 
 timespan:
-    end: 2013/1/5
-    start: 2013/1/5
+    end: 2013/1/6
+    start: 2013/1/6
     step: 1d
 
 columns:
