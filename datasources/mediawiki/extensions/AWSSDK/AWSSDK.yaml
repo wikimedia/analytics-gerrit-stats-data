@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/AWSSDK/AWSSDK.csv
 
 timespan:
-    end: 2013/1/6
-    start: 2013/1/6
+    end: 2013/1/8
+    start: 2013/1/7
     step: 1d
 
 columns:

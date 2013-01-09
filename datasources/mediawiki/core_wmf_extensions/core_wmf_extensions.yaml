@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/core_wmf_extensions/core_wmf_extensions.csv
 
 timespan:
-    end: 2013/1/6
+    end: 2013/1/8
     start: 2012/2/11
     step: 1d
 
