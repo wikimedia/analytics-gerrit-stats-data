@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/TemplateSandbox/TemplateSandbox.csv
 
 timespan:
-    end: 2013/1/8
+    end: 2013/1/9
     start: 2012/11/8
     step: 1d
 
