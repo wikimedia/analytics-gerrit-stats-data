@@ -1,0 +1,35 @@
+id: mediawiki_extensions_NamespaceRelations_NamespaceRelations
+name: Codereview stats for mediawiki/extensions/NamespaceRelations repo
+shortName: mediawiki/extensions/NamespaceRelations
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/NamespaceRelations/NamespaceRelations.csv
+
+timespan:
+    end: 2013/1/10
+    start: 2013/1/8
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

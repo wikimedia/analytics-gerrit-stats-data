@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Disambiguator/Disambiguator.csv
 
 timespan:
-    end: 2013/1/8
+    end: 2013/1/9
     start: 2012/12/27
     step: 1d
 

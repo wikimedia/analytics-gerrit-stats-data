@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SolrStore/SolrStore.csv
 
 timespan:
-    end: 2013/1/8
+    end: 2013/1/10
     start: 2012/5/25
     step: 1d
 
