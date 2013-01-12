@@ -6,7 +6,7 @@ url: /data/datafiles/gs/wikimedia/fundraising/stomp/stomp.csv
 
 timespan:
     end: 2013/1/10
-    start: 2013/1/9
+    start: 2013/1/10
     step: 1d
 
 columns:
