@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/LinkedWiki/LinkedWiki.csv
 
 timespan:
-    end: 2013/1/14
+    end: 2013/1/15
     start: 2012/7/21
     step: 1d
 

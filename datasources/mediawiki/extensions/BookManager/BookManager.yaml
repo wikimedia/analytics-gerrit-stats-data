@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/BookManager/BookManager.csv
 
 timespan:
-    end: 2013/1/14
+    end: 2013/1/15
     start: 2012/5/25
     step: 1d
 
