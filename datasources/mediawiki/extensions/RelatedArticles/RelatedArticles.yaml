@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/RelatedArticles/RelatedArticles.csv
 
 timespan:
-    end: 2013/1/14
+    end: 2013/1/15
     start: 2012/10/9
     step: 1d
 
