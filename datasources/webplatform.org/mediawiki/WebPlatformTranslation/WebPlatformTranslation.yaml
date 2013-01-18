@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/webplatform.org/mediawiki/WebPlatformTranslation/WebPlatformTranslation.csv
 
 timespan:
-    end: 2013/1/16
-    start: 2013/1/15
+    end: 2013/1/17
+    start: 2013/1/16
     step: 1d
 
 columns:

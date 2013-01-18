@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/NSFileRepo/NSFileRepo.csv
 
 timespan:
-    end: 2013/1/15
+    end: 2013/1/17
     start: 2012/5/25
     step: 1d
 

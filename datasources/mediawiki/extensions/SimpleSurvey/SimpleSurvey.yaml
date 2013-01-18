@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SimpleSurvey/SimpleSurvey.csv
 
 timespan:
-    end: 2013/1/16
+    end: 2013/1/17
     start: 2012/3/21
     step: 1d
 
