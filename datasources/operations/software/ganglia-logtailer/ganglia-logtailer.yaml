@@ -1,0 +1,35 @@
+id: operations_software_ganglia-logtailer_ganglia-logtailer
+name: Codereview stats for operations/software/ganglia-logtailer repo
+shortName: operations/software/ganglia-logtailer
+format: csv
+url: /data/datafiles/gs/operations/software/ganglia-logtailer/ganglia-logtailer.csv
+
+timespan:
+    end: 2013/1/18
+    start: 2013/1/17
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

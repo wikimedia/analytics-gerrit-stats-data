@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/DebianISOCodes/DebianISOCodes.csv
 
 timespan:
-    end: 2013/1/17
+    end: 2013/1/18
     start: 2012/4/26
     step: 1d
 
