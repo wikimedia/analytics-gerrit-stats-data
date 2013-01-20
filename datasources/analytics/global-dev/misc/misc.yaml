@@ -6,7 +6,7 @@ url: /data/datafiles/gs/analytics/global-dev/misc/misc.csv
 
 timespan:
     end: 2013/1/18
-    start: 2013/1/17
+    start: 2013/1/18
     step: 1d
 
 columns:
