@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/tools/Cite4Wiki/Cite4Wiki.csv
 
 timespan:
-    end: 2013/1/18
-    start: 2013/1/18
+    end: 2013/1/20
+    start: 2013/1/19
     step: 1d
 
 columns:
