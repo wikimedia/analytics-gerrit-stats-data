@@ -1,0 +1,35 @@
+id: mediawiki_extensions_NoTitle_NoTitle
+name: Codereview stats for mediawiki/extensions/NoTitle repo
+shortName: mediawiki/extensions/NoTitle
+format: csv
+url: /data/datafiles/gs/mediawiki/extensions/NoTitle/NoTitle.csv
+
+timespan:
+    end: 2013/1/22
+    start: 2013/1/22
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs

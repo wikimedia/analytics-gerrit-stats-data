@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/CategoryMagicWords/CategoryMagicWords.csv
 
 timespan:
-    end: 2013/1/22
+    end: 2013/1/23
     start: 2013/1/6
     step: 1d
 

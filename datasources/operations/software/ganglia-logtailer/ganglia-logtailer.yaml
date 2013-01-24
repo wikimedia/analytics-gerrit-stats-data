@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/software/ganglia-logtailer/ganglia-logtailer.csv
 
 timespan:
-    end: 2013/1/21
-    start: 2013/1/21
+    end: 2013/1/22
+    start: 2013/1/22
     step: 1d
 
 columns:
