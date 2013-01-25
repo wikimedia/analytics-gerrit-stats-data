@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/WindowsAzureStorage/WindowsAzureStorage.csv
 
 timespan:
-    end: 2013/1/22
+    end: 2013/1/23
     start: 2012/4/4
     step: 1d
 

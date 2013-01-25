@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/wikimedia/fundraising/stomp/stomp.csv
 
 timespan:
-    end: 2013/1/22
-    start: 2013/1/22
+    end: 2013/1/23
+    start: 2013/1/23
     step: 1d
 
 columns:
