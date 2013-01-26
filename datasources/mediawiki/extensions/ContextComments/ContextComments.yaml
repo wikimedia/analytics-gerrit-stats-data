@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ContextComments/ContextComments.csv
 
 timespan:
-    end: 2013/1/23
-    start: 2013/1/23
+    end: 2013/1/24
+    start: 2013/1/24
     step: 1d
 
 columns:
