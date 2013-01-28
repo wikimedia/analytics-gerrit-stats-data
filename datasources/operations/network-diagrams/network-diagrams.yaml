@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/network-diagrams/network-diagrams.csv
 
 timespan:
-    end: 2013/1/26
-    start: 2013/1/25
+    end: 2013/1/27
+    start: 2013/1/26
     step: 1d
 
 columns:
