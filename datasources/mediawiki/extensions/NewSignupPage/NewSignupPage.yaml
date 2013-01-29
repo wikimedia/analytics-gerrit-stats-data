@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/NewSignupPage/NewSignupPage.csv
 
 timespan:
-    end: 2013/1/26
+    end: 2013/1/27
     start: 2012/8/28
     step: 1d
 
