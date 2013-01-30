@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/FormelApplet/FormelApplet.csv
 
 timespan:
-    end: 2013/1/28
+    end: 2013/1/29
     start: 2012/5/25
     step: 1d
 

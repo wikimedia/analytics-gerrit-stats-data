@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/HelpCommons/HelpCommons.csv
 
 timespan:
-    end: 2013/1/27
+    end: 2013/1/29
     start: 2012/7/18
     step: 1d
 
