@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/glam/gwtoolset - GLAMwiki toolset project  - http://outreach.wikimedia.org/wiki/GLAM/Toolset_project/Toolset_project.csv
 
 timespan:
-    end: 2013/1/28
-    start: 2013/1/28
+    end: 2013/1/29
+    start: 2013/1/29
     step: 1d
 
 columns:

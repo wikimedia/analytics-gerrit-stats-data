@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/debs/kafka/kafka.csv
 
 timespan:
-    end: 2013/1/29
-    start: 2013/1/28
+    end: 2013/1/30
+    start: 2013/1/29
     step: 1d
 
 columns:
