@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/CategoryTree/CategoryTree.csv
 
 timespan:
-    end: 2013/1/29
+    end: 2013/1/31
     start: 2012/3/21
     step: 1d
 
