@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/FeaturedFeeds/FeaturedFeeds.csv
 
 timespan:
-    end: 2013/2/2
+    end: 2013/2/3
     start: 2012/3/21
     step: 1d
 

@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/operations/puppet/puppet.csv
 
 timespan:
-    end: 2013/2/2
+    end: 2013/2/3
     start: 2011/9/7
     step: 1d
 
