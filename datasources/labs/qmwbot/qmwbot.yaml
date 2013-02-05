@@ -6,7 +6,7 @@ url: /data/datafiles/gs/labs/qmwbot/qmwbot.csv
 
 timespan:
     end: 2013/2/3
-    start: 2013/2/2
+    start: 2013/2/3
     step: 1d
 
 columns:

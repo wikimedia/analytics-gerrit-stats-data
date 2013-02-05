@@ -1,0 +1,35 @@
+id: mediawiki_tools_dippybird_dippybird
+name: Codereview stats for mediawiki/tools/dippybird repo
+shortName: mediawiki/tools/dippybird
+format: csv
+url: /data/datafiles/gs/mediawiki/tools/dippybird/dippybird.csv
+
+timespan:
+    end: 2013/2/4
+    start: 2013/2/3
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
