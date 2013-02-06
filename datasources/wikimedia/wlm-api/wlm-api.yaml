@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/wikimedia/wlm-api/wlm-api.csv
 
 timespan:
-    end: 2013/2/3
+    end: 2013/2/5
     start: 2012/7/29
     step: 1d
 

@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SwedishCollation/SwedishCollation.csv
 
 timespan:
-    end: 2013/2/4
+    end: 2013/2/5
     start: 2013/1/9
     step: 1d
 
