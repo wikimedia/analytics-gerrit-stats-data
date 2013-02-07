@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/php/NativePreprocessor/NativePreprocessor.csv
 
 timespan:
-    end: 2013/2/5
+    end: 2013/2/6
     start: 2013/1/9
     step: 1d
 

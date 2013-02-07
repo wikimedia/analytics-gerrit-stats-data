@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/labs/maps/maps.csv
 
 timespan:
-    end: 2013/2/5
-    start: 2013/2/4
+    end: 2013/2/6
+    start: 2013/2/5
     step: 1d
 
 columns:
