@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/Lockdown/Lockdown.csv
 
 timespan:
-    end: 2013/2/6
+    end: 2013/2/7
     start: 2012/10/21
     step: 1d
 
