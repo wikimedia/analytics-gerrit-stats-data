@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/ArticleFeedbackv5/ArticleFeedbackv5.csv
 
 timespan:
-    end: 2013/2/7
+    end: 2013/2/8
     start: 2012/3/20
     step: 1d
 

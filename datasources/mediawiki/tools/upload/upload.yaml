@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/mediawiki/tools/upload/upload.csv
 
 timespan:
-    end: 2013/2/7
-    start: 2013/2/6
+    end: 2013/2/8
+    start: 2013/2/7
     step: 1d
 
 columns:
