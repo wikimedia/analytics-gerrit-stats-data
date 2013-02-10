@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/wikimedia/bugzilla/modifications/modifications.csv
 
 timespan:
-    end: 2013/2/8
+    end: 2013/2/9
     start: 2012/11/14
     step: 1d
 

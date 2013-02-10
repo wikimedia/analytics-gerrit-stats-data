@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/debs/rt-authen-externalauth/rt-authen-externalauth.csv
 
 timespan:
-    end: 2013/2/8
-    start: 2013/2/7
+    end: 2013/2/9
+    start: 2013/2/8
     step: 1d
 
 columns:

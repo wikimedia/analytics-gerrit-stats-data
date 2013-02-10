@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/StrategyWiki/StrategyWiki.csv
 
 timespan:
-    end: 2013/2/8
+    end: 2013/2/9
     start: 2012/3/21
     step: 1d
 

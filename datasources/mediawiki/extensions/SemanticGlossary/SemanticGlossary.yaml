@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/SemanticGlossary/SemanticGlossary.csv
 
 timespan:
-    end: 2013/2/8
+    end: 2013/2/9
     start: 2012/5/25
     step: 1d
 
