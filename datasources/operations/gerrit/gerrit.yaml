@@ -5,8 +5,8 @@ format: csv
 url: /data/datafiles/gs/operations/gerrit/gerrit.csv
 
 timespan:
-    end: 2013/2/10
-    start: 2013/2/9
+    end: 2013/2/11
+    start: 2013/2/10
     step: 1d
 
 columns:

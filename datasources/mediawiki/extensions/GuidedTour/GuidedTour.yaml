@@ -5,7 +5,7 @@ format: csv
 url: /data/datafiles/gs/mediawiki/extensions/GuidedTour/GuidedTour.csv
 
 timespan:
-    end: 2013/2/10
+    end: 2013/2/11
     start: 2012/11/25
     step: 1d
 

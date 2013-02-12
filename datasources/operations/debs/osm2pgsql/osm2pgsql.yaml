@@ -1,0 +1,35 @@
+id: operations_debs_osm2pgsql_osm2pgsql
+name: Codereview stats for operations/debs/osm2pgsql repo
+shortName: operations/debs/osm2pgsql
+format: csv
+url: /data/datafiles/gs/operations/debs/osm2pgsql/osm2pgsql.csv
+
+timespan:
+    end: 2013/2/11
+    start: 2013/2/9
+    step: 1d
+
+columns:
+    labels:
+    - date
+    - commits
+    - self_review
+    - waiting_first_review_staff
+    - waiting_first_review_total
+    - waiting_first_review_volunteer
+    - waiting_plus2_staff
+    - waiting_plus2_total
+    - waiting_plus2_volunteer
+    types:
+    - date
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+    - int
+
+chart:
+    chartType: dygraphs
